@@ -1,0 +1,119 @@
+{
+ "name": "com.google.firebase.analytics",
+ "versions": {
+  "13.17.0": {
+   "name": "com.google.firebase.analytics",
+   "version": "13.17.0",
+   "displayName": "Google Analytics",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Analytics",
+    "vh-name:FirebaseAnalytics",
+    "vh-name:Google Analytics"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/analytics/unity/start"
+   },
+   "description": "Get free and unlimited game and player analytics\n\nGoogle Analytics helps you understand and engage your players by revealing what actions they're taking inside your game, where they spend the most time, and why they churn. From acquisition to app usage, Google Analytics will give you insights to make better decisions about your game. You can even combine your analytics data with Google Ads to make sure you're running campaigns that deliver you high-quality players.",
+   "unity": "2020.1",
+   "dependencies": {
+    "com.google.firebase.app": "13.17.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-13.17.0/com.google.firebase.analytics-13.17.0.tgz",
+    "shasum": "a67502e0f5c18f81905ddd8bcadc02fb0b1ba7a6",
+    "integrity": "sha512-06dSctuoLiEg818asa7TTBh9XUspA9V5lYm6wrIaXduGJ7hRvAVuG7LLEcNX4l6o7YkgJyfcicQF7X2uy+CGfw=="
+   }
+  },
+  "13.17.1": {
+   "name": "com.google.firebase.analytics",
+   "version": "13.17.1",
+   "displayName": "Google Analytics",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Analytics",
+    "vh-name:FirebaseAnalytics",
+    "vh-name:Google Analytics"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/analytics/unity/start"
+   },
+   "description": "Get free and unlimited game and player analytics\n\nGoogle Analytics helps you understand and engage your players by revealing what actions they're taking inside your game, where they spend the most time, and why they churn. From acquisition to app usage, Google Analytics will give you insights to make better decisions about your game. You can even combine your analytics data with Google Ads to make sure you're running campaigns that deliver you high-quality players.",
+   "unity": "2020.1",
+   "dependencies": {
+    "com.google.firebase.app": "13.17.1"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-13.17.1/com.google.firebase.analytics-13.17.1.tgz",
+    "shasum": "5c0254a4fc31f79b57a4497774419c91c746f205",
+    "integrity": "sha512-PslXWq07Wmz59T448/bzD5AqWrKow5o839KLC6RlDc5cITbInC7DgPz6slv/fGbft3Slrk9wUn+uMmFHIQapiw=="
+   }
+  },
+  "14.0.0": {
+   "name": "com.google.firebase.analytics",
+   "version": "14.0.0",
+   "displayName": "Google Analytics",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Analytics",
+    "vh-name:FirebaseAnalytics",
+    "vh-name:Google Analytics"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/analytics/unity/start"
+   },
+   "description": "Get free and unlimited game and player analytics\n\nGoogle Analytics helps you understand and engage your players by revealing what actions they're taking inside your game, where they spend the most time, and why they churn. From acquisition to app usage, Google Analytics will give you insights to make better decisions about your game. You can even combine your analytics data with Google Ads to make sure you're running campaigns that deliver you high-quality players.",
+   "unity": "2022.1",
+   "dependencies": {
+    "com.google.firebase.app": "14.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.0.0/com.google.firebase.analytics-14.0.0.tgz",
+    "shasum": "18c7db2adbce68ac2337f56264e0168549d171bf",
+    "integrity": "sha512-QqHHSjNX2Dh7nhsXSRSYYt9KBWGnMfjZ9WLLNeqyRagZk9HSIRPvf3T34Cm6ROWgsjEW9op675AZZ1L0CXFCUA=="
+   }
+  },
+  "14.1.0": {
+   "name": "com.google.firebase.analytics",
+   "version": "14.1.0",
+   "displayName": "Google Analytics",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Analytics",
+    "vh-name:FirebaseAnalytics",
+    "vh-name:Google Analytics"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/analytics/unity/start"
+   },
+   "description": "Get free and unlimited game and player analytics\n\nGoogle Analytics helps you understand and engage your players by revealing what actions they're taking inside your game, where they spend the most time, and why they churn. From acquisition to app usage, Google Analytics will give you insights to make better decisions about your game. You can even combine your analytics data with Google Ads to make sure you're running campaigns that deliver you high-quality players.",
+   "unity": "2022.1",
+   "dependencies": {
+    "com.google.firebase.app": "14.1.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.1.0/com.google.firebase.analytics-14.1.0.tgz",
+    "shasum": "2f7210284710eb7247ed61dccc8c34a1fc1e9d1a",
+    "integrity": "sha512-v6xFZ98qALQySZOmaHsw1qNmVv3pVXh5Y2Kw7qoFuEKAELJIR2J2O3pjfobssKtnxUwZ1r5k80gZq5pPmsCxXQ=="
+   }
+  }
+ },
+ "time": {
+  "13.17.0": "2026-11-10T10:25:51.000Z",
+  "modified": "2026-11-10T10:27:25.000Z",
+  "13.17.1": "2026-11-10T10:26:21.000Z",
+  "14.0.0": "2026-11-10T10:26:54.000Z",
+  "14.1.0": "2026-11-10T10:27:25.000Z"
+ },
+ "dist-tags": {
+  "latest": "14.1.0"
+ }
+}

@@ -1,0 +1,117 @@
+{
+ "objects": [
+  {
+   "package": {
+    "name": "appsflyer-unity-plugin",
+    "version": "7.0.41",
+    "date": "2026-11-10T10:27:49.000Z",
+    "description": "AppsFlyer Unity plugin"
+   }
+  },
+  {
+   "package": {
+    "name": "com.google.firebase.analytics",
+    "version": "14.1.0",
+    "date": "2026-11-10T10:27:25.000Z",
+    "description": "Get free and unlimited game and player analytics\n\nGoogle Analytics helps you understand and engage your players by revealing what actions they're taking inside your game, where they spend the most time, and why they churn. From acquisition to app usage, Google Analytics will give you insights to make better decisions about your game. You can even combine your analytics data with Google Ads to make sure you're running campaigns that deliver you high-quality players."
+   }
+  },
+  {
+   "package": {
+    "name": "com.google.firebase.app",
+    "version": "14.1.0",
+    "date": "2026-11-10T10:27:23.000Z",
+    "description": "Firebase App is the core library every Firebase package depends on."
+   }
+  },
+  {
+   "package": {
+    "name": "com.google.firebase.app-check",
+    "version": "14.1.0",
+    "date": "2026-11-10T10:27:27.000Z",
+    "description": "App Check helps protect your API resources from abuse by preventing unauthorized clients from accessing your backend resources. It works with both Firebase services, Google Cloud services, and your own APIs to keep your resources safe."
+   }
+  },
+  {
+   "package": {
+    "name": "com.google.firebase.auth",
+    "version": "14.1.0",
+    "date": "2026-11-10T10:27:29.000Z",
+    "description": "Easily sign-in and authenticate players.\n\nSign-in players using any identity provider with Firebase Authentication. It supports email and password, phone authentication, Facebook, Google, Twitter, and more. Out-of-the-box, you get a secure, end-to-end identity solution."
+   }
+  },
+  {
+   "package": {
+    "name": "com.google.firebase.crashlytics",
+    "version": "14.1.0",
+    "date": "2026-11-10T10:27:31.000Z",
+    "description": "Prioritize and fix stability issues faster.\n\nFirebase Crashlytics helps you track, prioritize, and fix stability issues that erode game quality, in realtime. Spend less time triaging and troubleshooting crashes and more time building game content and features that delight players.\n\nCrashlytics also sends realtime alerts for new issues, regressed issues, and burgeoning issues that might require immediate attention to ensure you never miss a critical crash no matter where you are."
+   }
+  },
+  {
+   "package": {
+    "name": "com.google.firebase.database",
+    "version": "14.1.0",
+    "date": "2026-11-10T10:27:33.000Z",
+    "description": "Store and sync data in near-realtime.\n\nRealtime Database is a cloud-hosted NoSQL database that lets you store and sync JSON data in near-realtime. It's optimized for very rapid syncing of small amounts of data.\n\nWhen your players go offline, the Realtime Database SDKs use local cache on the device to serve and store changes. When the device comes online, the local data is automatically synchronized so people can keep playing your game from where they left off."
+   }
+  },
+  {
+   "package": {
+    "name": "com.google.firebase.firebaseai",
+    "version": "14.1.0",
+    "date": "2026-11-10T10:27:35.000Z",
+    "description": "Build AI-powered mobile and web apps and features with the Gemini API using Firebase AI."
+   }
+  },
+  {
+   "package": {
+    "name": "com.google.firebase.firestore",
+    "version": "14.1.0",
+    "date": "2026-11-10T10:27:38.000Z",
+    "description": "Store and sync game data at global scale.\n\nCloud Firestore is a flexible NoSQL document database that lets you easily store, sync, and query data for your games - at global scale.\n\nFirestore supports a million players connected simultaneously with a guaranteed uptime of 5 nines for multi-region instances. That's less than 5 minutes of downtime a year!\n\nWith Cloud Firestore, your players can access and make changes to their data at any time, even when they're offline."
+   }
+  },
+  {
+   "package": {
+    "name": "com.google.firebase.functions",
+    "version": "14.1.0",
+    "date": "2026-11-10T10:27:39.000Z",
+    "description": "Run your mobile backend code without managing servers.\n\nWith Cloud Functions, you can write and deploy code to our servers that automatically responds (i.e. executes) to events in your game.\n\nThis way, your game logic is fully insulated from the client so you can be sure its functions are private and can't be reverse engineered. Cloud Functions also automatically scales up computing resources to match the usage patterns of your game."
+   }
+  },
+  {
+   "package": {
+    "name": "com.google.firebase.installations",
+    "version": "14.1.0",
+    "date": "2026-11-10T10:27:41.000Z",
+    "description": "The Firebase installations service (FIS) provides a Firebase installation ID (FID) for each installed instance of a Firebase app. The Firebase installation ID is used internally by Firebase services such as In-App Messaging or Remote Config without requiring developers to interact directly with the FIS API. Using this API, a developer can delete a Firebase installation and the data tied to it, target specific app installations, and retrieve installation auth tokens."
+   }
+  },
+  {
+   "package": {
+    "name": "com.google.firebase.messaging",
+    "version": "14.1.0",
+    "date": "2026-11-10T10:27:43.000Z",
+    "description": "Send targeted messages and notifications.\n\nCloud Messaging gives you a reliable and battery-efficient way to send messages and notifications across platforms. You can target your messages to certain segments of players and customize them to suit your game's brand. You can also gauge their effectiveness with statistics like click rate, open rate, and the downstream effect on conversions."
+   }
+  },
+  {
+   "package": {
+    "name": "com.google.firebase.remote-config",
+    "version": "14.1.0",
+    "date": "2026-11-10T10:27:44.000Z",
+    "description": "Customize your game on the fly.\n\nRemote Config lets you dynamically change the behavior and appearance of your game right from the Firebase console so you can deliver personalized experiences to players - without waiting for app store approval."
+   }
+  },
+  {
+   "package": {
+    "name": "com.google.firebase.storage",
+    "version": "14.1.0",
+    "date": "2026-11-10T10:27:46.000Z",
+    "description": "Store and serve game content with ease.\n\nWith Cloud Storage, you can easily store and serve large binary objects, such as screenshots, replays, or game assets, and effortlessly grow from prototype to production.\n\nThrough an integration with Firebase Authentication, you can use our declarative security model to control access and keep data safe."
+   }
+  }
+ ],
+ "total": 14
+}

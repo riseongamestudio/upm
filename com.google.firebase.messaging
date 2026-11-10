@@ -1,0 +1,123 @@
+{
+ "name": "com.google.firebase.messaging",
+ "versions": {
+  "13.17.0": {
+   "name": "com.google.firebase.messaging",
+   "version": "13.17.0",
+   "displayName": "Firebase Cloud Messaging",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Cloud Messaging",
+    "Messaging",
+    "vh-name:FirebaseMessaging",
+    "vh-name:Firebase Cloud Messaging"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/cloud-messaging/unity/client"
+   },
+   "description": "Send targeted messages and notifications.\n\nCloud Messaging gives you a reliable and battery-efficient way to send messages and notifications across platforms. You can target your messages to certain segments of players and customize them to suit your game's brand. You can also gauge their effectiveness with statistics like click rate, open rate, and the downstream effect on conversions.",
+   "unity": "2020.1",
+   "dependencies": {
+    "com.google.firebase.app": "13.17.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-13.17.0/com.google.firebase.messaging-13.17.0.tgz",
+    "shasum": "8bdbee4789807cbdc4406d64a58a81b045cdd54c",
+    "integrity": "sha512-2d5iS0QwgAOWFtGOUfFRqNxovLBLcLxuzifCbNax3CpdsVORX5EQ0eZR7Obfyi8G4rwi5s+98oPMNPbgkWWDzw=="
+   }
+  },
+  "13.17.1": {
+   "name": "com.google.firebase.messaging",
+   "version": "13.17.1",
+   "displayName": "Firebase Cloud Messaging",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Cloud Messaging",
+    "Messaging",
+    "vh-name:FirebaseMessaging",
+    "vh-name:Firebase Cloud Messaging"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/cloud-messaging/unity/client"
+   },
+   "description": "Send targeted messages and notifications.\n\nCloud Messaging gives you a reliable and battery-efficient way to send messages and notifications across platforms. You can target your messages to certain segments of players and customize them to suit your game's brand. You can also gauge their effectiveness with statistics like click rate, open rate, and the downstream effect on conversions.",
+   "unity": "2020.1",
+   "dependencies": {
+    "com.google.firebase.app": "13.17.1"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-13.17.1/com.google.firebase.messaging-13.17.1.tgz",
+    "shasum": "7e0eba3ace9bdef4844960a2ce3c8f6fda0847a9",
+    "integrity": "sha512-EsmkAj1wtfhZKC2KXsSiZm1czJ9fMeTZ+pqfddlRPlY4A96xjEBWrZpx/8mRheGF+OrqcrlT1JqWamhE7b/OuQ=="
+   }
+  },
+  "14.0.0": {
+   "name": "com.google.firebase.messaging",
+   "version": "14.0.0",
+   "displayName": "Firebase Cloud Messaging",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Cloud Messaging",
+    "Messaging",
+    "vh-name:FirebaseMessaging",
+    "vh-name:Firebase Cloud Messaging"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/cloud-messaging/unity/client"
+   },
+   "description": "Send targeted messages and notifications.\n\nCloud Messaging gives you a reliable and battery-efficient way to send messages and notifications across platforms. You can target your messages to certain segments of players and customize them to suit your game's brand. You can also gauge their effectiveness with statistics like click rate, open rate, and the downstream effect on conversions.",
+   "unity": "2022.1",
+   "dependencies": {
+    "com.google.firebase.app": "14.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.0.0/com.google.firebase.messaging-14.0.0.tgz",
+    "shasum": "5421aadb5e845ec2e2dbf91271b96535c3954d0f",
+    "integrity": "sha512-nnsuj5Y2KNkemOavUnbVWlNP4k5NTGqzmDdzNwj/9y/ogzs5JNE8a9ex1zvN7ulAFpITrituNkUlhXga/3paTw=="
+   }
+  },
+  "14.1.0": {
+   "name": "com.google.firebase.messaging",
+   "version": "14.1.0",
+   "displayName": "Firebase Cloud Messaging",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Cloud Messaging",
+    "Messaging",
+    "vh-name:FirebaseMessaging",
+    "vh-name:Firebase Cloud Messaging"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/cloud-messaging/unity/client"
+   },
+   "description": "Send targeted messages and notifications.\n\nCloud Messaging gives you a reliable and battery-efficient way to send messages and notifications across platforms. You can target your messages to certain segments of players and customize them to suit your game's brand. You can also gauge their effectiveness with statistics like click rate, open rate, and the downstream effect on conversions.",
+   "unity": "2022.1",
+   "dependencies": {
+    "com.google.firebase.app": "14.1.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.1.0/com.google.firebase.messaging-14.1.0.tgz",
+    "shasum": "c61f61f68270fb428a552988c71451e1e6070c87",
+    "integrity": "sha512-EySeruY0GItcD0aUGCZkHi/hpLMD0u+29WtWQXdZvAdP0jhln9Add4crVQScULXGRDtQk1H6zajcK+nM6o54ew=="
+   }
+  }
+ },
+ "time": {
+  "13.17.0": "2026-11-10T10:26:09.000Z",
+  "modified": "2026-11-10T10:27:43.000Z",
+  "13.17.1": "2026-11-10T10:26:40.000Z",
+  "14.0.0": "2026-11-10T10:27:12.000Z",
+  "14.1.0": "2026-11-10T10:27:43.000Z"
+ },
+ "dist-tags": {
+  "latest": "14.1.0"
+ }
+}

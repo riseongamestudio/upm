@@ -1,0 +1,123 @@
+{
+ "name": "com.google.firebase.functions",
+ "versions": {
+  "13.17.0": {
+   "name": "com.google.firebase.functions",
+   "version": "13.17.0",
+   "displayName": "Cloud Functions for Firebase",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Functions",
+    "Cloud",
+    "vh-name:FirebaseFunctions",
+    "vh-name:Cloud Functions for Firebase"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/functions"
+   },
+   "description": "Run your mobile backend code without managing servers.\n\nWith Cloud Functions, you can write and deploy code to our servers that automatically responds (i.e. executes) to events in your game.\n\nThis way, your game logic is fully insulated from the client so you can be sure its functions are private and can't be reverse engineered. Cloud Functions also automatically scales up computing resources to match the usage patterns of your game.",
+   "unity": "2020.1",
+   "dependencies": {
+    "com.google.firebase.app": "13.17.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-13.17.0/com.google.firebase.functions-13.17.0.tgz",
+    "shasum": "6837a42990ccfad7b9d4f3b10487ff8f50cf1f44",
+    "integrity": "sha512-OV3ODkBNR4mrfO82x6b6ZIpsF6MGKLWu350cp2PDNS1F0VOVqlKPaxdlUnULlhmd059iwpXfMx799PRF5koYyQ=="
+   }
+  },
+  "13.17.1": {
+   "name": "com.google.firebase.functions",
+   "version": "13.17.1",
+   "displayName": "Cloud Functions for Firebase",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Functions",
+    "Cloud",
+    "vh-name:FirebaseFunctions",
+    "vh-name:Cloud Functions for Firebase"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/functions"
+   },
+   "description": "Run your mobile backend code without managing servers.\n\nWith Cloud Functions, you can write and deploy code to our servers that automatically responds (i.e. executes) to events in your game.\n\nThis way, your game logic is fully insulated from the client so you can be sure its functions are private and can't be reverse engineered. Cloud Functions also automatically scales up computing resources to match the usage patterns of your game.",
+   "unity": "2020.1",
+   "dependencies": {
+    "com.google.firebase.app": "13.17.1"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-13.17.1/com.google.firebase.functions-13.17.1.tgz",
+    "shasum": "95a9cef6023b04b90e4ee36625a7ef78cb1fb5e2",
+    "integrity": "sha512-xc4J9IgDZxhpQkcfGQAyBRYquKTNts4K/YS/SxMWX7LkAlJpCDnQhsQjmZzWy/SmFVvOatD+sMqeMGO9lmTBng=="
+   }
+  },
+  "14.0.0": {
+   "name": "com.google.firebase.functions",
+   "version": "14.0.0",
+   "displayName": "Cloud Functions for Firebase",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Functions",
+    "Cloud",
+    "vh-name:FirebaseFunctions",
+    "vh-name:Cloud Functions for Firebase"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/functions"
+   },
+   "description": "Run your mobile backend code without managing servers.\n\nWith Cloud Functions, you can write and deploy code to our servers that automatically responds (i.e. executes) to events in your game.\n\nThis way, your game logic is fully insulated from the client so you can be sure its functions are private and can't be reverse engineered. Cloud Functions also automatically scales up computing resources to match the usage patterns of your game.",
+   "unity": "2022.1",
+   "dependencies": {
+    "com.google.firebase.app": "14.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.0.0/com.google.firebase.functions-14.0.0.tgz",
+    "shasum": "71f857f57c5f991e9064efb9f696390653dfd446",
+    "integrity": "sha512-fUL4qHuVp8J1EbFlfSRLti6ramMfeNedUWAdcjB7r/k9qAyZVQTbXKFGV1GOaCDwDt7JS9JcAIvm03gHJr4PTg=="
+   }
+  },
+  "14.1.0": {
+   "name": "com.google.firebase.functions",
+   "version": "14.1.0",
+   "displayName": "Cloud Functions for Firebase",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Functions",
+    "Cloud",
+    "vh-name:FirebaseFunctions",
+    "vh-name:Cloud Functions for Firebase"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/functions"
+   },
+   "description": "Run your mobile backend code without managing servers.\n\nWith Cloud Functions, you can write and deploy code to our servers that automatically responds (i.e. executes) to events in your game.\n\nThis way, your game logic is fully insulated from the client so you can be sure its functions are private and can't be reverse engineered. Cloud Functions also automatically scales up computing resources to match the usage patterns of your game.",
+   "unity": "2022.1",
+   "dependencies": {
+    "com.google.firebase.app": "14.1.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.1.0/com.google.firebase.functions-14.1.0.tgz",
+    "shasum": "919b502a050b3b77e38b0de1da3b21bc84f78142",
+    "integrity": "sha512-lPHu2ueO9PolbKZNvmoqOxVoaw3EccusT85aEeXaM9OsfMHKGs3xPYdjzVnsZnPVmM4xD6Q3trpnUYU2gYdmaA=="
+   }
+  }
+ },
+ "time": {
+  "13.17.0": "2026-11-10T10:26:05.000Z",
+  "modified": "2026-11-10T10:27:39.000Z",
+  "13.17.1": "2026-11-10T10:26:36.000Z",
+  "14.0.0": "2026-11-10T10:27:08.000Z",
+  "14.1.0": "2026-11-10T10:27:39.000Z"
+ },
+ "dist-tags": {
+  "latest": "14.1.0"
+ }
+}

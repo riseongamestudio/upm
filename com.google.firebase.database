@@ -1,0 +1,123 @@
+{
+ "name": "com.google.firebase.database",
+ "versions": {
+  "13.17.0": {
+   "name": "com.google.firebase.database",
+   "version": "13.17.0",
+   "displayName": "Firebase Realtime Database",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Database",
+    "Realtime",
+    "vh-name:FirebaseDatabase",
+    "vh-name:Firebase Realtime Database"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/database/unity/start"
+   },
+   "description": "Store and sync data in near-realtime.\n\nRealtime Database is a cloud-hosted NoSQL database that lets you store and sync JSON data in near-realtime. It's optimized for very rapid syncing of small amounts of data.\n\nWhen your players go offline, the Realtime Database SDKs use local cache on the device to serve and store changes. When the device comes online, the local data is automatically synchronized so people can keep playing your game from where they left off.",
+   "unity": "2020.1",
+   "dependencies": {
+    "com.google.firebase.auth": "13.17.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-13.17.0/com.google.firebase.database-13.17.0.tgz",
+    "shasum": "8c52aac00dd71602e740e6ed3d9ed65b5cc0dc79",
+    "integrity": "sha512-HvtBpcPKXlfRvvjL50HH1bQFSm9TNLxvRDToVh+MLcbrYW2aZUISGIpX70i8wSmO7U5G5GIM1Cox8e93z2MhFA=="
+   }
+  },
+  "13.17.1": {
+   "name": "com.google.firebase.database",
+   "version": "13.17.1",
+   "displayName": "Firebase Realtime Database",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Database",
+    "Realtime",
+    "vh-name:FirebaseDatabase",
+    "vh-name:Firebase Realtime Database"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/database/unity/start"
+   },
+   "description": "Store and sync data in near-realtime.\n\nRealtime Database is a cloud-hosted NoSQL database that lets you store and sync JSON data in near-realtime. It's optimized for very rapid syncing of small amounts of data.\n\nWhen your players go offline, the Realtime Database SDKs use local cache on the device to serve and store changes. When the device comes online, the local data is automatically synchronized so people can keep playing your game from where they left off.",
+   "unity": "2020.1",
+   "dependencies": {
+    "com.google.firebase.auth": "13.17.1"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-13.17.1/com.google.firebase.database-13.17.1.tgz",
+    "shasum": "4c1a1cc9805f96afa8d0b5f1f340a03f9916abe7",
+    "integrity": "sha512-ieN9AKYWphljSpei++cJwkwnwnd8pekwaxsJEi7Ha1QHPE/8uUPptmjfULyeOQtrFUhP5f2Tlg+8Kr9QXAnUyQ=="
+   }
+  },
+  "14.0.0": {
+   "name": "com.google.firebase.database",
+   "version": "14.0.0",
+   "displayName": "Firebase Realtime Database",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Database",
+    "Realtime",
+    "vh-name:FirebaseDatabase",
+    "vh-name:Firebase Realtime Database"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/database/unity/start"
+   },
+   "description": "Store and sync data in near-realtime.\n\nRealtime Database is a cloud-hosted NoSQL database that lets you store and sync JSON data in near-realtime. It's optimized for very rapid syncing of small amounts of data.\n\nWhen your players go offline, the Realtime Database SDKs use local cache on the device to serve and store changes. When the device comes online, the local data is automatically synchronized so people can keep playing your game from where they left off.",
+   "unity": "2022.1",
+   "dependencies": {
+    "com.google.firebase.auth": "14.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.0.0/com.google.firebase.database-14.0.0.tgz",
+    "shasum": "acba7ad921d649bf2ad83b70f228a2b5567849b9",
+    "integrity": "sha512-MWI/N/cqDvENWtNWGgHULf46579JsJS5Rk2C6/rLJtsVlt2F2lQl1brCQ8igqo0P23SDsDySYCPRtX/OLekJtg=="
+   }
+  },
+  "14.1.0": {
+   "name": "com.google.firebase.database",
+   "version": "14.1.0",
+   "displayName": "Firebase Realtime Database",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Database",
+    "Realtime",
+    "vh-name:FirebaseDatabase",
+    "vh-name:Firebase Realtime Database"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/database/unity/start"
+   },
+   "description": "Store and sync data in near-realtime.\n\nRealtime Database is a cloud-hosted NoSQL database that lets you store and sync JSON data in near-realtime. It's optimized for very rapid syncing of small amounts of data.\n\nWhen your players go offline, the Realtime Database SDKs use local cache on the device to serve and store changes. When the device comes online, the local data is automatically synchronized so people can keep playing your game from where they left off.",
+   "unity": "2022.1",
+   "dependencies": {
+    "com.google.firebase.auth": "14.1.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.1.0/com.google.firebase.database-14.1.0.tgz",
+    "shasum": "7be5c2e2ddd6589e876d6ae62db7bdb270bb28cf",
+    "integrity": "sha512-Bg8Zlj4dVnmwsz9lGGGWyn7soNJsbA1fdeHZp+v/kEMMhu57PUF5/5iYl28jbqKEtTxZ0BO/AoudH2GZtvg9bw=="
+   }
+  }
+ },
+ "time": {
+  "13.17.0": "2026-11-10T10:25:59.000Z",
+  "modified": "2026-11-10T10:27:33.000Z",
+  "13.17.1": "2026-11-10T10:26:29.000Z",
+  "14.0.0": "2026-11-10T10:27:02.000Z",
+  "14.1.0": "2026-11-10T10:27:33.000Z"
+ },
+ "dist-tags": {
+  "latest": "14.1.0"
+ }
+}

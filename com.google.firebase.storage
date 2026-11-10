@@ -1,0 +1,123 @@
+{
+ "name": "com.google.firebase.storage",
+ "versions": {
+  "13.17.0": {
+   "name": "com.google.firebase.storage",
+   "version": "13.17.0",
+   "displayName": "Cloud Storage for Firebase",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Storage",
+    "Cloud",
+    "vh-name:FirebaseStorage",
+    "vh-name:Cloud Storage for Firebase"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/storage/unity/start"
+   },
+   "description": "Store and serve game content with ease.\n\nWith Cloud Storage, you can easily store and serve large binary objects, such as screenshots, replays, or game assets, and effortlessly grow from prototype to production.\n\nThrough an integration with Firebase Authentication, you can use our declarative security model to control access and keep data safe.",
+   "unity": "2020.1",
+   "dependencies": {
+    "com.google.firebase.auth": "13.17.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-13.17.0/com.google.firebase.storage-13.17.0.tgz",
+    "shasum": "425a38bb5ee3bedd607143ece8cfc45a1e2105c1",
+    "integrity": "sha512-LkMYkjm+eDWbTYylO8FcpN4poFK+NUMJjJT7GkmkWcRM69bOOobhHhVrqvubVisNilje2xA7/AOQ9d6FAx0iDA=="
+   }
+  },
+  "13.17.1": {
+   "name": "com.google.firebase.storage",
+   "version": "13.17.1",
+   "displayName": "Cloud Storage for Firebase",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Storage",
+    "Cloud",
+    "vh-name:FirebaseStorage",
+    "vh-name:Cloud Storage for Firebase"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/storage/unity/start"
+   },
+   "description": "Store and serve game content with ease.\n\nWith Cloud Storage, you can easily store and serve large binary objects, such as screenshots, replays, or game assets, and effortlessly grow from prototype to production.\n\nThrough an integration with Firebase Authentication, you can use our declarative security model to control access and keep data safe.",
+   "unity": "2020.1",
+   "dependencies": {
+    "com.google.firebase.auth": "13.17.1"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-13.17.1/com.google.firebase.storage-13.17.1.tgz",
+    "shasum": "65665d772b0bda7f87ea7f6ba12c2557b6b66d8c",
+    "integrity": "sha512-2bkrxavKT1xX9DaOWFe8pAofO46xQFQS5kLLMzrAEAoxac6FKjTV3nFJoDYrjzcvHs+u9MTHlHkFBva5El1Gzw=="
+   }
+  },
+  "14.0.0": {
+   "name": "com.google.firebase.storage",
+   "version": "14.0.0",
+   "displayName": "Cloud Storage for Firebase",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Storage",
+    "Cloud",
+    "vh-name:FirebaseStorage",
+    "vh-name:Cloud Storage for Firebase"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/storage/unity/start"
+   },
+   "description": "Store and serve game content with ease.\n\nWith Cloud Storage, you can easily store and serve large binary objects, such as screenshots, replays, or game assets, and effortlessly grow from prototype to production.\n\nThrough an integration with Firebase Authentication, you can use our declarative security model to control access and keep data safe.",
+   "unity": "2022.1",
+   "dependencies": {
+    "com.google.firebase.auth": "14.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.0.0/com.google.firebase.storage-14.0.0.tgz",
+    "shasum": "2cda02fa7d154fb9376c5e0ae364ef406ec01f35",
+    "integrity": "sha512-Hg3feVTKMRxoozxrfMzlwuOkN/mrCO6ex1arjcCgCZwwOszQRLeIa1I3Oq0GMqpDmtF+JYsrgF9jLW5sGbPj+g=="
+   }
+  },
+  "14.1.0": {
+   "name": "com.google.firebase.storage",
+   "version": "14.1.0",
+   "displayName": "Cloud Storage for Firebase",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Storage",
+    "Cloud",
+    "vh-name:FirebaseStorage",
+    "vh-name:Cloud Storage for Firebase"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/storage/unity/start"
+   },
+   "description": "Store and serve game content with ease.\n\nWith Cloud Storage, you can easily store and serve large binary objects, such as screenshots, replays, or game assets, and effortlessly grow from prototype to production.\n\nThrough an integration with Firebase Authentication, you can use our declarative security model to control access and keep data safe.",
+   "unity": "2022.1",
+   "dependencies": {
+    "com.google.firebase.auth": "14.1.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.1.0/com.google.firebase.storage-14.1.0.tgz",
+    "shasum": "c06e80b7fd2588299686c9ea22d752f8d02c1af0",
+    "integrity": "sha512-Ho3cpTpWA1QtKRNFO42bAhIykgYVR+SZaC5lFIb1wYroJU50dA4KmtvuR4Snme0Bhyr1Osj7+V2zp7QlJQuo0g=="
+   }
+  }
+ },
+ "time": {
+  "13.17.0": "2026-11-10T10:26:13.000Z",
+  "modified": "2026-11-10T10:27:46.000Z",
+  "13.17.1": "2026-11-10T10:26:45.000Z",
+  "14.0.0": "2026-11-10T10:27:16.000Z",
+  "14.1.0": "2026-11-10T10:27:46.000Z"
+ },
+ "dist-tags": {
+  "latest": "14.1.0"
+ }
+}

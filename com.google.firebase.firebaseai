@@ -1,0 +1,123 @@
+{
+ "name": "com.google.firebase.firebaseai",
+ "versions": {
+  "13.17.0": {
+   "name": "com.google.firebase.firebaseai",
+   "version": "13.17.0",
+   "displayName": "Firebase AI",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Firebase AI",
+    "Vertex AI",
+    "vh-name:FirebaseAI",
+    "vh-name:Firebase AI"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/vertex-ai"
+   },
+   "description": "Build AI-powered mobile and web apps and features with the Gemini API using Firebase AI.",
+   "unity": "2020.1",
+   "dependencies": {
+    "com.google.firebase.app": "13.17.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-13.17.0/com.google.firebase.firebaseai-13.17.0.tgz",
+    "shasum": "742541585153c5894ec49ec6afbba3dd5c8c5ece",
+    "integrity": "sha512-BtueDB+at2BD9kW8wqqt/K1mKd4gCtp7CvqezHfAo0kVgWiH2apNkVsxZDEchCYZhE/v3JbJV5PNFASh4+yyZg=="
+   }
+  },
+  "13.17.1": {
+   "name": "com.google.firebase.firebaseai",
+   "version": "13.17.1",
+   "displayName": "Firebase AI",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Firebase AI",
+    "Vertex AI",
+    "vh-name:FirebaseAI",
+    "vh-name:Firebase AI"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/vertex-ai"
+   },
+   "description": "Build AI-powered mobile and web apps and features with the Gemini API using Firebase AI.",
+   "unity": "2020.1",
+   "dependencies": {
+    "com.google.firebase.app": "13.17.1"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-13.17.1/com.google.firebase.firebaseai-13.17.1.tgz",
+    "shasum": "4b90dbb7cfe2ab917a20f02f0cf111383128c34c",
+    "integrity": "sha512-5g/sa0Lj7nJabUcNCKeKPD/CrfRNbmoswxYZ8bAuRqevTmeGhH2ItwACfwKnvsJ/v20RcUJzyB/sIXaaN6Cy8Q=="
+   }
+  },
+  "14.0.0": {
+   "name": "com.google.firebase.firebaseai",
+   "version": "14.0.0",
+   "displayName": "Firebase AI",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Firebase AI",
+    "Vertex AI",
+    "vh-name:FirebaseAI",
+    "vh-name:Firebase AI"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/vertex-ai"
+   },
+   "description": "Build AI-powered mobile and web apps and features with the Gemini API using Firebase AI.",
+   "unity": "2022.1",
+   "dependencies": {
+    "com.google.firebase.app": "14.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.0.0/com.google.firebase.firebaseai-14.0.0.tgz",
+    "shasum": "58290a5957372994fb6f84fe4fe25cf9586c1cef",
+    "integrity": "sha512-XMAFAvKYdL834TGZw/zLtSfrMrJMytm2WmW4R/M5U1rz8Dd36QLw8Xqcj0w05ND+615GsuengPK5KyzQZzbH9g=="
+   }
+  },
+  "14.1.0": {
+   "name": "com.google.firebase.firebaseai",
+   "version": "14.1.0",
+   "displayName": "Firebase AI",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Firebase AI",
+    "Vertex AI",
+    "vh-name:FirebaseAI",
+    "vh-name:Firebase AI"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/vertex-ai"
+   },
+   "description": "Build AI-powered mobile and web apps and features with the Gemini API using Firebase AI.",
+   "unity": "2022.1",
+   "dependencies": {
+    "com.google.firebase.app": "14.1.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.1.0/com.google.firebase.firebaseai-14.1.0.tgz",
+    "shasum": "284a3d9fb30f10c78547bd22ad3480fff8353c16",
+    "integrity": "sha512-A6fZLM2RpBxGnDrEz1dw07R22S3C37IJzsH3qT2sYeAc1eqxWKOEUL6mk3rFJXTAdxvPYVJuAs/SyLbInFPOig=="
+   }
+  }
+ },
+ "time": {
+  "13.17.0": "2026-11-10T10:26:01.000Z",
+  "modified": "2026-11-10T10:27:35.000Z",
+  "13.17.1": "2026-11-10T10:26:31.000Z",
+  "14.0.0": "2026-11-10T10:27:04.000Z",
+  "14.1.0": "2026-11-10T10:27:35.000Z"
+ },
+ "dist-tags": {
+  "latest": "14.1.0"
+ }
+}

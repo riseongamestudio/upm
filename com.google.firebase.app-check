@@ -1,0 +1,119 @@
+{
+ "name": "com.google.firebase.app-check",
+ "versions": {
+  "13.17.0": {
+   "name": "com.google.firebase.app-check",
+   "version": "13.17.0",
+   "displayName": "Firebase App Check",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "App Check",
+    "vh-name:FirebaseAppCheck",
+    "vh-name:Firebase App Check"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/app-check"
+   },
+   "description": "App Check helps protect your API resources from abuse by preventing unauthorized clients from accessing your backend resources. It works with both Firebase services, Google Cloud services, and your own APIs to keep your resources safe.",
+   "unity": "2020.1",
+   "dependencies": {
+    "com.google.firebase.app": "13.17.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-13.17.0/com.google.firebase.app-check-13.17.0.tgz",
+    "shasum": "9f0772262cfb69f54f88be9aeeb2ffe4187ec418",
+    "integrity": "sha512-Z0iFaBMRXwpCW8CJTnK6LA/rK3P9DdRin1iupuumD9QJj+53AlIsW8tQTkUpfKEFbeveTK4RFmaim2HANYX8AQ=="
+   }
+  },
+  "13.17.1": {
+   "name": "com.google.firebase.app-check",
+   "version": "13.17.1",
+   "displayName": "Firebase App Check",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "App Check",
+    "vh-name:FirebaseAppCheck",
+    "vh-name:Firebase App Check"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/app-check"
+   },
+   "description": "App Check helps protect your API resources from abuse by preventing unauthorized clients from accessing your backend resources. It works with both Firebase services, Google Cloud services, and your own APIs to keep your resources safe.",
+   "unity": "2020.1",
+   "dependencies": {
+    "com.google.firebase.app": "13.17.1"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-13.17.1/com.google.firebase.app-check-13.17.1.tgz",
+    "shasum": "d69eb8c69402a370624523279715748b70882236",
+    "integrity": "sha512-k3HYeVVoeMvKKbO4eqtLmGG4o5W8V5q9uV3aIu99Iixpn4WMUbPYvVJ6ZTkP52H1QJLTUJaGB7KHbYXZM4irvQ=="
+   }
+  },
+  "14.0.0": {
+   "name": "com.google.firebase.app-check",
+   "version": "14.0.0",
+   "displayName": "Firebase App Check",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "App Check",
+    "vh-name:FirebaseAppCheck",
+    "vh-name:Firebase App Check"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/app-check"
+   },
+   "description": "App Check helps protect your API resources from abuse by preventing unauthorized clients from accessing your backend resources. It works with both Firebase services, Google Cloud services, and your own APIs to keep your resources safe.",
+   "unity": "2022.1",
+   "dependencies": {
+    "com.google.firebase.app": "14.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.0.0/com.google.firebase.app-check-14.0.0.tgz",
+    "shasum": "a3c7117e54eaf7e8871809a1806f59b01e15e39e",
+    "integrity": "sha512-s2qpcZdqmWcxD+RZFVi8z9Uf2dvg1IhS9mupRYwzVuD4X6wBBjAVYC2isl20E9WGpCR6IMMcVHDISug3ndWNVA=="
+   }
+  },
+  "14.1.0": {
+   "name": "com.google.firebase.app-check",
+   "version": "14.1.0",
+   "displayName": "Firebase App Check",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "App Check",
+    "vh-name:FirebaseAppCheck",
+    "vh-name:Firebase App Check"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/app-check"
+   },
+   "description": "App Check helps protect your API resources from abuse by preventing unauthorized clients from accessing your backend resources. It works with both Firebase services, Google Cloud services, and your own APIs to keep your resources safe.",
+   "unity": "2022.1",
+   "dependencies": {
+    "com.google.firebase.app": "14.1.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.1.0/com.google.firebase.app-check-14.1.0.tgz",
+    "shasum": "68e40b7ec8e6743632f2810d51756ccacc5a187e",
+    "integrity": "sha512-Kdk0YmCAWRrAzdG5PRc8fGSp4gN5h74Mq3jgNyUwJBzqElJlVccFIASa9TP6N/VCCB7mj3UmUYJiq7/yONGq9w=="
+   }
+  }
+ },
+ "time": {
+  "13.17.0": "2026-11-10T10:25:53.000Z",
+  "modified": "2026-11-10T10:27:27.000Z",
+  "13.17.1": "2026-11-10T10:26:22.000Z",
+  "14.0.0": "2026-11-10T10:26:56.000Z",
+  "14.1.0": "2026-11-10T10:27:27.000Z"
+ },
+ "dist-tags": {
+  "latest": "14.1.0"
+ }
+}

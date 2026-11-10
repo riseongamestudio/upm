@@ -1,0 +1,25 @@
+{
+ "name": "appsflyer-unity-plugin",
+ "versions": {
+  "7.0.41": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "7.0.41",
+   "unity": "2023.1",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/appsflyer-7.0.41/appsflyer-unity-plugin-7.0.41.tgz",
+    "shasum": "9d23c1f1e8607e6040691e7c38680956a9a8b1f6",
+    "integrity": "sha512-1kmZ1jPCiLQqq3wGBBUgdcd0ntSbpeHdHGj8QZ9kh1zzFQKTTDaqSGDacSZojmHrNm7Uap3FGJRrQTm/kZCSiw=="
+   }
+  }
+ },
+ "time": {
+  "7.0.41": "2026-11-10T10:27:49.000Z",
+  "modified": "2026-11-10T10:27:49.000Z"
+ },
+ "dist-tags": {
+  "latest": "7.0.41"
+ }
+}

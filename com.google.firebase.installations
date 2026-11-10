@@ -1,0 +1,119 @@
+{
+ "name": "com.google.firebase.installations",
+ "versions": {
+  "13.17.0": {
+   "name": "com.google.firebase.installations",
+   "version": "13.17.0",
+   "displayName": "Firebase Installations",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Installations",
+    "vh-name:FirebaseInstallations",
+    "vh-name:Firebase Installations"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/reference/unity/namespace/firebase/installations"
+   },
+   "description": "The Firebase installations service (FIS) provides a Firebase installation ID (FID) for each installed instance of a Firebase app. The Firebase installation ID is used internally by Firebase services such as In-App Messaging or Remote Config without requiring developers to interact directly with the FIS API. Using this API, a developer can delete a Firebase installation and the data tied to it, target specific app installations, and retrieve installation auth tokens.",
+   "unity": "2020.1",
+   "dependencies": {
+    "com.google.firebase.app": "13.17.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-13.17.0/com.google.firebase.installations-13.17.0.tgz",
+    "shasum": "419f776429d6337abb402d4688b730fe1fa65d10",
+    "integrity": "sha512-UNFwnSRbdBjTHoGARYcCG2TEK1lixqrEdcm67KdL86iJxboTh26mSWhVUo2Esq+zRlNS+i0eo5lKBuK6GuhjjA=="
+   }
+  },
+  "13.17.1": {
+   "name": "com.google.firebase.installations",
+   "version": "13.17.1",
+   "displayName": "Firebase Installations",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Installations",
+    "vh-name:FirebaseInstallations",
+    "vh-name:Firebase Installations"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/reference/unity/namespace/firebase/installations"
+   },
+   "description": "The Firebase installations service (FIS) provides a Firebase installation ID (FID) for each installed instance of a Firebase app. The Firebase installation ID is used internally by Firebase services such as In-App Messaging or Remote Config without requiring developers to interact directly with the FIS API. Using this API, a developer can delete a Firebase installation and the data tied to it, target specific app installations, and retrieve installation auth tokens.",
+   "unity": "2020.1",
+   "dependencies": {
+    "com.google.firebase.app": "13.17.1"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-13.17.1/com.google.firebase.installations-13.17.1.tgz",
+    "shasum": "f4ba8f5c21ec9661d66b928ec51f9e8cc98815bb",
+    "integrity": "sha512-2Xgrk1Q864gi7XMCKhqyMfjSTlYEQYJZtnGwVM2u+ypIO4h1Ymgy0mIuQ6iuzsXGr9B8TXfD1Jb6fgLJRiIBcQ=="
+   }
+  },
+  "14.0.0": {
+   "name": "com.google.firebase.installations",
+   "version": "14.0.0",
+   "displayName": "Firebase Installations",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Installations",
+    "vh-name:FirebaseInstallations",
+    "vh-name:Firebase Installations"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/reference/unity/namespace/firebase/installations"
+   },
+   "description": "The Firebase installations service (FIS) provides a Firebase installation ID (FID) for each installed instance of a Firebase app. The Firebase installation ID is used internally by Firebase services such as In-App Messaging or Remote Config without requiring developers to interact directly with the FIS API. Using this API, a developer can delete a Firebase installation and the data tied to it, target specific app installations, and retrieve installation auth tokens.",
+   "unity": "2022.1",
+   "dependencies": {
+    "com.google.firebase.app": "14.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.0.0/com.google.firebase.installations-14.0.0.tgz",
+    "shasum": "5d288a99e0fa8ff03705cea42a3c676d919d122f",
+    "integrity": "sha512-zTcrLVLF4Bl2ictX8Vf2mU2PUjYjnU4eFZ6Y+vlgXfSkNqdzCMCj+EedLcHFq2doRj6F7jZ9H6/pUuAA8Stxcw=="
+   }
+  },
+  "14.1.0": {
+   "name": "com.google.firebase.installations",
+   "version": "14.1.0",
+   "displayName": "Firebase Installations",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Installations",
+    "vh-name:FirebaseInstallations",
+    "vh-name:Firebase Installations"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/reference/unity/namespace/firebase/installations"
+   },
+   "description": "The Firebase installations service (FIS) provides a Firebase installation ID (FID) for each installed instance of a Firebase app. The Firebase installation ID is used internally by Firebase services such as In-App Messaging or Remote Config without requiring developers to interact directly with the FIS API. Using this API, a developer can delete a Firebase installation and the data tied to it, target specific app installations, and retrieve installation auth tokens.",
+   "unity": "2022.1",
+   "dependencies": {
+    "com.google.firebase.app": "14.1.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.1.0/com.google.firebase.installations-14.1.0.tgz",
+    "shasum": "672949bff7cbebc183aa2de7cb7266355a2e69fd",
+    "integrity": "sha512-Ml8q6aCply/cKYyfXMykeYPF1Cbl9pzlTq1tSahkDyGp+RduSJq90tP4fjEJKObgCOll4pZcFzR0xs/iFi/b9Q=="
+   }
+  }
+ },
+ "time": {
+  "13.17.0": "2026-11-10T10:26:07.000Z",
+  "modified": "2026-11-10T10:27:41.000Z",
+  "13.17.1": "2026-11-10T10:26:38.000Z",
+  "14.0.0": "2026-11-10T10:27:10.000Z",
+  "14.1.0": "2026-11-10T10:27:41.000Z"
+ },
+ "dist-tags": {
+  "latest": "14.1.0"
+ }
+}

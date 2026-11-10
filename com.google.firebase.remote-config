@@ -1,0 +1,127 @@
+{
+ "name": "com.google.firebase.remote-config",
+ "versions": {
+  "13.17.0": {
+   "name": "com.google.firebase.remote-config",
+   "version": "13.17.0",
+   "displayName": "Firebase Remote Config",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Remote",
+    "Config",
+    "Remote Config",
+    "vh-name:FirebaseRemoteConfig",
+    "vh-name:Firebase Remote Config"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/remote-config/use-config-unity"
+   },
+   "description": "Customize your game on the fly.\n\nRemote Config lets you dynamically change the behavior and appearance of your game right from the Firebase console so you can deliver personalized experiences to players - without waiting for app store approval.",
+   "unity": "2020.1",
+   "dependencies": {
+    "com.google.firebase.app": "13.17.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-13.17.0/com.google.firebase.remote-config-13.17.0.tgz",
+    "shasum": "3946246746cb7ddded1ccb4d8ed7c3a6ce7ad403",
+    "integrity": "sha512-0qm4ltF/rhwbX6Jx8/4R4v2CsIlraReAtFJp8eyj+eDeLNa7c2KZxkDJ+74FUS64N7N63/scFfj6O0sxwIktBA=="
+   }
+  },
+  "13.17.1": {
+   "name": "com.google.firebase.remote-config",
+   "version": "13.17.1",
+   "displayName": "Firebase Remote Config",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Remote",
+    "Config",
+    "Remote Config",
+    "vh-name:FirebaseRemoteConfig",
+    "vh-name:Firebase Remote Config"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/remote-config/use-config-unity"
+   },
+   "description": "Customize your game on the fly.\n\nRemote Config lets you dynamically change the behavior and appearance of your game right from the Firebase console so you can deliver personalized experiences to players - without waiting for app store approval.",
+   "unity": "2020.1",
+   "dependencies": {
+    "com.google.firebase.app": "13.17.1"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-13.17.1/com.google.firebase.remote-config-13.17.1.tgz",
+    "shasum": "cdffac4fc46df227a3ce3e1116cec47c8731e3ae",
+    "integrity": "sha512-Ffm/g0xM5SrGEMNCoP7I1E/jnMoFRxR+XHFwAdDQL6EvSthkrAJn0QwiJczxfxv5yPyO7EtLlc4whQeohila9w=="
+   }
+  },
+  "14.0.0": {
+   "name": "com.google.firebase.remote-config",
+   "version": "14.0.0",
+   "displayName": "Firebase Remote Config",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Remote",
+    "Config",
+    "Remote Config",
+    "vh-name:FirebaseRemoteConfig",
+    "vh-name:Firebase Remote Config"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/remote-config/use-config-unity"
+   },
+   "description": "Customize your game on the fly.\n\nRemote Config lets you dynamically change the behavior and appearance of your game right from the Firebase console so you can deliver personalized experiences to players - without waiting for app store approval.",
+   "unity": "2022.1",
+   "dependencies": {
+    "com.google.firebase.app": "14.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.0.0/com.google.firebase.remote-config-14.0.0.tgz",
+    "shasum": "bc10d7d2de527c68dab2dab04217ba636c80b0b6",
+    "integrity": "sha512-iKExC9S1fbz0R+bTt5Ff3SeW6P1XCdFVn28TgUPnB3pD0NNcbD0UA5Bhx55rLM3HJ1tgyFx7/2pyNUPjeeTDWA=="
+   }
+  },
+  "14.1.0": {
+   "name": "com.google.firebase.remote-config",
+   "version": "14.1.0",
+   "displayName": "Firebase Remote Config",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Remote",
+    "Config",
+    "Remote Config",
+    "vh-name:FirebaseRemoteConfig",
+    "vh-name:Firebase Remote Config"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/remote-config/use-config-unity"
+   },
+   "description": "Customize your game on the fly.\n\nRemote Config lets you dynamically change the behavior and appearance of your game right from the Firebase console so you can deliver personalized experiences to players - without waiting for app store approval.",
+   "unity": "2022.1",
+   "dependencies": {
+    "com.google.firebase.app": "14.1.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.1.0/com.google.firebase.remote-config-14.1.0.tgz",
+    "shasum": "c7e17e80fecfd621125d929039ed035d258a0edc",
+    "integrity": "sha512-uyZ+uAMbRHyGa28n6p9rdYG02tqetUgunXu+eL/daXQOh5cI11Um4qG+F83XsVuTcv+UASeJJET7/jFWWme+GA=="
+   }
+  }
+ },
+ "time": {
+  "13.17.0": "2026-11-10T10:26:11.000Z",
+  "modified": "2026-11-10T10:27:44.000Z",
+  "13.17.1": "2026-11-10T10:26:42.000Z",
+  "14.0.0": "2026-11-10T10:27:14.000Z",
+  "14.1.0": "2026-11-10T10:27:44.000Z"
+ },
+ "dist-tags": {
+  "latest": "14.1.0"
+ }
+}
