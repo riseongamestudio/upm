@@ -13,11 +13,39 @@
     "shasum": "9d23c1f1e8607e6040691e7c38680956a9a8b1f6",
     "integrity": "sha512-1kmZ1jPCiLQqq3wGBBUgdcd0ntSbpeHdHGj8QZ9kh1zzFQKTTDaqSGDacSZojmHrNm7Uap3FGJRrQTm/kZCSiw=="
    }
+  },
+  "6.17.900": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.17.900",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/appsflyer-6.17.900/appsflyer-unity-plugin-6.17.900.tgz",
+    "shasum": "7e054d9469381795b418a8adda323f414abc0e0f",
+    "integrity": "sha512-8rXOnL+lmq45QC7v2bbbem5mcfYNhLUIfbP6ABpS+/w2sjktz8kRXQi8K6wF91FGwI33l1h405sVM1iXAqHjmw=="
+   }
+  },
+  "7.0.2": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "7.0.2",
+   "unity": "2023.1",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/appsflyer-7.0.2/appsflyer-unity-plugin-7.0.2.tgz",
+    "shasum": "57fff8ab05b991bdbf7f05091204a10e9e223d86",
+    "integrity": "sha512-0geCQa4rAXuezJaGbl3pixiSmeUHbZOSdxeLXEx1Djanh6yEsRu0Lf+2jsrqZypbUdX421HTzYOg9x1xZDAAnQ=="
+   }
   }
  },
  "time": {
   "7.0.41": "2026-11-10T10:27:49.000Z",
-  "modified": "2026-11-10T10:27:49.000Z"
+  "modified": "2026-11-10T10:37:02.000Z",
+  "6.17.900": "2026-11-10T10:36:59.000Z",
+  "7.0.2": "2026-11-10T10:37:02.000Z"
  },
  "dist-tags": {
   "latest": "7.0.41"
