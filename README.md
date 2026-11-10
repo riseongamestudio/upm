@@ -15,7 +15,7 @@ Thêm registry vào `Packages/manifest.json`, rồi khai báo gói theo version 
 "scopedRegistries": [
   {
     "name": "RiseOn",
-    "url": "https://riseongamestudio.github.io/upm",
+    "url": "https://upm.riseongamestudio.com",
     "scopes": [ "com.google.firebase", "appsflyer-unity-plugin" ]
   }
 ]
