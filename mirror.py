@@ -18,9 +18,14 @@ FIREBASE_PACKAGES = [
 FIREBASE_FROM = (13, 17, 0)
 FIREBASE_TARBALL = "https://dl.google.com/games/registry/unity/com.google.firebase.{0}/com.google.firebase.{0}-{1}.tgz"
 
-# AppsFlyer publishes its UPM package only as the head of its upm branch, so each new version there is mirrored.
+# AppsFlyer publishes its UPM package only as the head of its upm branch, rewritten at each release, so each new
+# version there is mirrored; older versions are kept from the commits RiseOn projects had locked.
 APPSFLYER_REPO = "AppsFlyerSDK/appsflyer-unity-plugin"
-APPSFLYER_BRANCH = "upm"
+APPSFLYER_REFS = [
+    "refs/heads/upm",
+    "d26fcb5d8c7d0f6598764dc687154e967b167761",  # 6.17.900
+    "313c87fbf49d6f2863f54315cc00300032372774",  # 7.0.2
+]
 
 
 def fetch(url, token=False):
@@ -68,23 +73,24 @@ def firebase_tarballs(published):
 
 
 def appsflyer_tarballs(published):
-    raw = f"https://raw.githubusercontent.com/{APPSFLYER_REPO}/{APPSFLYER_BRANCH}/package.json"
-    manifest = json.loads(fetch(raw))
-    if manifest["version"] in published.get(manifest["name"], ()):
-        return
+    for ref in APPSFLYER_REFS:
+        raw = f"https://raw.githubusercontent.com/{APPSFLYER_REPO}/{ref.removeprefix('refs/heads/')}/package.json"
+        manifest = json.loads(fetch(raw))
+        if manifest["version"] in published.get(manifest["name"], ()):
+            continue
 
-    # The branch archive keeps the package under "<repo>-<branch>/"; an npm tarball keeps it under "package/".
-    archive = fetch(f"https://codeload.github.com/{APPSFLYER_REPO}/tar.gz/refs/heads/{APPSFLYER_BRANCH}")
-    out = io.BytesIO()
-    with tarfile.open(fileobj=io.BytesIO(archive)) as source, tarfile.open(fileobj=out, mode="w:gz") as target:
-        for member in source.getmembers():
-            parts = member.name.split("/", 1)
-            if len(parts) < 2 or not parts[1] or member.type == tarfile.XGLTYPE or member.type == tarfile.XHDTYPE:
-                continue
-            content = source.extractfile(member) if member.isfile() else None
-            member.name = "package/" + parts[1]
-            target.addfile(member, content)
-    yield "appsflyer-" + manifest["version"], out.getvalue()
+        # The archive keeps the package under "<repo>-<ref>/"; an npm tarball keeps it under "package/".
+        archive = fetch(f"https://codeload.github.com/{APPSFLYER_REPO}/tar.gz/{ref}")
+        out = io.BytesIO()
+        with tarfile.open(fileobj=io.BytesIO(archive)) as source, tarfile.open(fileobj=out, mode="w:gz") as target:
+            for member in source.getmembers():
+                parts = member.name.split("/", 1)
+                if len(parts) < 2 or not parts[1] or member.type in (tarfile.XGLTYPE, tarfile.XHDTYPE):
+                    continue
+                content = source.extractfile(member) if member.isfile() else None
+                member.name = "package/" + parts[1]
+                target.addfile(member, content)
+        yield "appsflyer-" + manifest["version"], out.getvalue()
 
 
 def read_manifest(data):
