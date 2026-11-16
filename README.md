@@ -1,29 +1,52 @@
 # RiseOn UPM
 
-Registry UPM tĩnh chứa bản mirror các gói Unity của bên thứ ba. Tên và nội dung gói giữ nguyên như bên phát hành đưa ra:
+Registry UPM tĩnh của RiseOn, gồm hai loại gói:
 
-- **Firebase:** cả 13 gói Google phát hành cho Unity, từ 13.17.0 trở đi, lấy từ tarball UPM của Google.
-- **AppsFlyer:** `appsflyer-unity-plugin`, lấy từ nhánh `upm` của AppsFlyer.
+- **Gói của RiseOn** (`com.riseon.*`): đóng gói từ tag git của repo từng pack.
+- **Bản mirror gói của bên thứ ba**, giữ nguyên tên và nội dung như bên phát hành đưa ra:
+  - **Firebase:** cả 13 gói Google phát hành cho Unity, từ 13.17.0 trở đi, lấy từ tarball UPM của Google.
+  - **AppsFlyer:** `appsflyer-unity-plugin`, lấy từ nhánh `upm` của AppsFlyer.
 
-Workflow `Mirror` chạy mỗi ngày và đưa các version mới lên; chạy tay bằng Actions > Mirror > Run workflow. Tarball nằm ở release của repo này, packument và file search nằm ở nhánh `registry`, phục vụ qua GitHub Pages.
+Workflow `Mirror` được lên lịch 5 phút một lần (GitHub có thể chạy trễ hoặc bỏ lượt); muốn có ngay thì chạy tay bằng Actions > Mirror > Run workflow.
 
 ## Dùng trong project
 
-Thêm registry vào `Packages/manifest.json`, rồi khai báo gói theo version như gói Unity thường:
+Thêm hai registry vào `Packages/manifest.json`, rồi khai báo gói theo version như gói Unity thường:
 
 ```json
 "scopedRegistries": [
   {
     "name": "RiseOn",
     "url": "https://upm.riseongamestudio.com",
-    "scopes": [ "com.google.firebase", "appsflyer-unity-plugin" ]
+    "scopes": [ "com.riseon", "com.google.firebase", "appsflyer-unity-plugin" ]
+  },
+  {
+    "name": "OpenUPM",
+    "url": "https://package.openupm.com",
+    "scopes": [ "com.cysharp", "com.annulusgames", "com.google" ]
   }
 ]
 ```
 
 ```json
+"com.riseon.utils": "1.0.13",
 "com.google.firebase.analytics": "13.17.0",
 "appsflyer-unity-plugin": "7.0.41"
 ```
 
-Các gói Firebase phụ thuộc `com.google.external-dependency-manager`; gói này lấy từ OpenUPM, scope `com.google.external-dependency-manager`.
+Mục OpenUPM là cho các gói mà pack RiseOn và Firebase phụ thuộc: UniTask, LitMotion, Google Mobile Ads, External Dependency Manager. Không khai `com.riseon` cho OpenUPM: mọi gói `com.riseon.*` lấy từ registry này. Unity chọn registry theo scope khớp dài nhất, nên `com.google.firebase` vẫn lấy từ đây dù OpenUPM khai `com.google`.
+
+## Phát hành pack của RiseOn
+
+| Repo | Tag |
+|---|---|
+| Một pack, ở gốc repo | `v<version>`, ví dụ `v1.0.2` |
+| Nhiều pack, mỗi pack một thư mục | `<tên gói>/<version>`, ví dụ `com.riseon.utils/1.0.13` |
+
+Phát hành một version: tăng `version` trong `package.json`, commit, push tag.
+
+- Version gồm ba số, có thể kèm hậu tố pre-release, ví dụ `1.0.2` hoặc `1.1.0-preview.1`.
+- Workflow chỉ đưa lên tag có `package.json` trùng tên gói và version, và version đúng dạng trên. Tag sai thì bị bỏ qua tới khi được dời sang commit khác; lý do in ra log của lượt chạy đầu tiên gặp tag đó, và tag nằm trong file `-/skipped` ở nhánh `registry`.
+- Version đã lên registry thì không bao giờ bị ghi lại, kể cả khi tag bị dời: sửa bản đã phát hành thì tăng version rồi đặt tag mới.
+
+Thêm pack mới: repo phải public; thêm repo, tên gói và thư mục (để trống nếu gói ở gốc repo) vào `RISEON_REPOS` trong `mirror.py`, rồi push lên repo này. Pack không có trong `RISEON_REPOS` thì không bao giờ lên registry.
