@@ -1,0 +1,99 @@
+{
+ "name": "com.riseon.wipe2d",
+ "versions": {
+  "1.1.0": {
+   "name": "com.riseon.wipe2d",
+   "version": "1.1.0",
+   "displayName": "Wipe 2D",
+   "description": "Wipe or reveal sprites and UI images with a brush, with GPU masks, progress tracking, auto-finish threshold and SpriteMask/Mask support",
+   "documentationUrl": "https://github.com/riseongamestudio/Wipe2D/blob/v1.1.0/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.utils": "1.0.1",
+    "com.riseon.serializables": "1.0.1",
+    "com.unity.ugui": "2.0.0",
+    "com.unity.render-pipelines.universal": "17.3.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.wipe2d/com.riseon.wipe2d-1.1.0.tgz",
+    "shasum": "18acd61655f75f135a1acfd6b20d3768c3e262f8",
+    "integrity": "sha512-bBUZsDhnehRs9m/3F9u2in5UVK/MgmzvAPdnRFQoPX4OxYTqimFWvtDCdaK+jq89vPZleBdIk3MDKkbm/3sw0Q=="
+   }
+  },
+  "1.0.2": {
+   "name": "com.riseon.wipe2d",
+   "version": "1.0.2",
+   "displayName": "Wipe 2D",
+   "description": "Wipe or reveal sprites and UI images with a brush, with GPU masks, progress tracking, auto-finish threshold and SpriteMask/Mask support",
+   "documentationUrl": "https://github.com/riseongamestudio/Wipe2D/blob/v1.0.2/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.utils": "1.0.1",
+    "com.riseon.serializables": "1.0.1",
+    "com.unity.ugui": "2.0.0",
+    "com.unity.render-pipelines.universal": "17.3.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.wipe2d/com.riseon.wipe2d-1.0.2.tgz",
+    "shasum": "567e175b42da5f217ac1d95dc003b567e7f1bbf8",
+    "integrity": "sha512-vjkfTNK650/f0C9ntw2q5WZvx38Hhwb4eBl3GR+DTn1PD5BIjzjMxrLU3RpQhQ1OzgYOnU+1JZ9am17yxia5Kw=="
+   }
+  },
+  "1.0.1": {
+   "name": "com.riseon.wipe2d",
+   "version": "1.0.1",
+   "displayName": "Wipe 2D",
+   "description": "Wipe or reveal sprites and UI images with a brush, with GPU masks, progress tracking, auto-finish threshold and SpriteMask/Mask support",
+   "documentationUrl": "https://github.com/riseongamestudio/Wipe2D/blob/v1.0.1/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.utils": "1.0.1",
+    "com.riseon.serializables": "1.0.1",
+    "com.unity.ugui": "2.0.0",
+    "com.unity.render-pipelines.universal": "17.3.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.wipe2d/com.riseon.wipe2d-1.0.1.tgz",
+    "shasum": "b90f883bcbe788299fc26179853bfd0979b43e8b",
+    "integrity": "sha512-YVFOi/yRe66SyLfJyz6QT+lYOcoEy7p0TOHAeDcmFAeSOQ03ci92M26wcTDgRMt1559MNAdb/QgqPIt6Wdgl8A=="
+   }
+  },
+  "1.0.0": {
+   "name": "com.riseon.wipe2d",
+   "version": "1.0.0",
+   "displayName": "Wipe 2D",
+   "description": "Wipe or reveal sprites and UI images with a brush, with GPU masks, progress tracking, auto-finish threshold and SpriteMask/Mask support",
+   "documentationUrl": "https://github.com/riseongamestudio/Wipe2D/blob/v1.0.0/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.utils": "1.0.0",
+    "com.riseon.serializables": "1.0.0",
+    "com.unity.ugui": "2.0.0",
+    "com.unity.render-pipelines.universal": "17.3.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.wipe2d/com.riseon.wipe2d-1.0.0.tgz",
+    "shasum": "82d34372fa573bb0b07f2ddf1d458a4bcf734ac6",
+    "integrity": "sha512-YkVp6C/wEuA/TQZAiXkJCNqaoeEw9HgaSiw9oxVUtOymK1aH5/3qdJkLyMDLwe2rKEonDkpEFfyFN8t2XV56Eg=="
+   }
+  }
+ },
+ "time": {
+  "1.1.0": "2026-11-16T07:14:12.000Z",
+  "modified": "2026-11-16T07:14:17.000Z",
+  "1.0.2": "2026-11-16T07:14:14.000Z",
+  "1.0.1": "2026-11-16T07:14:15.000Z",
+  "1.0.0": "2026-11-16T07:14:17.000Z"
+ },
+ "dist-tags": {
+  "latest": "1.1.0"
+ }
+}

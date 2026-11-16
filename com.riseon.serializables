@@ -1,0 +1,87 @@
+{
+ "name": "com.riseon.serializables",
+ "versions": {
+  "1.0.3": {
+   "name": "com.riseon.serializables",
+   "version": "1.0.3",
+   "displayName": "Serializables",
+   "description": "Serializable wrappers with Odin drawers: EnumMap, SerObject (interface references to Unity objects), SerRef (managed references with type picker) and SerMoment (timestamps)",
+   "documentationUrl": "https://github.com/riseongamestudio/Serializables/blob/v1.0.3/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.utils": "1.0.1"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.serializables/com.riseon.serializables-1.0.3.tgz",
+    "shasum": "e76c2e293fb986ac17dd6a5f7430ba61628b80f5",
+    "integrity": "sha512-ZPwaVBk+bTBqDh8RblYL+TTgoJ9xgVLD0kbpEtkYx0EPqVIzWQkljdghKoK5SQLBcyWZ0r7NP6jhgCmFxDDzPw=="
+   }
+  },
+  "1.0.2": {
+   "name": "com.riseon.serializables",
+   "version": "1.0.2",
+   "displayName": "Serializables",
+   "description": "Serializable wrappers with Odin drawers: EnumMap, SerObject (interface references to Unity objects), SerRef (managed references with type picker) and SerMoment (timestamps)",
+   "documentationUrl": "https://github.com/riseongamestudio/Serializables/blob/v1.0.2/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.utils": "1.0.1"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.serializables/com.riseon.serializables-1.0.2.tgz",
+    "shasum": "7d316fce64580f0e1c02cf45a69acc7c26366993",
+    "integrity": "sha512-1cx3pSF7fB1E1ao7gRJEn6dYKGW+wPndqcn1ykyaabEMSxsJa58dSowdMwMIfG1yPnhvQC+HpOfrzECW48C0Tg=="
+   }
+  },
+  "1.0.1": {
+   "name": "com.riseon.serializables",
+   "version": "1.0.1",
+   "displayName": "Serializables",
+   "description": "Serializable wrappers with Odin drawers: EnumMap, SerObject (interface references to Unity objects), SerRef (managed references with type picker) and SerMoment (timestamps)",
+   "documentationUrl": "https://github.com/riseongamestudio/Serializables/blob/v1.0.1/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.utils": "1.0.1"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.serializables/com.riseon.serializables-1.0.1.tgz",
+    "shasum": "7f2ee031f22c594201f76800e870d438b024a846",
+    "integrity": "sha512-84ygAVmGUnnuFqj1KCZNsIWmLLMktzXNj7MPeB3dKD6NzwGPSRwKtKPSY3Jj3THEdfp8wGIV1bAIA+jLZTz1jg=="
+   }
+  },
+  "1.0.0": {
+   "name": "com.riseon.serializables",
+   "version": "1.0.0",
+   "displayName": "Serializables",
+   "description": "Serializable wrappers with Odin drawers: EnumMap, SerObject (interface references to Unity objects), SerRef (managed references with type picker) and SerMoment (timestamps)",
+   "documentationUrl": "https://github.com/riseongamestudio/Serializables/blob/v1.0.0/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.utils": "1.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.serializables/com.riseon.serializables-1.0.0.tgz",
+    "shasum": "41c3e67cfecebdbebe962158fa56fc2446d52520",
+    "integrity": "sha512-lI4uHpsoloU1IFDlrgtErz7n1fckyKcLeuetabOIZGUH4RXQivEJ4KVRkbR6qTVYwQtZqF9abyl3TB8QQjzPjg=="
+   }
+  }
+ },
+ "time": {
+  "1.0.3": "2026-11-16T07:13:56.000Z",
+  "modified": "2026-11-16T07:14:00.000Z",
+  "1.0.2": "2026-11-16T07:13:57.000Z",
+  "1.0.1": "2026-11-16T07:13:59.000Z",
+  "1.0.0": "2026-11-16T07:14:00.000Z"
+ },
+ "dist-tags": {
+  "latest": "1.0.3"
+ }
+}

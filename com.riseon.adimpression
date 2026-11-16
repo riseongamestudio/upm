@@ -1,0 +1,70 @@
+{
+ "name": "com.riseon.adimpression",
+ "versions": {
+  "1.0.3": {
+   "name": "com.riseon.adimpression",
+   "version": "1.0.3",
+   "displayName": "Ad Impression",
+   "description": "Unified ad impression revenue data with adapters for AppLovin MAX, AdMob, NativeAdMob and AppsFlyer",
+   "documentationUrl": "https://github.com/riseongamestudio/AdImpression/blob/v1.0.3/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.adimpression/com.riseon.adimpression-1.0.3.tgz",
+    "shasum": "9ab2c3e17460ed5776062b8320029bf74846f40f",
+    "integrity": "sha512-VMcosAU2noN1VdbGmobOm2a9B+2D4xdL9NQwIGzdylAbJvRNUkjlTXed+kwl1DeA3SKgN8h26/nBAr0Icgw2Jg=="
+   }
+  },
+  "1.0.2": {
+   "name": "com.riseon.adimpression",
+   "version": "1.0.2",
+   "displayName": "Ad Impression",
+   "description": "Unified ad impression revenue data with adapters for AppLovin MAX, AdMob, NativeAdMob and AppsFlyer",
+   "documentationUrl": "https://github.com/riseongamestudio/AdImpression/blob/v1.0.2/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.adimpression/com.riseon.adimpression-1.0.2.tgz",
+    "shasum": "cb749436bdd5b95da16de7bbd53fcbbf2325054f",
+    "integrity": "sha512-IATyaotkWQ9RusbJcJrUmMMP52uvcDgkpX8R1IaneDERVBUTeMX2m64Sr0mqvbuhBokzCllQ2MG0s/sojiV7XQ=="
+   }
+  },
+  "1.0.1": {
+   "name": "com.riseon.adimpression",
+   "version": "1.0.1",
+   "displayName": "Ad Impression",
+   "description": "Unified ad impression revenue data with adapters for AppLovin MAX, AdMob, NativeAdMob and AppsFlyer",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.adimpression/com.riseon.adimpression-1.0.1.tgz",
+    "shasum": "8cfa6736c54491992b0f1cbdfd3ffc427123a78d",
+    "integrity": "sha512-ob+ASrsmhi73gxffFl8mu9hSvzl0VQCLGsyBTDEo91lsPpyDUr+VORskLWAAM1qOP8HAyQb6Q1/e3JNqVD/j/A=="
+   }
+  },
+  "1.0.0": {
+   "name": "com.riseon.adimpression",
+   "version": "1.0.0",
+   "displayName": "AdImpression",
+   "description": "Unified ad impression revenue data with adapters for AppLovin MAX, AdMob, NativeAdMob and AppsFlyer",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.adimpression/com.riseon.adimpression-1.0.0.tgz",
+    "shasum": "dea2d853b5d448f29b1db30d83faea854e7d4cf8",
+    "integrity": "sha512-pwt1aMic/uLjoRWsXXkKhS9JbsqtSj0j3jFzhGcTV/IM+RDvruoydT+3Kj2y4R2MUojhKbvrU73yR/mviUkDaQ=="
+   }
+  }
+ },
+ "time": {
+  "1.0.3": "2026-11-16T07:13:14.000Z",
+  "modified": "2026-11-16T07:13:18.000Z",
+  "1.0.2": "2026-11-16T07:13:15.000Z",
+  "1.0.1": "2026-11-16T07:13:17.000Z",
+  "1.0.0": "2026-11-16T07:13:18.000Z"
+ },
+ "dist-tags": {
+  "latest": "1.0.3"
+ }
+}

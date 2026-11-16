@@ -1,0 +1,212 @@
+{
+ "name": "com.riseon.outline2d",
+ "versions": {
+  "2.0.0": {
+   "name": "com.riseon.outline2d",
+   "version": "2.0.0",
+   "displayName": "Outline 2D",
+   "description": "Outline the merged silhouette of a group of renderers (sprites, meshes such as Spine skeletons) or UI Graphics, expanded exactly like Select > Modify > Expand, over an optional soft drop shadow, with a fixed texel budget and a performance profile: capture on demand or at an interval, exact on worker threads or fast on the GPU, asynchronous or in the same frame",
+   "documentationUrl": "https://github.com/riseongamestudio/Outline2D/blob/v2.0.0/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.utils": "1.0.12",
+    "com.unity.burst": "1.8.29",
+    "com.unity.mathematics": "1.3.3",
+    "com.unity.render-pipelines.universal": "17.3.0",
+    "com.unity.ugui": "2.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.outline2d/com.riseon.outline2d-2.0.0.tgz",
+    "shasum": "0b9e05f76e24d6915203ad6d5cfad1b641334b4a",
+    "integrity": "sha512-UwI/AolNOsMmW4XhAWo4hMAdwarYGQGxlUlV1en3sAcDUaTyBONz+GWMvJterqyaWHfH0RehHEDI6/RaFG1/Sw=="
+   }
+  },
+  "1.2.0": {
+   "name": "com.riseon.outline2d",
+   "version": "1.2.0",
+   "displayName": "Outline 2D",
+   "description": "Outline the merged silhouette of a group of sprites or UI Images, expanded exactly like Select > Modify > Expand, over an optional soft drop shadow, with a fixed texel budget and the distance transform and shadow blur on worker threads",
+   "documentationUrl": "https://github.com/riseongamestudio/Outline2D/blob/v1.1.0/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.utils": "1.0.12",
+    "com.unity.burst": "1.8.29",
+    "com.unity.mathematics": "1.3.3",
+    "com.unity.render-pipelines.universal": "17.3.0",
+    "com.unity.ugui": "2.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.outline2d/com.riseon.outline2d-1.2.0.tgz",
+    "shasum": "dc947cc4d4ae44673294d7aabc04a49091b16f05",
+    "integrity": "sha512-a00jkjicomx58Fy0w28dMV68n7HpzzdMTzOHzr7WTFjIl5cIaCjHPXmDzXe8lu/4E5ZI9kNSCM+zIHmYjPc2AA=="
+   }
+  },
+  "1.1.0": {
+   "name": "com.riseon.outline2d",
+   "version": "1.1.0",
+   "displayName": "Outline 2D",
+   "description": "Outline the merged silhouette of a group of sprites or UI Images, expanded exactly like Select > Modify > Expand, over an optional soft drop shadow, with a fixed texel budget and the distance transform and shadow blur on worker threads",
+   "documentationUrl": "https://github.com/riseongamestudio/Outline2D/blob/v1.1.0/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.utils": "1.0.12",
+    "com.unity.burst": "1.8.29",
+    "com.unity.mathematics": "1.3.3",
+    "com.unity.render-pipelines.universal": "17.3.0",
+    "com.unity.ugui": "2.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.outline2d/com.riseon.outline2d-1.1.0.tgz",
+    "shasum": "a90906d3c0aef781dd2d80cb283f90958ac29bc8",
+    "integrity": "sha512-vyWGp1YY2hFrIG+SMSZO4VwtwVcVceeoMuxox9Pax5H4PDj7PVXfRb/qivCWkouflvQlo5+nsM4B766GIEW9sg=="
+   }
+  },
+  "1.0.5": {
+   "name": "com.riseon.outline2d",
+   "version": "1.0.5",
+   "displayName": "Outline 2D",
+   "description": "Outline the merged silhouette of a group of sprites or UI Images, expanded exactly like Select > Modify > Expand, with a fixed texel budget and the distance transform on worker threads",
+   "documentationUrl": "https://github.com/riseongamestudio/Outline2D/blob/v1.0.5/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.unity.burst": "1.8.29",
+    "com.unity.mathematics": "1.3.3",
+    "com.unity.render-pipelines.universal": "17.3.0",
+    "com.unity.ugui": "2.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.outline2d/com.riseon.outline2d-1.0.5.tgz",
+    "shasum": "31a29b6abd51bb4a95e5d443fc03e902de8e7b2e",
+    "integrity": "sha512-wRpx8fgAsMo/qKJgSNcF/PkhqFL6i7++jZ2RX5r0sq/WALBCzQifFHmSIIL84aS+h1KuSxOwdflFCgtcjZTsFg=="
+   }
+  },
+  "1.0.4": {
+   "name": "com.riseon.outline2d",
+   "version": "1.0.4",
+   "displayName": "Outline 2D",
+   "description": "Outline the merged silhouette of a group of sprites or UI Images, expanded exactly like Select > Modify > Expand, with a fixed texel budget and the distance transform on worker threads",
+   "documentationUrl": "https://github.com/riseongamestudio/Outline2D/blob/v1.0.4/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.unity.burst": "1.8.29",
+    "com.unity.mathematics": "1.3.3",
+    "com.unity.render-pipelines.universal": "17.3.0",
+    "com.unity.ugui": "2.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.outline2d/com.riseon.outline2d-1.0.4.tgz",
+    "shasum": "ecb45147df17909b6c92f2bb47949050e9dc2328",
+    "integrity": "sha512-c4IwO3ECaozfNFZuvVqlE8eUfo9hLmN9AVDYGQXGRRSUi5lVVmxsgOtOfUJ8tYSsAvVIuzXMxIQJCWp+23YRqQ=="
+   }
+  },
+  "1.0.3": {
+   "name": "com.riseon.outline2d",
+   "version": "1.0.3",
+   "displayName": "Outline 2D",
+   "description": "Outline the merged silhouette of a group of sprites or UI Images, expanded exactly like Select > Modify > Expand, with a fixed texel budget and the distance transform on worker threads",
+   "documentationUrl": "https://github.com/riseongamestudio/Outline2D/blob/v1.0.3/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.unity.burst": "1.8.29",
+    "com.unity.mathematics": "1.3.3",
+    "com.unity.render-pipelines.universal": "17.3.0",
+    "com.unity.ugui": "2.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.outline2d/com.riseon.outline2d-1.0.3.tgz",
+    "shasum": "f5494af4477666ce106e556b2c97b22026871a1d",
+    "integrity": "sha512-05YdfpWsgIbYwDKbnJ5zc5oEwG9bj7KufC6thhycKFmV00tXt21ZHQAYmg3poTz4F6mm4a4YPbZSvEPSBgREZw=="
+   }
+  },
+  "1.0.2": {
+   "name": "com.riseon.outline2d",
+   "version": "1.0.2",
+   "displayName": "Outline 2D",
+   "description": "Outline the merged silhouette of a group of sprites or UI Images, expanded exactly like Select > Modify > Expand, with a fixed texel budget and the distance transform on worker threads",
+   "documentationUrl": "https://github.com/riseongamestudio/Outline2D/blob/v1.0.2/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.unity.burst": "1.8.29",
+    "com.unity.mathematics": "1.3.3",
+    "com.unity.render-pipelines.universal": "17.3.0",
+    "com.unity.ugui": "2.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.outline2d/com.riseon.outline2d-1.0.2.tgz",
+    "shasum": "55b3bdabdb227bd1d9ab77bc336febd3945a524b",
+    "integrity": "sha512-TZnP1xVTnAYbCLQeAWKnhLCC97cDt1qqi4g5Nv9u+xhgB9s+TnI2Akm808liFc51l7lvUruu5bowN3HLglWQDg=="
+   }
+  },
+  "1.0.1": {
+   "name": "com.riseon.outline2d",
+   "version": "1.0.1",
+   "displayName": "Outline 2D",
+   "description": "Outline the merged silhouette of a group of sprites or UI Images, expanded exactly like Select > Modify > Expand, with a fixed texel budget and the distance transform on worker threads",
+   "documentationUrl": "https://github.com/riseongamestudio/Outline2D/blob/v1.0.1/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.unity.burst": "1.8.29",
+    "com.unity.mathematics": "1.3.3",
+    "com.unity.render-pipelines.universal": "17.3.0",
+    "com.unity.ugui": "2.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.outline2d/com.riseon.outline2d-1.0.1.tgz",
+    "shasum": "cadedfed6cb7363bd09f458101278f6193bba713",
+    "integrity": "sha512-OX3HJHlj8sFowbvaJAzyWKzChDYCWqlaC+9Nl37+triaBQQdhrM2N7SUNV02h8CcJz65gOM7FC2iOAZduc4/sA=="
+   }
+  },
+  "1.0.0": {
+   "name": "com.riseon.outline2d",
+   "version": "1.0.0",
+   "displayName": "Outline 2D",
+   "description": "Outline the merged silhouette of a group of sprites or UI Images, expanded exactly like Select > Modify > Expand, with a fixed texel budget and the distance transform on worker threads",
+   "documentationUrl": "https://github.com/riseongamestudio/Outline2D/blob/v1.0.0/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.unity.burst": "1.8.29",
+    "com.unity.mathematics": "1.3.3",
+    "com.unity.render-pipelines.universal": "17.3.0",
+    "com.unity.ugui": "2.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.outline2d/com.riseon.outline2d-1.0.0.tgz",
+    "shasum": "1e36239e187e5e7cec8bee65a401b60afd079b19",
+    "integrity": "sha512-2Ysup6n/XtrHo1F/eGikpqBIeR8Nm33t3DzO6C3vKPrbT2wkUx9Nr4OmvjHMZAUsVb+esg9slxCSdtlddoRkmA=="
+   }
+  }
+ },
+ "time": {
+  "2.0.0": "2026-11-16T07:13:31.000Z",
+  "modified": "2026-11-16T07:13:45.000Z",
+  "1.2.0": "2026-11-16T07:13:33.000Z",
+  "1.1.0": "2026-11-16T07:13:35.000Z",
+  "1.0.5": "2026-11-16T07:13:36.000Z",
+  "1.0.4": "2026-11-16T07:13:38.000Z",
+  "1.0.3": "2026-11-16T07:13:39.000Z",
+  "1.0.2": "2026-11-16T07:13:41.000Z",
+  "1.0.1": "2026-11-16T07:13:43.000Z",
+  "1.0.0": "2026-11-16T07:13:45.000Z"
+ },
+ "dist-tags": {
+  "latest": "2.0.0"
+ }
+}

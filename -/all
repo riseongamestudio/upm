@@ -83,5 +83,83 @@
   "version": "14.1.0",
   "date": "2026-11-10T10:27:46.000Z",
   "description": "Store and serve game content with ease.\n\nWith Cloud Storage, you can easily store and serve large binary objects, such as screenshots, replays, or game assets, and effortlessly grow from prototype to production.\n\nThrough an integration with Firebase Authentication, you can use our declarative security model to control access and keep data safe."
+ },
+ "com.riseon.adimpression": {
+  "name": "com.riseon.adimpression",
+  "version": "1.0.3",
+  "date": "2026-11-16T07:13:14.000Z",
+  "description": "Unified ad impression revenue data with adapters for AppLovin MAX, AdMob, NativeAdMob and AppsFlyer"
+ },
+ "com.riseon.nativeadmob": {
+  "name": "com.riseon.nativeadmob",
+  "version": "1.0.3",
+  "date": "2026-11-16T07:13:22.000Z",
+  "description": "Native AdMob ads for Unity with full-screen, half-screen (collapsible) and in-feed layouts"
+ },
+ "com.riseon.outline2d": {
+  "name": "com.riseon.outline2d",
+  "version": "2.0.0",
+  "date": "2026-11-16T07:13:31.000Z",
+  "description": "Outline the merged silhouette of a group of renderers (sprites, meshes such as Spine skeletons) or UI Graphics, expanded exactly like Select > Modify > Expand, over an optional soft drop shadow, with a fixed texel budget and a performance profile: capture on demand or at an interval, exact on worker threads or fast on the GPU, asynchronous or in the same frame"
+ },
+ "com.riseon.propositions": {
+  "name": "com.riseon.propositions",
+  "version": "1.0.3",
+  "date": "2026-11-16T07:13:48.000Z",
+  "description": "Logic propositions composed in the Inspector: formulas with And/Or/AtLeast/AtMost, negation, constants and external sources"
+ },
+ "com.riseon.serializables": {
+  "name": "com.riseon.serializables",
+  "version": "1.0.3",
+  "date": "2026-11-16T07:13:56.000Z",
+  "description": "Serializable wrappers with Odin drawers: EnumMap, SerObject (interface references to Unity objects), SerRef (managed references with type picker) and SerMoment (timestamps)"
+ },
+ "com.riseon.transitions": {
+  "name": "com.riseon.transitions",
+  "version": "0.1.0",
+  "date": "2026-11-16T07:14:04.000Z",
+  "description": "Transitions set up in the Inspector or in code as pure functions of one 0-1 clock: targets and their public properties, each changed by modifiers (override, addition, multiplication, blend, chain, axis) over sources (constant, tween, curve, offset, sizes, sum, product, retiming), with operations per value type registered by a source generator"
+ },
+ "com.riseon.utils": {
+  "name": "com.riseon.utils",
+  "version": "1.0.13",
+  "date": "2026-11-16T07:14:21.000Z",
+  "description": "Extensions and utilities shared by RiseOn packages: Singleton, Bounds2D, DirectionExt, undo and math utils, EnumLabel, ForwardAttributesTo, AllowGenerics, editor tools and search windows"
+ },
+ "com.riseon.utils.litmotion": {
+  "name": "com.riseon.utils.litmotion",
+  "version": "1.0.0",
+  "date": "2026-11-16T07:15:09.000Z",
+  "description": "LitMotion utilities: EaseExt, an ease or a hand-drawn curve, drawn on one row in the Inspector"
+ },
+ "com.riseon.utils.network": {
+  "name": "com.riseon.utils.network",
+  "version": "1.0.2",
+  "date": "2026-11-16T07:15:03.000Z",
+  "description": "Network utilities: current time from NTP with an HTTP Date fallback, and a real internet connectivity check"
+ },
+ "com.riseon.utils.renderers": {
+  "name": "com.riseon.utils.renderers",
+  "version": "1.0.3",
+  "date": "2026-11-16T07:14:56.000Z",
+  "description": "Renderer utilities: RendererAnchorer, RendererExt, RenderOrder2DRaycaster, SpriteRenderer color utilities"
+ },
+ "com.riseon.utils.ui": {
+  "name": "com.riseon.utils.ui",
+  "version": "1.0.5",
+  "date": "2026-11-16T07:14:45.000Z",
+  "description": "UGUI utilities: AspectRatioFitterElement, RebuildLayoutFixer and Image color utilities"
+ },
+ "com.riseon.vibration": {
+  "name": "com.riseon.vibration",
+  "version": "1.0.1",
+  "date": "2026-11-16T07:14:07.000Z",
+  "description": "Short vibrations for Android and iOS through one static call: light, medium and heavy levels, or your own pulses and patterns"
+ },
+ "com.riseon.wipe2d": {
+  "name": "com.riseon.wipe2d",
+  "version": "1.1.0",
+  "date": "2026-11-16T07:14:12.000Z",
+  "description": "Wipe or reveal sprites and UI images with a brush, with GPU masks, progress tracking, auto-finish threshold and SpriteMask/Mask support"
  }
 }
