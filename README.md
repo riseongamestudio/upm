@@ -49,4 +49,18 @@ Phát hành một version: tăng `version` trong `package.json`, commit, push ta
 - Workflow chỉ đưa lên tag có `package.json` trùng tên gói và version, và version đúng dạng trên. Tag sai thì bị bỏ qua tới khi được dời sang commit khác; lý do in ra log của lượt chạy đầu tiên gặp tag đó, và tag nằm trong file `-/skipped` ở nhánh `registry`.
 - Version đã lên registry thì không bao giờ bị ghi lại, kể cả khi tag bị dời: sửa bản đã phát hành thì tăng version rồi đặt tag mới.
 
-Thêm pack mới: repo phải public; thêm repo, tên gói và thư mục (để trống nếu gói ở gốc repo) vào `RISEON_REPOS` trong `mirror.py`, rồi push lên repo này. Pack không có trong `RISEON_REPOS` thì không bao giờ lên registry.
+## Tạo pack mới
+
+1. Trên GitHub, tạo repo từ template [`riseongamestudio/PackageTemplate`](https://github.com/riseongamestudio/PackageTemplate) (*Use this template*): owner `riseongamestudio`, **Public** (registry chỉ đọc được repo public), tên repo là tên pack, ví dụ `Wipe2D`.
+2. Clone về `D:\Unity\Projects\<tên repo>`, thay `PackageName` bằng tên repo và `packagename` bằng tên repo viết thường trong mọi file, đổi tên hai file asmdef (`Runtime/RiseOn.PackageName.asmdef`, `Editor/Requirements/RiseOn.PackageName.Requirements.asmdef`). Trong Git Bash, với repo `Wipe2D`:
+
+   ```bash
+   grep -rlI --exclude-dir=.git -e PackageName -e packagename . | xargs sed -i 's/PackageName/Wipe2D/g; s/packagename/wipe2d/g'
+   git mv Runtime/RiseOn.PackageName.asmdef Runtime/RiseOn.Wipe2D.asmdef
+   git mv Editor/Requirements/RiseOn.PackageName.Requirements.asmdef Editor/Requirements/RiseOn.Wipe2D.Requirements.asmdef
+   ```
+
+   Rồi viết `displayName`, `description` trong `package.json` và các mục còn để trống (có ghi chú `<!-- -->`) trong `README.md`, `CHANGELOG.md`.
+3. Thêm `"com.riseon.<tên viết thường>": "file:D:/Unity/Projects/<tên repo>"` vào `Packages/manifest.json` của PackageSandbox rồi mở project đó: Unity sinh file `.meta` cho pack. Commit cả các file `.meta`. Template không chứa `.meta` để hai pack tạo từ nó không trùng GUID.
+4. Thêm repo, tên gói và thư mục (để trống nếu gói ở gốc repo) vào `RISEON_REPOS` trong `mirror.py`, rồi push lên repo này. Pack không có trong `RISEON_REPOS` thì không bao giờ lên registry.
+5. Phát hành như mục trên.
