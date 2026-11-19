@@ -131,8 +131,8 @@
   {
    "package": {
     "name": "com.riseon.outline2d",
-    "version": "2.0.0",
-    "date": "2026-11-16T07:13:31.000Z",
+    "version": "2.0.1",
+    "date": "2026-11-19T09:42:40.000Z",
     "description": "Outline the merged silhouette of a group of renderers (sprites, meshes such as Spine skeletons) or UI Graphics, expanded exactly like Select > Modify > Expand, over an optional soft drop shadow, with a fixed texel budget and a performance profile: capture on demand or at an interval, exact on worker threads or fast on the GPU, asynchronous or in the same frame"
    }
   },
@@ -163,8 +163,8 @@
   {
    "package": {
     "name": "com.riseon.utils",
-    "version": "1.0.13",
-    "date": "2026-11-16T07:14:21.000Z",
+    "version": "1.0.15",
+    "date": "2026-11-19T09:42:44.000Z",
     "description": "Extensions and utilities shared by RiseOn packages: Singleton, Bounds2D, DirectionExt, undo and math utils, EnumLabel, ForwardAttributesTo, AllowGenerics, editor tools and search windows"
    }
   },
