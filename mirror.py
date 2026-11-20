@@ -34,6 +34,24 @@ APPSFLYER_REFS = [
 # its own folder and tags "<package name>/<version>". A repo or package left out here is never published.
 RISEON_REPOS = {
     "riseongamestudio/AdImpression": {"com.riseon.adimpression": ""},
+    "riseongamestudio/Ads": {
+        "com.riseon.ads": "Core",
+        "com.riseon.ads.admob": "AdMob",
+        "com.riseon.ads.admob.native": "AdMob.Native",
+        "com.riseon.ads.levelplay": "LevelPlay",
+        "com.riseon.ads.max": "Max",
+    },
+    "riseongamestudio/Analytics": {
+        "com.riseon.analytics": "Core",
+        "com.riseon.analytics.appsflyer": "AppsFlyer",
+        "com.riseon.analytics.firebase": "Firebase",
+    },
+    "riseongamestudio/Consent": {"com.riseon.consent": ""},
+    "riseongamestudio/Firebase": {
+        "com.riseon.firebase": "Core",
+        "com.riseon.firebase.remoteconfig": "RemoteConfig",
+    },
+    "riseongamestudio/IAP": {"com.riseon.iap": ""},
     "riseongamestudio/NativeAdMob": {"com.riseon.nativeadmob": ""},
     "riseongamestudio/Outline2D": {"com.riseon.outline2d": ""},
     "riseongamestudio/Propositions": {"com.riseon.propositions": ""},
