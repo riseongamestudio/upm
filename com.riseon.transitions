@@ -23,13 +23,37 @@
     "shasum": "bba340cca70ed7a1711e38a744600db7245e7a17",
     "integrity": "sha512-Z0jpe7ISeN+EhKY2FqGhpIu7GFlDUfrW7M5/qkJxzx0kPP6CcgPYKQvADqo+7BTS+h85zVawMLeW7Zc4QY0Eyw=="
    }
+  },
+  "0.2.0": {
+   "name": "com.riseon.transitions",
+   "version": "0.2.0",
+   "displayName": "Transitions",
+   "description": "Transitions set up in the Inspector or in code as pure functions of one 0-1 clock: targets and their public properties, each changed by modifiers (override, addition, multiplication, blend, chain, axis) over sources (constant, tween, curve, offset, sizes, sum, product, retiming), with operations per value type registered by a source generator",
+   "documentationUrl": "https://github.com/riseongamestudio/Transitions/blob/v0.2.0/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.serializables": "1.0.1",
+    "com.riseon.utils": "1.0.15",
+    "com.riseon.utils.litmotion": "1.0.0",
+    "com.annulusgames.lit-motion": "2.0.2",
+    "com.cysharp.unitask": "2.5.11",
+    "com.unity.ugui": "2.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.transitions/com.riseon.transitions-0.2.0.tgz",
+    "shasum": "3051d4aeaea167c28d72dbea6d5b852d1c29c0c8",
+    "integrity": "sha512-3IaBTxwjiwI+ckXEre2srLxGupA1KvJyf83SDvvpxAhVFfjA0BDxKrj/hacJBAJhnn4cjxjFM6WWuTL3/QaasQ=="
+   }
   }
  },
  "time": {
   "0.1.0": "2026-11-16T07:14:04.000Z",
-  "modified": "2026-11-16T07:14:04.000Z"
+  "modified": "2026-11-20T13:00:45.000Z",
+  "0.2.0": "2026-11-20T13:00:45.000Z"
  },
  "dist-tags": {
-  "latest": "0.1.0"
+  "latest": "0.2.0"
  }
 }

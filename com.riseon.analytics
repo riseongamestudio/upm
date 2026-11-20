@@ -21,13 +21,35 @@
     "shasum": "4f8c66ef00ebee54c9020021aba719fa91c209ae",
     "integrity": "sha512-LnYazrUs1znsegjiiz6VAVBtlT5Ta1GED186v1fV6ybbiVraIulmase6VMPbg7VlzVa5c8ofQnnsKdX0yVn/Rg=="
    }
+  },
+  "1.0.1": {
+   "name": "com.riseon.analytics",
+   "version": "1.0.1",
+   "displayName": "RiseOn Analytics",
+   "description": "One static API for the game's analytics: events, ad revenue, purchases and user properties go to every installed service, each starting on its own once what it needs is ready and taking only the events the project settings send it",
+   "unity": "6000.0",
+   "documentationUrl": "https://github.com/riseongamestudio/Analytics/blob/com.riseon.analytics/1.0.1/Core/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.consent": "1.0.0",
+    "com.riseon.utils": "1.0.17",
+    "com.cysharp.unitask": "2.5.11"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.analytics/com.riseon.analytics-1.0.1.tgz",
+    "shasum": "048faaed190564f7870a0e803dfba9b8680e357a",
+    "integrity": "sha512-6zUqAjpRpJ0/omW07Lgz3U5SFZUR+YmMQB+P+N7OPKZAtjGXa3kyEi/k8JCEngm53APhlJ7eit2OrIXnBQuayg=="
+   }
   }
  },
  "time": {
   "1.0.0": "2026-11-20T12:25:41.000Z",
-  "modified": "2026-11-20T12:25:41.000Z"
+  "modified": "2026-11-20T13:00:30.000Z",
+  "1.0.1": "2026-11-20T13:00:30.000Z"
  },
  "dist-tags": {
-  "latest": "1.0.0"
+  "latest": "1.0.1"
  }
 }
