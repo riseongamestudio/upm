@@ -45,6 +45,8 @@ Mục OpenUPM là cho các gói mà pack RiseOn và Firebase phụ thuộc: UniT
 
 Phát hành một version: tăng `version` trong `package.json`, commit, push tag.
 
+Pack dùng Odin: trước khi push tag, thử pack trong một project mới không có Odin, cài pack đó bằng `file:` và các gói RiseOn khác từ registry (gói chưa phát hành thì cũng bằng `file:`). Console chỉ được có các lỗi `... needs Odin Inspector` từ những assembly `*.Requirements`. Còn lỗi khác, thường là CS0246 không tìm thấy kiểu của Sirenix hay của một assembly RiseOn, nghĩa là còn asmdef dùng Odin (trực tiếp hoặc qua assembly nó tham chiếu) mà thiếu `ODIN_INSPECTOR` trong `defineConstraints`.
+
 - Version gồm ba số, có thể kèm hậu tố pre-release, ví dụ `1.0.2` hoặc `1.1.0-preview.1`.
 - Workflow chỉ đưa lên tag có `package.json` trùng tên gói và version, và version đúng dạng trên. Tag sai thì bị bỏ qua tới khi được dời sang commit khác; lý do in ra log của lượt chạy đầu tiên gặp tag đó, và tag nằm trong file `-/skipped` ở nhánh `registry`.
 - Version đã lên registry thì không bao giờ bị ghi lại, kể cả khi tag bị dời: sửa bản đã phát hành thì tăng version rồi đặt tag mới.
