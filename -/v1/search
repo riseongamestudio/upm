@@ -139,8 +139,8 @@
   {
    "package": {
     "name": "com.riseon.ads.admob.native",
-    "version": "1.0.0",
-    "date": "2026-11-20T12:25:38.000Z",
+    "version": "2.0.0",
+    "date": "2026-11-20T13:25:14.000Z",
     "description": "AdMob native ads for Unity in full-screen, half-screen (collapsible) and in-feed layouts"
    }
   },
@@ -275,8 +275,8 @@
   {
    "package": {
     "name": "com.riseon.utils.network",
-    "version": "1.0.2",
-    "date": "2026-11-16T07:15:03.000Z",
+    "version": "2.0.0",
+    "date": "2026-11-20T13:25:19.000Z",
     "description": "Network utilities: current time from NTP with an HTTP Date fallback, and a real internet connectivity check"
    }
   },
@@ -299,8 +299,8 @@
   {
    "package": {
     "name": "com.riseon.vibration",
-    "version": "1.0.1",
-    "date": "2026-11-16T07:14:07.000Z",
+    "version": "2.0.0",
+    "date": "2026-11-20T13:25:18.000Z",
     "description": "Short vibrations for Android and iOS through one static call: light, medium and heavy levels, or your own pulses and patterns"
    }
   },

@@ -51,15 +51,34 @@
     "shasum": "b23333c0a75d15d0301531853c76a59e5f55bb68",
     "integrity": "sha512-aqK0ZXgRJ+VPjIpcZvnqCS9g7TZd4ISFP3P8h1V66/DeQs5kwWDabR3+KoluXSSnGmnZrkwJM5MgAKffslPxPA=="
    }
+  },
+  "2.0.0": {
+   "name": "com.riseon.utils.network",
+   "version": "2.0.0",
+   "displayName": "RiseOn Utils Network",
+   "description": "Network utilities: current time from NTP with an HTTP Date fallback, and a real internet connectivity check",
+   "documentationUrl": "https://github.com/riseongamestudio/Utils/blob/com.riseon.utils.network/2.0.0/Network/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.unity.modules.unitywebrequest": "1.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils.network/com.riseon.utils.network-2.0.0.tgz",
+    "shasum": "a5b92cdbdf5143b886a09f0b7c232e8ecc4be3ce",
+    "integrity": "sha512-5q8mymrCD2mnB0cAU0yW9TsjwmPjFbd+y7I+0jf4nIYpq1T/GTFBYYUBCB8zkFAzVoM6t0FL5JPHsF0sfOMl9g=="
+   }
   }
  },
  "time": {
   "1.0.2": "2026-11-16T07:15:03.000Z",
-  "modified": "2026-11-16T07:15:06.000Z",
+  "modified": "2026-11-20T13:25:19.000Z",
   "1.0.1": "2026-11-16T07:15:05.000Z",
-  "1.0.0": "2026-11-16T07:15:06.000Z"
+  "1.0.0": "2026-11-16T07:15:06.000Z",
+  "2.0.0": "2026-11-20T13:25:19.000Z"
  },
  "dist-tags": {
-  "latest": "1.0.2"
+  "latest": "2.0.0"
  }
 }

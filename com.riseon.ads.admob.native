@@ -19,13 +19,33 @@
     "shasum": "daea9f851850accc1636b927a3912ffa0ce7f4db",
     "integrity": "sha512-zVoKk22RkLlqhukRzbVRLVkiYorbL+XasBSElyiHBLfKEPDdDXiNwLANhAmRY8gtmsNfOtaf48Z4JmhxI6x5Ow=="
    }
+  },
+  "2.0.0": {
+   "name": "com.riseon.ads.admob.native",
+   "version": "2.0.0",
+   "displayName": "RiseOn Ads AdMob Native",
+   "description": "AdMob native ads for Unity in full-screen, half-screen (collapsible) and in-feed layouts",
+   "documentationUrl": "https://github.com/riseongamestudio/Ads/blob/com.riseon.ads.admob.native/2.0.0/AdMob.Native/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.google.ads.mobile": "11.5.0",
+    "com.unity.ugui": "2.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.ads.admob.native/com.riseon.ads.admob.native-2.0.0.tgz",
+    "shasum": "77f6f5b046aab9ddddb4f4d754bf42fcb3edcf0d",
+    "integrity": "sha512-9dgIPphSuqU9CVVzQRRe+uC3DecNWcl52BQF3NIa5jAuhhxfuI2uaNrNzoaaCP38W96gREFXB5Pwnx5QxmvSLw=="
+   }
   }
  },
  "time": {
   "1.0.0": "2026-11-20T12:25:38.000Z",
-  "modified": "2026-11-20T12:25:38.000Z"
+  "modified": "2026-11-20T13:25:14.000Z",
+  "2.0.0": "2026-11-20T13:25:14.000Z"
  },
  "dist-tags": {
-  "latest": "1.0.0"
+  "latest": "2.0.0"
  }
 }
