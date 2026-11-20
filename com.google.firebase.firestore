@@ -108,16 +108,44 @@
     "shasum": "634d45d013f158d146e38322961c691c1909c48c",
     "integrity": "sha512-pvwN4n5HPyt1nxdryekZkApQCTOJrnjs0t3OZY11Cm9m9yBBR1DGtxpmM217J9fKb7lV7o1jE5N++xYT6CYJ+w=="
    }
+  },
+  "14.2.0": {
+   "name": "com.google.firebase.firestore",
+   "version": "14.2.0",
+   "displayName": "Cloud Firestore",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Firestore",
+    "Cloud",
+    "vh-name:FirebaseFirestore",
+    "vh-name:Cloud Firestore"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/firestore"
+   },
+   "description": "Store and sync game data at global scale.\n\nCloud Firestore is a flexible NoSQL document database that lets you easily store, sync, and query data for your games - at global scale.\n\nFirestore supports a million players connected simultaneously with a guaranteed uptime of 5 nines for multi-region instances. That's less than 5 minutes of downtime a year!\n\nWith Cloud Firestore, your players can access and make changes to their data at any time, even when they're offline.",
+   "unity": "2022.1",
+   "dependencies": {
+    "com.google.firebase.app": "14.2.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.2.0/com.google.firebase.firestore-14.2.0.tgz",
+    "shasum": "8cda12ad084476993424bc1085e0615af1fd14b4",
+    "integrity": "sha512-Xd+NPXUTNPkNk+DR+cxdbHYjIf9ks8FfYCf6P+YjtZCgG7aNvLuZtPe7rsQZvi0EnTo7WjnhBir25je9/6oBDA=="
+   }
   }
  },
  "time": {
   "13.17.0": "2026-11-10T10:26:04.000Z",
-  "modified": "2026-11-10T10:27:38.000Z",
+  "modified": "2026-11-20T01:55:47.000Z",
   "13.17.1": "2026-11-10T10:26:34.000Z",
   "14.0.0": "2026-11-10T10:27:07.000Z",
-  "14.1.0": "2026-11-10T10:27:38.000Z"
+  "14.1.0": "2026-11-10T10:27:38.000Z",
+  "14.2.0": "2026-11-20T01:55:47.000Z"
  },
  "dist-tags": {
-  "latest": "14.1.0"
+  "latest": "14.2.0"
  }
 }

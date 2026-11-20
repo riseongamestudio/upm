@@ -112,16 +112,45 @@
     "shasum": "d8ec380c93b89aa595727021b744885bfb2cf8a8",
     "integrity": "sha512-trLcMc6GbH+lidaXT7RGAFeDW3yLTmkOJhTbcyTOTk8wFXVO7NrS/VbfaEbDM9Vc3ww867zyeOkXw2ok5YZLTQ=="
    }
+  },
+  "14.2.0": {
+   "name": "com.google.firebase.auth",
+   "version": "14.2.0",
+   "displayName": "Firebase Authentication",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "Auth",
+    "Authentication",
+    "FirebaseAuth",
+    "vh-name:FirebaseAuth",
+    "vh-name:Firebase Authentication"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/auth/unity/start"
+   },
+   "description": "Easily sign-in and authenticate players.\n\nSign-in players using any identity provider with Firebase Authentication. It supports email and password, phone authentication, Facebook, Google, Twitter, and more. Out-of-the-box, you get a secure, end-to-end identity solution.",
+   "unity": "2022.1",
+   "dependencies": {
+    "com.google.firebase.app": "14.2.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.2.0/com.google.firebase.auth-14.2.0.tgz",
+    "shasum": "60d498d89718852248c2e4ec8289c7621acd120e",
+    "integrity": "sha512-zfpReDzbkUIM1TJK6fxGThUcUxkxaocuns9Zuy4ZxLg6nBD8mDFpC96asFIZkpJqA2Nly2GG3lRusO27ByNfDg=="
+   }
   }
  },
  "time": {
   "13.17.0": "2026-11-10T10:25:55.000Z",
-  "modified": "2026-11-10T10:27:29.000Z",
+  "modified": "2026-11-20T01:55:41.000Z",
   "13.17.1": "2026-11-10T10:26:24.000Z",
   "14.0.0": "2026-11-10T10:26:58.000Z",
-  "14.1.0": "2026-11-10T10:27:29.000Z"
+  "14.1.0": "2026-11-10T10:27:29.000Z",
+  "14.2.0": "2026-11-20T01:55:41.000Z"
  },
  "dist-tags": {
-  "latest": "14.1.0"
+  "latest": "14.2.0"
  }
 }

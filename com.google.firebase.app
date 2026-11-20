@@ -100,16 +100,42 @@
     "shasum": "4375d28a6dd84ee4083a90e0e9ce54936cf86dd1",
     "integrity": "sha512-UaQunXjq4JeDnnDBV/1q3f8oXP8G4n6hR7Qah10QUwtrPwnbkv62ndqQiJKRfCeLe3RDTwiPo3wXvfrrpQdiog=="
    }
+  },
+  "14.2.0": {
+   "name": "com.google.firebase.app",
+   "version": "14.2.0",
+   "displayName": "Firebase App (Core)",
+   "keywords": [
+    "Google",
+    "Firebase",
+    "FirebaseApp",
+    "App"
+   ],
+   "author": {
+    "name": "Google LLC",
+    "url": "https://firebase.google.com/docs/unity/setup"
+   },
+   "description": "Firebase App is the core library every Firebase package depends on.",
+   "unity": "2022.1",
+   "dependencies": {
+    "com.google.external-dependency-manager": "1.2.190"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.2.0/com.google.firebase.app-14.2.0.tgz",
+    "shasum": "5dadba63aa492f1e968b7e762896644c59297af1",
+    "integrity": "sha512-tIDW/AFaKDvX3fIo1UEETXXG0W4EzJ1ozP8W4QD6h1BLzrCBObsopcky6E/g33mSu0G3ptC6EaRdMgtVV3E32A=="
+   }
   }
  },
  "time": {
   "13.17.0": "2026-11-10T10:25:49.000Z",
-  "modified": "2026-11-10T10:27:23.000Z",
+  "modified": "2026-11-20T01:55:37.000Z",
   "13.17.1": "2026-11-10T10:26:19.000Z",
   "14.0.0": "2026-11-10T10:26:53.000Z",
-  "14.1.0": "2026-11-10T10:27:23.000Z"
+  "14.1.0": "2026-11-10T10:27:23.000Z",
+  "14.2.0": "2026-11-20T01:55:37.000Z"
  },
  "dist-tags": {
-  "latest": "14.1.0"
+  "latest": "14.2.0"
  }
 }
