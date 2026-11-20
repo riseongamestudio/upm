@@ -1,0 +1,34 @@
+{
+ "name": "com.riseon.analytics.firebase",
+ "versions": {
+  "1.0.0": {
+   "name": "com.riseon.analytics.firebase",
+   "version": "1.0.0",
+   "displayName": "RiseOn Analytics Firebase",
+   "description": "Google Analytics, Firebase's analytics, as a com.riseon.analytics service: events checked against Firebase's rules in the Editor, ad revenue as ad_impression, App Store purchases logged the way StoreKit 2 needs",
+   "unity": "6000.0",
+   "documentationUrl": "https://github.com/riseongamestudio/Analytics/blob/com.riseon.analytics.firebase/1.0.0/Firebase/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.analytics": "1.0.0",
+    "com.riseon.firebase": "1.0.0",
+    "com.google.firebase.analytics": "13.17.0",
+    "com.cysharp.unitask": "2.5.11"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.analytics.firebase/com.riseon.analytics.firebase-1.0.0.tgz",
+    "shasum": "bdf153c11a5ad50e4ac7da7d89193faac66248f5",
+    "integrity": "sha512-Q8f6B3P7kIc7oZdvQQGQoy++v484E7mI2iTfSv1YTcEyfxXqIlU/TG/Bs8grxJcJ0lY4sTuvYEXjjbfDAj92xA=="
+   }
+  }
+ },
+ "time": {
+  "1.0.0": "2026-11-20T12:25:43.000Z",
+  "modified": "2026-11-20T12:25:43.000Z"
+ },
+ "dist-tags": {
+  "latest": "1.0.0"
+ }
+}

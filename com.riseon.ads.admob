@@ -1,0 +1,34 @@
+{
+ "name": "com.riseon.ads.admob",
+ "versions": {
+  "1.0.0": {
+   "name": "com.riseon.ads.admob",
+   "version": "1.0.0",
+   "displayName": "RiseOn Ads AdMob",
+   "description": "Google AdMob provider for com.riseon.ads: banner, MRec, interstitial, rewarded, rewarded interstitial, app open and the native ad views of com.riseon.ads.admob.native",
+   "unity": "6000.0",
+   "documentationUrl": "https://github.com/riseongamestudio/Ads/blob/com.riseon.ads.admob/1.0.0/AdMob/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.ads": "1.0.0",
+    "com.riseon.ads.admob.native": "1.0.0",
+    "com.riseon.utils": "1.0.17",
+    "com.google.ads.mobile": "11.5.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.ads.admob/com.riseon.ads.admob-1.0.0.tgz",
+    "shasum": "844f9b827060cdb5f5308cb83fae847780b825f4",
+    "integrity": "sha512-2wg47Fs4Z3SsENUqjX/gSZgzOqLBpSBTosrHB+5z/cIpmt90dl3sRD8Q548+WxZmy2eqqzGKA7VF6iWGLSI4vw=="
+   }
+  }
+ },
+ "time": {
+  "1.0.0": "2026-11-20T12:25:35.000Z",
+  "modified": "2026-11-20T12:25:35.000Z"
+ },
+ "dist-tags": {
+  "latest": "1.0.0"
+ }
+}

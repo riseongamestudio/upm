@@ -72,16 +72,35 @@
     "shasum": "715967256f461bfcb6314aa23734fcf76f98ae3c",
     "integrity": "sha512-nNw1zNDZY4pHlZpE4FtXw42gfn9HecnPUMnJ7y1GipIDmGcP8b6sBWKLdy3jPVa4/BPlj7/NylZ+N4DOLTD0fw=="
    }
+  },
+  "1.0.4": {
+   "name": "com.riseon.utils.renderers",
+   "version": "1.0.4",
+   "displayName": "RiseOn Utils Renderers",
+   "description": "Renderer utilities: RendererAnchorer, RendererExt, RenderOrder2DRaycaster, SpriteRenderer color utilities",
+   "documentationUrl": "https://github.com/riseongamestudio/Utils/blob/com.riseon.utils.renderers/1.0.4/Renderers/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.utils": "1.0.15"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils.renderers/com.riseon.utils.renderers-1.0.4.tgz",
+    "shasum": "5f8af21e22c5e80acf2f04e38fef7fecbc3f75aa",
+    "integrity": "sha512-P1XrfRbVDuML5tDVGY3eXxRufJfbsThpFKFRDgO0pxkytbAEbP2c8DpyGEaZBMvpGGrcgDT+/bj8XjJsgDn1yQ=="
+   }
   }
  },
  "time": {
   "1.0.3": "2026-11-16T07:14:56.000Z",
-  "modified": "2026-11-16T07:15:00.000Z",
+  "modified": "2026-11-20T12:26:04.000Z",
   "1.0.2": "2026-11-16T07:14:57.000Z",
   "1.0.1": "2026-11-16T07:14:59.000Z",
-  "1.0.0": "2026-11-16T07:15:00.000Z"
+  "1.0.0": "2026-11-16T07:15:00.000Z",
+  "1.0.4": "2026-11-20T12:26:04.000Z"
  },
  "dist-tags": {
-  "latest": "1.0.3"
+  "latest": "1.0.4"
  }
 }

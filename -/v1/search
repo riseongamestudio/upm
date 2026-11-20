@@ -122,6 +122,102 @@
   },
   {
    "package": {
+    "name": "com.riseon.ads",
+    "version": "1.0.0",
+    "date": "2026-11-20T12:25:28.000Z",
+    "description": "Ad manager for Unity: providers behind priority lists, started after the consent flow, full-screen chains under a native cover, collapsible chains"
+   }
+  },
+  {
+   "package": {
+    "name": "com.riseon.ads.admob",
+    "version": "1.0.0",
+    "date": "2026-11-20T12:25:35.000Z",
+    "description": "Google AdMob provider for com.riseon.ads: banner, MRec, interstitial, rewarded, rewarded interstitial, app open and the native ad views of com.riseon.ads.admob.native"
+   }
+  },
+  {
+   "package": {
+    "name": "com.riseon.ads.admob.native",
+    "version": "1.0.0",
+    "date": "2026-11-20T12:25:38.000Z",
+    "description": "AdMob native ads for Unity in full-screen, half-screen (collapsible) and in-feed layouts"
+   }
+  },
+  {
+   "package": {
+    "name": "com.riseon.ads.levelplay",
+    "version": "1.0.0",
+    "date": "2026-11-20T12:25:33.000Z",
+    "description": "Unity LevelPlay provider for com.riseon.ads: banner, MRec, interstitial and rewarded"
+   }
+  },
+  {
+   "package": {
+    "name": "com.riseon.ads.max",
+    "version": "1.0.0",
+    "date": "2026-11-20T12:25:30.000Z",
+    "description": "AppLovin MAX provider for com.riseon.ads: banner, MRec, interstitial, rewarded and app open"
+   }
+  },
+  {
+   "package": {
+    "name": "com.riseon.analytics",
+    "version": "1.0.0",
+    "date": "2026-11-20T12:25:41.000Z",
+    "description": "One static API for the game's analytics: events, ad revenue, purchases and user properties go to every installed service, each starting on its own once what it needs is ready and taking only the events the project settings send it"
+   }
+  },
+  {
+   "package": {
+    "name": "com.riseon.analytics.appsflyer",
+    "version": "1.0.0",
+    "date": "2026-11-20T12:25:45.000Z",
+    "description": "AppsFlyer as a com.riseon.analytics service: started after the consent flow with the TCF data the consent form wrote, the dev key and App Store id from the project settings, ad revenue and purchases in AppsFlyer's own shapes"
+   }
+  },
+  {
+   "package": {
+    "name": "com.riseon.analytics.firebase",
+    "version": "1.0.0",
+    "date": "2026-11-20T12:25:43.000Z",
+    "description": "Google Analytics, Firebase's analytics, as a com.riseon.analytics service: events checked against Firebase's rules in the Editor, ad revenue as ad_impression, App Store purchases logged the way StoreKit 2 needs"
+   }
+  },
+  {
+   "package": {
+    "name": "com.riseon.consent",
+    "version": "1.0.0",
+    "date": "2026-11-20T12:25:48.000Z",
+    "description": "The consent flow every SDK waits for: Google's UMP for GDPR and US-state forms, then App Tracking Transparency on iOS, run on its own at launch"
+   }
+  },
+  {
+   "package": {
+    "name": "com.riseon.firebase",
+    "version": "1.0.0",
+    "date": "2026-11-20T12:25:51.000Z",
+    "description": "Starts Firebase on its own at launch: App Check and log level from the project settings, the Google Play services check, and any failure handed to one handler in the game"
+   }
+  },
+  {
+   "package": {
+    "name": "com.riseon.firebase.remoteconfig",
+    "version": "1.0.0",
+    "date": "2026-11-20T12:25:54.000Z",
+    "description": "Remote Config declared in Project Settings: typed values with an enum per key, a launch fetch that hands any failure to one handler, live parameters, and pull and push with the Firebase console from the Editor"
+   }
+  },
+  {
+   "package": {
+    "name": "com.riseon.iap",
+    "version": "1.0.0",
+    "date": "2026-11-20T12:25:56.000Z",
+    "description": "Unity IAP started on its own at launch from a catalog in the project settings: Google Play receipts checked, purchases the store returns before the game is ready held for it, and one handle that buys, grants and confirms in the right order"
+   }
+  },
+  {
+   "package": {
     "name": "com.riseon.nativeadmob",
     "version": "1.0.3",
     "date": "2026-11-16T07:13:22.000Z",
@@ -147,8 +243,8 @@
   {
    "package": {
     "name": "com.riseon.serializables",
-    "version": "1.0.3",
-    "date": "2026-11-16T07:13:56.000Z",
+    "version": "1.0.4",
+    "date": "2026-11-20T12:25:59.000Z",
     "description": "Serializable wrappers with Odin drawers: EnumMap, SerObject (interface references to Unity objects), SerRef (managed references with type picker) and SerMoment (timestamps)"
    }
   },
@@ -163,8 +259,8 @@
   {
    "package": {
     "name": "com.riseon.utils",
-    "version": "1.0.16",
-    "date": "2026-11-20T04:36:36.000Z",
+    "version": "1.0.17",
+    "date": "2026-11-20T12:26:02.000Z",
     "description": "Extensions and utilities shared by RiseOn packages: Singleton, Bounds2D, DirectionExt, undo and math utils, EnumLabel, ForwardAttributesTo, AllowGenerics, editor tools and search windows"
    }
   },
@@ -187,8 +283,8 @@
   {
    "package": {
     "name": "com.riseon.utils.renderers",
-    "version": "1.0.3",
-    "date": "2026-11-16T07:14:56.000Z",
+    "version": "1.0.4",
+    "date": "2026-11-20T12:26:04.000Z",
     "description": "Renderer utilities: RendererAnchorer, RendererExt, RenderOrder2DRaycaster, SpriteRenderer color utilities"
    }
   },
@@ -217,5 +313,5 @@
    }
   }
  ],
- "total": 27
+ "total": 39
 }
