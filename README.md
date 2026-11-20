@@ -45,7 +45,15 @@ Mục OpenUPM là cho các gói mà pack RiseOn và Firebase phụ thuộc: UniT
 
 Phát hành một version: tăng `version` trong `package.json`, commit, push tag.
 
-Pack dùng Odin: trước khi push tag, thử pack trong một project mới không có Odin, cài pack đó bằng `file:` và các gói RiseOn khác từ registry (gói chưa phát hành thì cũng bằng `file:`). Console chỉ được có các lỗi `... needs Odin Inspector` từ những assembly `*.Requirements`. Còn lỗi khác, thường là CS0246 không tìm thấy kiểu của Sirenix hay của một assembly RiseOn, nghĩa là còn asmdef dùng Odin (trực tiếp hoặc qua assembly nó tham chiếu) mà thiếu `ODIN_INSPECTOR` trong `defineConstraints`.
+Mọi pack RiseOn đều cần Odin: mọi asmdef có `ODIN_INSPECTOR` trong `defineConstraints`, trừ assembly `*.Requirements` báo thiếu Odin. Trước khi push tag:
+
+1. Trong thư mục repo, lệnh sau (Git Bash) không được in ra gì; mỗi dòng nó in là một asmdef còn thiếu `ODIN_INSPECTOR`:
+
+   ```bash
+   find . -name '*.asmdef' ! -name '*.Requirements.asmdef' -exec grep -L ODIN_INSPECTOR {} +
+   ```
+
+2. Thử pack trong một project mới không có Odin, cài pack đó bằng `file:` và các gói RiseOn khác từ registry (gói chưa phát hành thì cũng bằng `file:`). Console chỉ được có các lỗi `... needs Odin Inspector` từ những assembly `*.Requirements`. Còn lỗi khác, thường là CS0246 không tìm thấy kiểu của Sirenix hay của một assembly RiseOn, nghĩa là còn asmdef thiếu `ODIN_INSPECTOR`.
 
 - Version gồm ba số, có thể kèm hậu tố pre-release, ví dụ `1.0.2` hoặc `1.1.0-preview.1`.
 - Workflow chỉ đưa lên tag có `package.json` trùng tên gói và version, và version đúng dạng trên. Tag sai thì bị bỏ qua tới khi được dời sang commit khác; lý do in ra log của lượt chạy đầu tiên gặp tag đó, và tag nằm trong file `-/skipped` ở nhánh `registry`.
