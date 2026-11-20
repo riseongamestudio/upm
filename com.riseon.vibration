@@ -54,15 +54,35 @@
     "shasum": "7d46c227f65ec65ee1e452dad4ea9689d35c6ca8",
     "integrity": "sha512-UvgDQLWd8BBB8qcpwAUNL4wnRrfad2+vpoNktohA8ahsXhAjU94nlhCW9seOYVtmVf3sAcQBFSvRhtsGpLKQTw=="
    }
+  },
+  "2.0.1": {
+   "name": "com.riseon.vibration",
+   "version": "2.0.1",
+   "displayName": "RiseOn Vibration",
+   "description": "Short vibrations for Android and iOS through one static call: light, medium and heavy levels, or your own pulses and patterns",
+   "unity": "6000.3",
+   "documentationUrl": "https://github.com/riseongamestudio/Vibration/blob/v2.0.1/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.unity.modules.androidjni": "1.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.vibration/com.riseon.vibration-2.0.1.tgz",
+    "shasum": "14c75ac419dedbf15b607a14cc86b0ab23d56d7e",
+    "integrity": "sha512-RKBT7hp4Fl4Chs2YdI7yRQDrxZo/Wy9EmMbg295LKXzajVBh1nC//7XoNSkLA3HdBVSFbBj0h1x/3fAMIBL1xw=="
+   }
   }
  },
  "time": {
   "1.0.1": "2026-11-16T07:14:07.000Z",
-  "modified": "2026-11-20T13:25:18.000Z",
+  "modified": "2026-11-20T14:39:57.000Z",
   "1.0.0": "2026-11-16T07:14:08.000Z",
-  "2.0.0": "2026-11-20T13:25:18.000Z"
+  "2.0.0": "2026-11-20T13:25:18.000Z",
+  "2.0.1": "2026-11-20T14:39:57.000Z"
  },
  "dist-tags": {
-  "latest": "2.0.0"
+  "latest": "2.0.1"
  }
 }

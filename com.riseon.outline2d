@@ -214,11 +214,34 @@
     "shasum": "5c74c928994445a1ce6b28220840ac423adddeca",
     "integrity": "sha512-caVdAYgQVL+9fLgv4QSWD+Vs/mrsvsQfFYy5mlumPx2be+7bAkHggfmaspI0ltSp2Z+Pp4yNsYdQUsHRo+zLBw=="
    }
+  },
+  "2.0.2": {
+   "name": "com.riseon.outline2d",
+   "version": "2.0.2",
+   "displayName": "RiseOn Outline 2D",
+   "description": "Outline the merged silhouette of a group of renderers (sprites, meshes such as Spine skeletons) or UI Graphics, expanded exactly like Select > Modify > Expand, over an optional soft drop shadow, with a fixed texel budget and a performance profile: capture on demand or at an interval, exact on worker threads or fast on the GPU, asynchronous or in the same frame",
+   "unity": "6000.3",
+   "documentationUrl": "https://github.com/riseongamestudio/Outline2D/blob/v2.0.2/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.utils": "1.0.18",
+    "com.unity.burst": "1.8.29",
+    "com.unity.mathematics": "1.3.3",
+    "com.unity.render-pipelines.universal": "17.3.0",
+    "com.unity.ugui": "2.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.outline2d/com.riseon.outline2d-2.0.2.tgz",
+    "shasum": "e8978fd7e902b62a9a8dac2428d29468812bb702",
+    "integrity": "sha512-xs007ibFlsHCFtOnLm3XEc1+sy0LPEghR+gdCvbWXRfrwBZ9+yWhfYju1mIRgXMq71opph6MP/BqgerBX2Fmlw=="
+   }
   }
  },
  "time": {
   "2.0.0": "2026-11-16T07:13:31.000Z",
-  "modified": "2026-11-19T09:42:40.000Z",
+  "modified": "2026-11-20T14:39:50.000Z",
   "1.2.0": "2026-11-16T07:13:33.000Z",
   "1.1.0": "2026-11-16T07:13:35.000Z",
   "1.0.5": "2026-11-16T07:13:36.000Z",
@@ -227,9 +250,10 @@
   "1.0.2": "2026-11-16T07:13:41.000Z",
   "1.0.1": "2026-11-16T07:13:43.000Z",
   "1.0.0": "2026-11-16T07:13:45.000Z",
-  "2.0.1": "2026-11-19T09:42:40.000Z"
+  "2.0.1": "2026-11-19T09:42:40.000Z",
+  "2.0.2": "2026-11-20T14:39:50.000Z"
  },
  "dist-tags": {
-  "latest": "2.0.1"
+  "latest": "2.0.2"
  }
 }

@@ -21,13 +21,35 @@
     "shasum": "be7058fdb785f38cf674ab8f7a20372e42200026",
     "integrity": "sha512-Wcj/MOE70B/mZRmtDV5fdtRnjRfZqsRswkSWIyVxDtzVgr5RybD9XmTThuSkFNgtUvE6v2D1u4KPOxDdCXEJKA=="
    }
+  },
+  "1.0.1": {
+   "name": "com.riseon.ads.levelplay",
+   "version": "1.0.1",
+   "displayName": "RiseOn Ads LevelPlay",
+   "description": "Unity LevelPlay provider for com.riseon.ads: banner, MRec, interstitial and rewarded",
+   "unity": "6000.3",
+   "documentationUrl": "https://github.com/riseongamestudio/Ads/blob/com.riseon.ads.levelplay/1.0.1/LevelPlay/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.ads": "2.0.0",
+    "com.riseon.utils": "1.0.18",
+    "com.unity.services.levelplay": "9.5.1"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.ads.levelplay/com.riseon.ads.levelplay-1.0.1.tgz",
+    "shasum": "f64f963a65d499c401185f251dfc7854eaeccf6c",
+    "integrity": "sha512-krua1sTC//z1tyuKKd8pIagGU+s1QW03ThSJhfkNe6VGvUO0rf/kwTPRyXD8+w44ZmFCndjqzqSNeTwaWIzZVg=="
+   }
   }
  },
  "time": {
   "1.0.0": "2026-11-20T12:25:33.000Z",
-  "modified": "2026-11-20T12:25:33.000Z"
+  "modified": "2026-11-20T14:39:35.000Z",
+  "1.0.1": "2026-11-20T14:39:35.000Z"
  },
  "dist-tags": {
-  "latest": "1.0.0"
+  "latest": "1.0.1"
  }
 }

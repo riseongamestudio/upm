@@ -42,14 +42,36 @@
     "shasum": "a5e525e95781377e8c69bc0c1881460ce782af6f",
     "integrity": "sha512-SXmDrx8tN8cwFz0W5QqzyR2lsKxbq4cB9stE9OHGwajKmXXwYpRHGcq2oWKJ3JGkmXQIItA5AaMsTKdottkC6g=="
    }
+  },
+  "1.0.2": {
+   "name": "com.riseon.analytics.appsflyer",
+   "version": "1.0.2",
+   "displayName": "RiseOn Analytics AppsFlyer",
+   "description": "AppsFlyer as a com.riseon.analytics service: started after the consent flow with the TCF data the consent form wrote, the dev key and App Store id from the project settings, ad revenue and purchases in AppsFlyer's own shapes",
+   "unity": "6000.3",
+   "documentationUrl": "https://github.com/riseongamestudio/Analytics/blob/com.riseon.analytics.appsflyer/1.0.2/AppsFlyer/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.analytics": "1.0.2",
+    "appsflyer-unity-plugin": "7.0.2",
+    "com.cysharp.unitask": "2.5.11"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.analytics.appsflyer/com.riseon.analytics.appsflyer-1.0.2.tgz",
+    "shasum": "32f53babac00f636901b7e1c54b9b03dd7aa25ec",
+    "integrity": "sha512-ksOdD+jOCFhxb61Y8v9nT1A/q11tkyzNuDQLdxJkwQb1mLAMOR7/QWy5PIHgulL3rFNAnx7bmHrxNVRtHbJ7TQ=="
+   }
   }
  },
  "time": {
   "1.0.0": "2026-11-20T12:25:45.000Z",
-  "modified": "2026-11-20T13:00:33.000Z",
-  "1.0.1": "2026-11-20T13:00:33.000Z"
+  "modified": "2026-11-20T14:39:42.000Z",
+  "1.0.1": "2026-11-20T13:00:33.000Z",
+  "1.0.2": "2026-11-20T14:39:42.000Z"
  },
  "dist-tags": {
-  "latest": "1.0.1"
+  "latest": "1.0.2"
  }
 }

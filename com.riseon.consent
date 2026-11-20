@@ -44,14 +44,37 @@
     "shasum": "ff7fcc3ad66d24a8859fe69c36ae9c420ccba369",
     "integrity": "sha512-pRpvtzg1+9v/uAJ48trZkepgNCh+LSI7FcgEYpMvhf0n5LGPZ+LiLz0SdBA/FujV1AheVuULD0Xxmig58pPGdg=="
    }
+  },
+  "1.0.2": {
+   "name": "com.riseon.consent",
+   "version": "1.0.2",
+   "displayName": "RiseOn Consent",
+   "description": "The consent flow every SDK waits for: Google's UMP for GDPR and US-state forms, then App Tracking Transparency on iOS, run on its own at launch",
+   "unity": "6000.3",
+   "documentationUrl": "https://github.com/riseongamestudio/Consent/blob/v1.0.2/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.cysharp.unitask": "2.5.11",
+    "com.riseon.utils": "1.0.18",
+    "com.google.external-dependency-manager": "1.2.189",
+    "com.unity.modules.androidjni": "1.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.consent/com.riseon.consent-1.0.2.tgz",
+    "shasum": "4b65748540ddc4bb93702833b13afeb71b545042",
+    "integrity": "sha512-WU9UTPaCYW/+/UMCEIoIi5c/rInbzU2nZZlGIcemqLY+KROkaVWhCnxwUg3+di940q/Fnyex5CRcTzbZDJACCg=="
+   }
   }
  },
  "time": {
   "1.0.0": "2026-11-20T12:25:48.000Z",
-  "modified": "2026-11-20T13:00:34.000Z",
-  "1.0.1": "2026-11-20T13:00:34.000Z"
+  "modified": "2026-11-20T14:39:44.000Z",
+  "1.0.1": "2026-11-20T13:00:34.000Z",
+  "1.0.2": "2026-11-20T14:39:44.000Z"
  },
  "dist-tags": {
-  "latest": "1.0.1"
+  "latest": "1.0.2"
  }
 }

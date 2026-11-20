@@ -90,17 +90,37 @@
     "shasum": "a625d12079ffc5a103ffb19d3ca1ba6e6e04f519",
     "integrity": "sha512-myV9SuYTDsmLH4GpQ6LOgoLBD0JxePflMQVaEFqY5wIVjQlVBhDGGr6jhNkj+VpNPT63fx4TDug06LbyqYkQ4g=="
    }
+  },
+  "2.0.1": {
+   "name": "com.riseon.propositions",
+   "version": "2.0.1",
+   "displayName": "RiseOn Propositions",
+   "description": "Logic propositions composed in the Inspector: formulas with And/Or/AtLeast/AtMost, negation, constants and external sources",
+   "unity": "6000.3",
+   "documentationUrl": "https://github.com/riseongamestudio/Propositions/blob/v2.0.1/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.serializables": "1.0.5"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.propositions/com.riseon.propositions-2.0.1.tgz",
+    "shasum": "202c3a9527fe0972452ff592babf6c4bbdf8bce1",
+    "integrity": "sha512-2oEZyJiP3Vcsm9II2uhp1XKHttvNEA/J76Po19LqsoHYUw6OYPwlJIPlS8Znx0hhZO3fdgcf/rg3LhSKFMDt+g=="
+   }
   }
  },
  "time": {
   "1.0.3": "2026-11-16T07:13:48.000Z",
-  "modified": "2026-11-20T13:00:43.000Z",
+  "modified": "2026-11-20T14:39:52.000Z",
   "1.0.2": "2026-11-16T07:13:49.000Z",
   "1.0.1": "2026-11-16T07:13:51.000Z",
   "1.0.0": "2026-11-16T07:13:52.000Z",
-  "2.0.0": "2026-11-20T13:00:43.000Z"
+  "2.0.0": "2026-11-20T13:00:43.000Z",
+  "2.0.1": "2026-11-20T14:39:52.000Z"
  },
  "dist-tags": {
-  "latest": "2.0.0"
+  "latest": "2.0.1"
  }
 }

@@ -92,74 +92,74 @@
  },
  "com.riseon.ads": {
   "name": "com.riseon.ads",
-  "version": "1.0.1",
-  "date": "2026-11-20T13:00:28.000Z",
+  "version": "2.0.0",
+  "date": "2026-11-20T14:39:33.000Z",
   "description": "Ad manager for Unity: providers behind priority lists, started after the consent flow, full-screen chains under a native cover, collapsible chains"
  },
  "com.riseon.ads.admob": {
   "name": "com.riseon.ads.admob",
-  "version": "1.0.0",
-  "date": "2026-11-20T12:25:35.000Z",
+  "version": "1.0.1",
+  "date": "2026-11-20T14:39:37.000Z",
   "description": "Google AdMob provider for com.riseon.ads: banner, MRec, interstitial, rewarded, rewarded interstitial, app open and the native ad views of com.riseon.ads.admob.native"
  },
  "com.riseon.ads.admob.native": {
   "name": "com.riseon.ads.admob.native",
-  "version": "2.0.0",
-  "date": "2026-11-20T13:25:14.000Z",
+  "version": "2.0.1",
+  "date": "2026-11-20T14:39:38.000Z",
   "description": "AdMob native ads for Unity in full-screen, half-screen (collapsible) and in-feed layouts"
  },
  "com.riseon.ads.levelplay": {
   "name": "com.riseon.ads.levelplay",
-  "version": "1.0.0",
-  "date": "2026-11-20T12:25:33.000Z",
+  "version": "1.0.1",
+  "date": "2026-11-20T14:39:35.000Z",
   "description": "Unity LevelPlay provider for com.riseon.ads: banner, MRec, interstitial and rewarded"
  },
  "com.riseon.ads.max": {
   "name": "com.riseon.ads.max",
-  "version": "1.0.0",
-  "date": "2026-11-20T12:25:30.000Z",
+  "version": "1.0.1",
+  "date": "2026-11-20T14:39:34.000Z",
   "description": "AppLovin MAX provider for com.riseon.ads: banner, MRec, interstitial, rewarded and app open"
  },
  "com.riseon.analytics": {
   "name": "com.riseon.analytics",
-  "version": "1.0.1",
-  "date": "2026-11-20T13:00:30.000Z",
+  "version": "1.0.2",
+  "date": "2026-11-20T14:39:40.000Z",
   "description": "One static API for the game's analytics: events, ad revenue, purchases and user properties go to every installed service, each starting on its own once what it needs is ready and taking only the events the project settings send it"
  },
  "com.riseon.analytics.appsflyer": {
   "name": "com.riseon.analytics.appsflyer",
-  "version": "1.0.1",
-  "date": "2026-11-20T13:00:33.000Z",
+  "version": "1.0.2",
+  "date": "2026-11-20T14:39:42.000Z",
   "description": "AppsFlyer as a com.riseon.analytics service: started after the consent flow with the TCF data the consent form wrote, the dev key and App Store id from the project settings, ad revenue and purchases in AppsFlyer's own shapes"
  },
  "com.riseon.analytics.firebase": {
   "name": "com.riseon.analytics.firebase",
-  "version": "1.0.1",
-  "date": "2026-11-20T13:00:31.000Z",
+  "version": "1.0.2",
+  "date": "2026-11-20T14:39:41.000Z",
   "description": "Google Analytics, Firebase's analytics, as a com.riseon.analytics service: events checked against Firebase's rules in the Editor, ad revenue as ad_impression, App Store purchases logged the way StoreKit 2 needs"
  },
  "com.riseon.consent": {
   "name": "com.riseon.consent",
-  "version": "1.0.1",
-  "date": "2026-11-20T13:00:34.000Z",
+  "version": "1.0.2",
+  "date": "2026-11-20T14:39:44.000Z",
   "description": "The consent flow every SDK waits for: Google's UMP for GDPR and US-state forms, then App Tracking Transparency on iOS, run on its own at launch"
  },
  "com.riseon.firebase": {
   "name": "com.riseon.firebase",
-  "version": "1.0.1",
-  "date": "2026-11-20T13:00:36.000Z",
+  "version": "1.0.2",
+  "date": "2026-11-20T14:39:45.000Z",
   "description": "Starts Firebase on its own at launch: App Check and log level from the project settings, the Google Play services check, and any failure handed to one handler in the game"
  },
  "com.riseon.firebase.remoteconfig": {
   "name": "com.riseon.firebase.remoteconfig",
-  "version": "1.0.1",
-  "date": "2026-11-20T13:00:38.000Z",
+  "version": "2.0.0",
+  "date": "2026-11-20T14:39:46.000Z",
   "description": "Remote Config declared in Project Settings: typed values with an enum per key, a launch fetch that hands any failure to one handler, live parameters, and pull and push with the Firebase console from the Editor"
  },
  "com.riseon.iap": {
   "name": "com.riseon.iap",
-  "version": "1.0.1",
-  "date": "2026-11-20T13:00:40.000Z",
+  "version": "2.0.0",
+  "date": "2026-11-20T14:39:48.000Z",
   "description": "Unity IAP started on its own at launch from a catalog in the project settings: Google Play receipts checked, purchases the store returns before the game is ready held for it, and one handle that buys, grants and confirms in the right order"
  },
  "com.riseon.nativeadmob": {
@@ -170,68 +170,68 @@
  },
  "com.riseon.outline2d": {
   "name": "com.riseon.outline2d",
-  "version": "2.0.1",
-  "date": "2026-11-19T09:42:40.000Z",
+  "version": "2.0.2",
+  "date": "2026-11-20T14:39:50.000Z",
   "description": "Outline the merged silhouette of a group of renderers (sprites, meshes such as Spine skeletons) or UI Graphics, expanded exactly like Select > Modify > Expand, over an optional soft drop shadow, with a fixed texel budget and a performance profile: capture on demand or at an interval, exact on worker threads or fast on the GPU, asynchronous or in the same frame"
  },
  "com.riseon.propositions": {
   "name": "com.riseon.propositions",
-  "version": "2.0.0",
-  "date": "2026-11-20T13:00:43.000Z",
+  "version": "2.0.1",
+  "date": "2026-11-20T14:39:52.000Z",
   "description": "Logic propositions composed in the Inspector: formulas with And/Or/AtLeast/AtMost, negation, constants and external sources"
  },
  "com.riseon.serializables": {
   "name": "com.riseon.serializables",
-  "version": "1.0.4",
-  "date": "2026-11-20T12:25:59.000Z",
+  "version": "1.0.5",
+  "date": "2026-11-20T14:39:54.000Z",
   "description": "Serializable wrappers with Odin drawers: EnumMap, SerObject (interface references to Unity objects), SerRef (managed references with type picker) and SerMoment (timestamps)"
  },
  "com.riseon.transitions": {
   "name": "com.riseon.transitions",
-  "version": "0.2.0",
-  "date": "2026-11-20T13:00:45.000Z",
+  "version": "0.2.1",
+  "date": "2026-11-20T14:39:55.000Z",
   "description": "Transitions set up in the Inspector or in code as pure functions of one 0-1 clock: targets and their public properties, each changed by modifiers (override, addition, multiplication, blend, chain, axis) over sources (constant, tween, curve, offset, sizes, sum, product, retiming), with operations per value type registered by a source generator"
  },
  "com.riseon.utils": {
   "name": "com.riseon.utils",
-  "version": "1.0.17",
-  "date": "2026-11-20T12:26:02.000Z",
+  "version": "1.0.18",
+  "date": "2026-11-20T14:40:01.000Z",
   "description": "Extensions and utilities shared by RiseOn packages: Singleton, Bounds2D, DirectionExt, undo and math utils, EnumLabel, ForwardAttributesTo, AllowGenerics, editor tools and search windows"
  },
  "com.riseon.utils.litmotion": {
   "name": "com.riseon.utils.litmotion",
-  "version": "1.0.0",
-  "date": "2026-11-16T07:15:09.000Z",
+  "version": "1.0.1",
+  "date": "2026-11-20T14:40:07.000Z",
   "description": "LitMotion utilities: EaseExt, an ease or a hand-drawn curve, drawn on one row in the Inspector"
  },
  "com.riseon.utils.network": {
   "name": "com.riseon.utils.network",
-  "version": "2.0.0",
-  "date": "2026-11-20T13:25:19.000Z",
+  "version": "2.0.1",
+  "date": "2026-11-20T14:40:06.000Z",
   "description": "Network utilities: current time from NTP with an HTTP Date fallback, and a real internet connectivity check"
  },
  "com.riseon.utils.renderers": {
   "name": "com.riseon.utils.renderers",
-  "version": "1.0.4",
-  "date": "2026-11-20T12:26:04.000Z",
+  "version": "1.0.5",
+  "date": "2026-11-20T14:40:04.000Z",
   "description": "Renderer utilities: RendererAnchorer, RendererExt, RenderOrder2DRaycaster, SpriteRenderer color utilities"
  },
  "com.riseon.utils.ui": {
   "name": "com.riseon.utils.ui",
-  "version": "1.0.5",
-  "date": "2026-11-16T07:14:45.000Z",
+  "version": "1.0.6",
+  "date": "2026-11-20T14:40:03.000Z",
   "description": "UGUI utilities: AspectRatioFitterElement, RebuildLayoutFixer and Image color utilities"
  },
  "com.riseon.vibration": {
   "name": "com.riseon.vibration",
-  "version": "2.0.0",
-  "date": "2026-11-20T13:25:18.000Z",
+  "version": "2.0.1",
+  "date": "2026-11-20T14:39:57.000Z",
   "description": "Short vibrations for Android and iOS through one static call: light, medium and heavy levels, or your own pulses and patterns"
  },
  "com.riseon.wipe2d": {
   "name": "com.riseon.wipe2d",
-  "version": "1.1.1",
-  "date": "2026-11-20T13:00:47.000Z",
+  "version": "1.1.2",
+  "date": "2026-11-20T14:39:58.000Z",
   "description": "Wipe or reveal sprites and UI images with a brush, with GPU masks, progress tracking, auto-finish threshold and SpriteMask/Mask support"
  }
 }

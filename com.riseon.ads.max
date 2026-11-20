@@ -21,13 +21,35 @@
     "shasum": "940372ef7140147db36a4b1f195a0a456a2ca61b",
     "integrity": "sha512-NaMgQnfJrBzVWpPhiQwqQxnmdIvu+p8F6l8HevWsqTidrBfKSSraRoqKmwSawTRMFcjcA4vRz1Qnk+VumqsXaw=="
    }
+  },
+  "1.0.1": {
+   "name": "com.riseon.ads.max",
+   "version": "1.0.1",
+   "displayName": "RiseOn Ads MAX",
+   "description": "AppLovin MAX provider for com.riseon.ads: banner, MRec, interstitial, rewarded and app open",
+   "unity": "6000.3",
+   "documentationUrl": "https://github.com/riseongamestudio/Ads/blob/com.riseon.ads.max/1.0.1/Max/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.ads": "2.0.0",
+    "com.riseon.utils": "1.0.18",
+    "com.applovin.mediation.ads": "8.6.5"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.ads.max/com.riseon.ads.max-1.0.1.tgz",
+    "shasum": "d80436ec42001401685e65f2f3ad41f0fd2d9939",
+    "integrity": "sha512-5J4UHQYToZ0RWSNXEG1SH/3hqx9ykvx9s3SZBVhlcQg++YSTtCZ8d3n9CkV3c7PF5EDXuiErWCuGlCea/eP2Ng=="
+   }
   }
  },
  "time": {
   "1.0.0": "2026-11-20T12:25:30.000Z",
-  "modified": "2026-11-20T12:25:30.000Z"
+  "modified": "2026-11-20T14:39:34.000Z",
+  "1.0.1": "2026-11-20T14:39:34.000Z"
  },
  "dist-tags": {
-  "latest": "1.0.0"
+  "latest": "1.0.1"
  }
 }
