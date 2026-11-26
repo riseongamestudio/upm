@@ -92,32 +92,32 @@
  },
  "com.riseon.ads": {
   "name": "com.riseon.ads",
-  "version": "2.0.0",
-  "date": "2026-11-20T14:39:33.000Z",
+  "version": "3.0.0",
+  "date": "2026-11-26T17:14:53.000Z",
   "description": "Ad manager for Unity: providers behind priority lists, started after the consent flow, full-screen chains under a native cover, collapsible chains"
  },
  "com.riseon.ads.admob": {
   "name": "com.riseon.ads.admob",
-  "version": "1.0.1",
-  "date": "2026-11-20T14:39:37.000Z",
+  "version": "1.1.0",
+  "date": "2026-11-26T17:14:57.000Z",
   "description": "Google AdMob provider for com.riseon.ads: banner, MRec, interstitial, rewarded, rewarded interstitial, app open and the native ad views of com.riseon.ads.admob.native"
  },
  "com.riseon.ads.admob.native": {
   "name": "com.riseon.ads.admob.native",
-  "version": "2.0.1",
-  "date": "2026-11-20T14:39:38.000Z",
+  "version": "2.1.0",
+  "date": "2026-11-26T17:14:58.000Z",
   "description": "AdMob native ads for Unity in full-screen, half-screen (collapsible) and in-feed layouts"
  },
  "com.riseon.ads.levelplay": {
   "name": "com.riseon.ads.levelplay",
-  "version": "1.0.1",
-  "date": "2026-11-20T14:39:35.000Z",
+  "version": "1.1.0",
+  "date": "2026-11-26T17:14:55.000Z",
   "description": "Unity LevelPlay provider for com.riseon.ads: banner, MRec, interstitial and rewarded"
  },
  "com.riseon.ads.max": {
   "name": "com.riseon.ads.max",
-  "version": "1.0.1",
-  "date": "2026-11-20T14:39:34.000Z",
+  "version": "1.1.0",
+  "date": "2026-11-26T17:14:54.000Z",
   "description": "AppLovin MAX provider for com.riseon.ads: banner, MRec, interstitial, rewarded and app open"
  },
  "com.riseon.analytics": {
