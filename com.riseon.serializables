@@ -109,18 +109,38 @@
     "shasum": "7be8ca5636f324e64635ee9ba9cbbdb5696f5527",
     "integrity": "sha512-1Iwh6LEASJOyyMdXrmGl6nzCFbJ+pPbPgPowY0Od9VDk5QmNmjRMiXv1gzLkvLQosbaDB0drJd2/QQwwbcrFBw=="
    }
+  },
+  "1.0.6": {
+   "name": "com.riseon.serializables",
+   "version": "1.0.6",
+   "displayName": "RiseOn Serializables",
+   "description": "Serializable wrappers with Odin drawers: EnumMap, SerObject (interface references to Unity objects), SerRef (managed references with type picker) and SerMoment (timestamps)",
+   "unity": "6000.3",
+   "documentationUrl": "https://github.com/riseongamestudio/Serializables/blob/v1.0.6/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.utils": "2.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.serializables/com.riseon.serializables-1.0.6.tgz",
+    "shasum": "1782ae55a82244a57d1ea4dea7e8a769353177ee",
+    "integrity": "sha512-Ob4wfv4ipCerOVPUzhMBzg3FDYzUXKNZIOP30UIeTfmS8FblEiofGcpPQ7ya7piJhePjTY5mXkCrQgHCmUYSWQ=="
+   }
   }
  },
  "time": {
   "1.0.3": "2026-11-16T07:13:56.000Z",
-  "modified": "2026-11-20T14:39:54.000Z",
+  "modified": "2026-11-26T16:32:07.000Z",
   "1.0.2": "2026-11-16T07:13:57.000Z",
   "1.0.1": "2026-11-16T07:13:59.000Z",
   "1.0.0": "2026-11-16T07:14:00.000Z",
   "1.0.4": "2026-11-20T12:25:59.000Z",
-  "1.0.5": "2026-11-20T14:39:54.000Z"
+  "1.0.5": "2026-11-20T14:39:54.000Z",
+  "1.0.6": "2026-11-26T16:32:07.000Z"
  },
  "dist-tags": {
-  "latest": "1.0.5"
+  "latest": "1.0.6"
  }
 }

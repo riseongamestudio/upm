@@ -325,11 +325,30 @@
     "shasum": "456daf7c9a080c0c4844c06b356f8ce62b4c789c",
     "integrity": "sha512-o2DVOyJX2xuzIkW3MqdyCoDTxFAoEJQyF1b06vUGp/bSkmFeNZpMz9eS40v2eHgOv0rtIiv0DT4TFQj6pI5ndQ=="
    }
+  },
+  "2.0.0": {
+   "name": "com.riseon.utils",
+   "version": "2.0.0",
+   "displayName": "RiseOn Utils",
+   "description": "Extensions and utilities shared by RiseOn packages: Singleton, Bounds2D, DirectionExt, undo and math utils, EnumLabel, ForwardAttributesTo, AllowGenerics, editor tools and search windows",
+   "unity": "6000.3",
+   "documentationUrl": "https://github.com/riseongamestudio/Utils/blob/com.riseon.utils/2.0.0/Core/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.unity.modules.uielements": "1.0.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils/com.riseon.utils-2.0.0.tgz",
+    "shasum": "53fde04b8ba3beea9e9cb08b1713323fc28cbc88",
+    "integrity": "sha512-4CxlEDqiS9BQKqgniO1Gsznal5Irh9ly14nQec8svuSlr0DIIA92Jhi17iDz3vevsUSBouZdP2yQIRJoO4Acrw=="
+   }
   }
  },
  "time": {
   "1.0.13": "2026-11-16T07:14:21.000Z",
-  "modified": "2026-11-20T14:40:01.000Z",
+  "modified": "2026-11-26T16:32:11.000Z",
   "1.0.12": "2026-11-16T07:14:22.000Z",
   "1.0.11": "2026-11-16T07:14:24.000Z",
   "1.0.10": "2026-11-16T07:14:26.000Z",
@@ -346,9 +365,10 @@
   "1.0.15": "2026-11-19T09:42:44.000Z",
   "1.0.16": "2026-11-20T04:36:36.000Z",
   "1.0.17": "2026-11-20T12:26:02.000Z",
-  "1.0.18": "2026-11-20T14:40:01.000Z"
+  "1.0.18": "2026-11-20T14:40:01.000Z",
+  "2.0.0": "2026-11-26T16:32:11.000Z"
  },
  "dist-tags": {
-  "latest": "1.0.18"
+  "latest": "2.0.0"
  }
 }

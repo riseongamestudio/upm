@@ -122,45 +122,45 @@
  },
  "com.riseon.analytics": {
   "name": "com.riseon.analytics",
-  "version": "1.0.2",
-  "date": "2026-11-20T14:39:40.000Z",
+  "version": "2.0.0",
+  "date": "2026-11-26T16:31:54.000Z",
   "description": "One static API for the game's analytics: events, ad revenue, purchases and user properties go to every installed service, each starting on its own once what it needs is ready and taking only the events the project settings send it"
  },
  "com.riseon.analytics.appsflyer": {
   "name": "com.riseon.analytics.appsflyer",
-  "version": "1.0.2",
-  "date": "2026-11-20T14:39:42.000Z",
+  "version": "1.0.3",
+  "date": "2026-11-26T16:31:57.000Z",
   "description": "AppsFlyer as a com.riseon.analytics service: started after the consent flow with the TCF data the consent form wrote, the dev key and App Store id from the project settings, ad revenue and purchases in AppsFlyer's own shapes"
  },
  "com.riseon.analytics.firebase": {
   "name": "com.riseon.analytics.firebase",
-  "version": "1.0.2",
-  "date": "2026-11-20T14:39:41.000Z",
-  "description": "Google Analytics, Firebase's analytics, as a com.riseon.analytics service: events checked against Firebase's rules in the Editor, ad revenue as ad_impression, App Store purchases logged the way StoreKit 2 needs"
+  "version": "2.0.0",
+  "date": "2026-11-26T16:31:56.000Z",
+  "description": "Firebase Analytics, which Google calls Google Analytics, as a com.riseon.analytics service: events checked against Firebase's rules in the Editor, ad revenue as ad_impression, App Store purchases logged the way StoreKit 2 needs"
  },
  "com.riseon.consent": {
   "name": "com.riseon.consent",
-  "version": "1.0.2",
-  "date": "2026-11-20T14:39:44.000Z",
+  "version": "2.0.0",
+  "date": "2026-11-26T16:31:59.000Z",
   "description": "The consent flow every SDK waits for: Google's UMP for GDPR and US-state forms, then App Tracking Transparency on iOS, run on its own at launch"
  },
  "com.riseon.firebase": {
   "name": "com.riseon.firebase",
-  "version": "1.0.2",
-  "date": "2026-11-20T14:39:45.000Z",
+  "version": "1.0.3",
+  "date": "2026-11-26T16:32:01.000Z",
   "description": "Starts Firebase on its own at launch: App Check and log level from the project settings, the Google Play services check, and any failure handed to one handler in the game"
  },
  "com.riseon.firebase.remoteconfig": {
   "name": "com.riseon.firebase.remoteconfig",
-  "version": "2.0.0",
-  "date": "2026-11-20T14:39:46.000Z",
+  "version": "2.0.1",
+  "date": "2026-11-26T16:32:02.000Z",
   "description": "Remote Config declared in Project Settings: typed values with an enum per key, a launch fetch that hands any failure to one handler, live parameters, and pull and push with the Firebase console from the Editor"
  },
  "com.riseon.iap": {
   "name": "com.riseon.iap",
-  "version": "2.0.0",
-  "date": "2026-11-20T14:39:48.000Z",
-  "description": "Unity IAP started on its own at launch from a catalog in the project settings: Google Play receipts checked, purchases the store returns before the game is ready held for it, and one handle that buys, grants and confirms in the right order"
+  "version": "3.0.0",
+  "date": "2026-11-26T16:32:03.000Z",
+  "description": "Unity IAP started on its own at launch from a catalog in the project settings: Google Play receipts checked, consumables given by a granter per product before they are confirmed, and what the account owns kept by the store and read through IapSdk"
  },
  "com.riseon.nativeadmob": {
   "name": "com.riseon.nativeadmob",
@@ -182,8 +182,8 @@
  },
  "com.riseon.serializables": {
   "name": "com.riseon.serializables",
-  "version": "1.0.5",
-  "date": "2026-11-20T14:39:54.000Z",
+  "version": "1.0.6",
+  "date": "2026-11-26T16:32:07.000Z",
   "description": "Serializable wrappers with Odin drawers: EnumMap, SerObject (interface references to Unity objects), SerRef (managed references with type picker) and SerMoment (timestamps)"
  },
  "com.riseon.transitions": {
@@ -194,14 +194,14 @@
  },
  "com.riseon.utils": {
   "name": "com.riseon.utils",
-  "version": "1.0.18",
-  "date": "2026-11-20T14:40:01.000Z",
+  "version": "2.0.0",
+  "date": "2026-11-26T16:32:11.000Z",
   "description": "Extensions and utilities shared by RiseOn packages: Singleton, Bounds2D, DirectionExt, undo and math utils, EnumLabel, ForwardAttributesTo, AllowGenerics, editor tools and search windows"
  },
  "com.riseon.utils.litmotion": {
   "name": "com.riseon.utils.litmotion",
-  "version": "1.0.1",
-  "date": "2026-11-20T14:40:07.000Z",
+  "version": "1.0.2",
+  "date": "2026-11-26T16:32:12.000Z",
   "description": "LitMotion utilities: EaseExt, an ease or a hand-drawn curve, drawn on one row in the Inspector"
  },
  "com.riseon.utils.network": {

@@ -39,14 +39,35 @@
     "shasum": "91e0182ec20e923c37482a05572b767042360193",
     "integrity": "sha512-4PaZM9Eho+C5+aTonNwU/hBwhgSDHH6dzhOjyE1zt/9I0jRhiw8tKPx/X8PkxcHIDDpjLOfmFOSchvFp5UFj+A=="
    }
+  },
+  "1.0.2": {
+   "name": "com.riseon.utils.litmotion",
+   "version": "1.0.2",
+   "displayName": "RiseOn Utils LitMotion",
+   "description": "LitMotion utilities: EaseExt, an ease or a hand-drawn curve, drawn on one row in the Inspector",
+   "unity": "6000.3",
+   "documentationUrl": "https://github.com/riseongamestudio/Utils/blob/com.riseon.utils.litmotion/1.0.2/LitMotion/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.utils": "2.0.0",
+    "com.annulusgames.lit-motion": "2.0.2"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils.litmotion/com.riseon.utils.litmotion-1.0.2.tgz",
+    "shasum": "f0b4f10c1bb3a1dda141593082eb4536222262b1",
+    "integrity": "sha512-W6q/rrv48Px6mxLUxxESeUT4QYdFNWK/8AwLsoKlF6fsfEXcP4D9j13jG2q6UlUBM6koKNx6gCfwpvtV4zH5Hw=="
+   }
   }
  },
  "time": {
   "1.0.0": "2026-11-16T07:15:09.000Z",
-  "modified": "2026-11-20T14:40:07.000Z",
-  "1.0.1": "2026-11-20T14:40:07.000Z"
+  "modified": "2026-11-26T16:32:12.000Z",
+  "1.0.1": "2026-11-20T14:40:07.000Z",
+  "1.0.2": "2026-11-26T16:32:12.000Z"
  },
  "dist-tags": {
-  "latest": "1.0.1"
+  "latest": "1.0.2"
  }
 }
