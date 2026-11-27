@@ -21,13 +21,9 @@ FIREBASE_FROM = (13, 17, 0)
 FIREBASE_TARBALL = "https://dl.google.com/games/registry/unity/com.google.firebase.{0}/com.google.firebase.{0}-{1}.tgz"
 
 # AppsFlyer publishes its UPM package only as the head of its upm branch, rewritten at each release, so each new
-# version there is mirrored; older versions are kept from the commits RiseOn projects had locked.
+# version there is mirrored as it appears.
 APPSFLYER_REPO = "AppsFlyerSDK/appsflyer-unity-plugin"
-APPSFLYER_REFS = [
-    "refs/heads/upm",
-    "d26fcb5d8c7d0f6598764dc687154e967b167761",  # 6.17.900
-    "313c87fbf49d6f2863f54315cc00300032372774",  # 7.0.2
-]
+APPSFLYER_BRANCH = "upm"
 
 
 # RiseOn's packages. A repo holding one package at its root tags "v<version>"; a repo holding several keeps each in
@@ -178,13 +174,11 @@ def repack(archive, folder=""):
 
 
 def appsflyer_tarballs(published, skipped):
-    for ref in APPSFLYER_REFS:
-        raw = f"https://raw.githubusercontent.com/{APPSFLYER_REPO}/{ref.removeprefix('refs/heads/')}/package.json"
-        manifest = json.loads(fetch(raw))
-        if manifest["version"] in published.get(manifest["name"], ()):
-            continue
+    manifest = json.loads(fetch(f"https://raw.githubusercontent.com/{APPSFLYER_REPO}/{APPSFLYER_BRANCH}/package.json"))
+    if manifest["version"] in published.get(manifest["name"], ()):
+        return
 
-        yield "appsflyer-" + manifest["version"], repack(fetch(f"https://codeload.github.com/{APPSFLYER_REPO}/tar.gz/{ref}"))
+    yield "appsflyer-" + manifest["version"], repack(fetch(f"https://codeload.github.com/{APPSFLYER_REPO}/tar.gz/refs/heads/{APPSFLYER_BRANCH}"))
 
 
 def read_manifest(data):
