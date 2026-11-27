@@ -1,4 +1,4 @@
-name: Mirror
+name: Index
 
 on:
   schedule:
@@ -13,11 +13,11 @@ permissions:
   id-token: write
 
 concurrency:
-  group: mirror
+  group: index
   cancel-in-progress: false
 
 jobs:
-  mirror:
+  index:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -30,8 +30,8 @@ jobs:
           ref: registry
           path: site
 
-      - id: mirror
-        run: python3 mirror.py site
+      - id: index
+        run: python3 index.py site
         env:
           GH_TOKEN: ${{ github.token }}
 
@@ -41,23 +41,23 @@ jobs:
           git add -A
           if git diff --cached --quiet; then exit 0; fi
           git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
-            commit -q -m "Mirror ${{ steps.mirror.outputs.added }} package versions"
+            commit -q -m "Index ${{ steps.index.outputs.added }} package versions"
           git push origin HEAD:registry
 
       # GitHub turns off the schedule of a public repo without activity for 60 days; enabling it again restarts that count.
       - name: Keep the schedule on
-        run: gh workflow enable mirror.yml -R "${{ github.repository }}"
+        run: gh workflow enable index.yml -R "${{ github.repository }}"
         env:
           GH_TOKEN: ${{ github.token }}
 
-      - if: steps.mirror.outputs.deploy == '1'
+      - if: steps.index.outputs.deploy == '1'
         uses: actions/configure-pages@v5
 
-      - if: steps.mirror.outputs.deploy == '1'
+      - if: steps.index.outputs.deploy == '1'
         uses: actions/upload-pages-artifact@v3
         with:
           path: site
 
       - id: deploy
-        if: steps.mirror.outputs.deploy == '1'
+        if: steps.index.outputs.deploy == '1'
         uses: actions/deploy-pages@v4

@@ -1,0 +1,25 @@
+name: Pack release
+
+# Called by each RiseOn pack repo when a tag is pushed: publishes that package version as a release of the pack repo.
+on:
+  workflow_call:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/checkout@v4
+        with:
+          repository: riseongamestudio/upm
+          path: .upm
+
+      - run: python3 .upm/pack_release.py "${{ github.ref_name }}"
+        env:
+          GH_TOKEN: ${{ github.token }}
