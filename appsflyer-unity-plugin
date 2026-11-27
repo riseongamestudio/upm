@@ -52,14 +52,741 @@
     "shasum": "716b869a963d74ccd336d6c9ac23a3bc543b0fee",
     "integrity": "sha512-bgU5xcxdEoxV4lnMe0kNknVAc0JNwENB7eTaFOH/QTRJ//zD32eyv2oaMsB5FcOrPzUV9rlf7B/0X/2CyogZxA=="
    }
+  },
+  "6.18.3": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.18.3",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.18.3/appsflyer-unity-plugin-6.18.3.tgz",
+    "shasum": "7facf31f507ce7e6ba7a4dbdcaa14e9535d96cc3",
+    "integrity": "sha512-yU0MP0gMqZERk7tphiEG09e43hK7hEDdxbs222puhnQ+oMNOiNL4M0CoDr8HN6pg3m5oAEbLeR0bJQtON7sY+Q=="
+   }
+  },
+  "6.18.1": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.18.1",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.18.1/appsflyer-unity-plugin-6.18.1.tgz",
+    "shasum": "967b7659ad011f07ae2de02b2b16d09798ca4fb1",
+    "integrity": "sha512-CpAMhSDMrnG4L4TAJCajuEogOB6M4sbZORoXhsnWe2gtCDny0ov/1P2q6v8EN9g7gHngj6b+50o8SWX71d3S4A=="
+   }
+  },
+  "6.18.0": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.18.0",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.18.0/appsflyer-unity-plugin-6.18.0.tgz",
+    "shasum": "8e393e9777494f91e82bcba0d47a6893c746daa0",
+    "integrity": "sha512-O4UdiMdz1qyS6ctpyC4LCnyBJ4UjyjrvRwQq7OCpB2ewRsCkMUEX8B7ZqKU8OMIxW5SLyxWmLTcL6Hho+H1CDQ=="
+   }
+  },
+  "6.17.91": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.17.91",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.17.91/appsflyer-unity-plugin-6.17.91.tgz",
+    "shasum": "6b70f95b5f7453d28a37f3eee890fbfb2c84a06a",
+    "integrity": "sha512-/ln4OkM0koBwVs6oRcfb+mTObQou9h7HMIa7d9BkJhPN+jIUHZn2acf1902aUaUULS95YTVvO/If5dy6oNcX4g=="
+   }
+  },
+  "6.17.90": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.17.90",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.17.90/appsflyer-unity-plugin-6.17.90.tgz",
+    "shasum": "46d9ff62bc2504ed0df7e045dacbcd01ca40015d",
+    "integrity": "sha512-Ax4uizZNC09vhk9cA0uQC2cFYZ5h3qylxxQ5F6LuwiQ8AzY0jy7pB+1JdoSrCqa07mQUZ4ljZ7ecLea58sbk2w=="
+   }
+  },
+  "6.17.81": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.17.81",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.17.81/appsflyer-unity-plugin-6.17.81.tgz",
+    "shasum": "2535bcd9e28d214c4472243ee4c594d32ce95590",
+    "integrity": "sha512-rcA70CuQUBAAImIJzLx38YOBLlFNzw7nE4V+YyB/Y5/xzm8M3SzwYMJYKAhSxvvV2LM3NG/zs/oxD+/OygxB5Q=="
+   }
+  },
+  "6.17.80": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.17.80",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.17.80/appsflyer-unity-plugin-6.17.80.tgz",
+    "shasum": "fce45ed031cdb0803bbb34b02b3d9daeaf1bf809",
+    "integrity": "sha512-68G0uabfFzAmpBvYPIeM+vF45AD1gAJi25mIAyFpHvQemJVPr8Y2NQjtvLu2t4VE5SYm4OfeOOr3FFv0H4es5w=="
+   }
+  },
+  "6.17.72": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.17.72",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.17.72/appsflyer-unity-plugin-6.17.72.tgz",
+    "shasum": "e477ebf92c54a3f450c201757fbef582947ebe7b",
+    "integrity": "sha512-B3lWHAqiRZ93DBUSn/lVtBGbY6KzQfQAaUFonnubaQQvwPvWpr93M1NcX1agXK38cT9ekBbwXOvRa9/Ko+xZ9w=="
+   }
+  },
+  "6.17.71": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.17.71",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.17.71/appsflyer-unity-plugin-6.17.71.tgz",
+    "shasum": "01606c8557de937ee9983ae7d7c39f8998d1555b",
+    "integrity": "sha512-NZPCpKUMDBsseTKVLc22+FnyFbp3PiX1fyA0x4uK9l0TRn0QuAE0Mg20lhDEZl1q+1eMGw2n0oDPe/0Gn9DmGw=="
+   }
+  },
+  "6.17.7": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.17.7",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.17.7/appsflyer-unity-plugin-6.17.7.tgz",
+    "shasum": "b7e7073501995075e0fe2a31243c16b249451558",
+    "integrity": "sha512-rVzlYlxxqvgT0q7lbUl5OdjjsqRqr5wov07Gc9QBiB2tiSrk0j+17n9q9WYrQbmNq6br32ZxXRRPOgD8gjug9A=="
+   }
+  },
+  "6.17.5": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.17.5",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.17.5/appsflyer-unity-plugin-6.17.5.tgz",
+    "shasum": "7f4e91c653dcba674695e5e41fc8dc4509c4da63",
+    "integrity": "sha512-86MMB/HtG+69OPy/WmPd/oh3WgXfyUa9HdrkM3DyNo98nUKBoyanz4yKOF5yXC2E0n0QvfThk0FF/vXk/MJP0A=="
+   }
+  },
+  "6.16.2": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.16.2",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.16.2/appsflyer-unity-plugin-6.16.2.tgz",
+    "shasum": "180da5e6b0b0feca82d7ccfb93f87964bbce04af",
+    "integrity": "sha512-xnJ/kWS5uF/PHo7vdGrSPM3oHA20stdCNXhDcqTvxZMWrd7Pub6WujF7c4Q72zQAJmaryR64kcOkMH/pzvXykw=="
+   }
+  },
+  "6.15.3": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.15.3",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.15.3/appsflyer-unity-plugin-6.15.3.tgz",
+    "shasum": "21f24241199975195c2a59fd550c81c5f72ceaaf",
+    "integrity": "sha512-3r1e9krqare12IUZPUpOWasv6jDCYULqgCR3KIixys2P0N49Px8rE70VCnGXVQh7Jn7fLVDXgNQf0/SAwkLnyg=="
+   }
+  },
+  "6.15.2": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.15.2",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.15.2/appsflyer-unity-plugin-6.15.2.tgz",
+    "shasum": "3a05c3f3d354a5853f320b2c3c532dac97b8d056",
+    "integrity": "sha512-fbGtbpLudbFn/2H6uXhBUdO+/edxruZYhOHQqUet14r2uAPvCkfVlqLasWgzSWZfq3aKLEz48iRSAqAmHbDr/Q=="
+   }
+  },
+  "6.15.1": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.15.1",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.15.1/appsflyer-unity-plugin-6.15.1.tgz",
+    "shasum": "104af841dbd94ab5f516464d21b50995a63db23b",
+    "integrity": "sha512-AhhkeRo38vnjtwSA3ttSir8OFRQNn8KYlnozKXLPf8IJ3Vm4Z9491ZVtP6ongEEhbwZchuCUVgiZrjQjiYVSMQ=="
+   }
+  },
+  "6.14.5": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.14.5",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.14.5/appsflyer-unity-plugin-6.14.5.tgz",
+    "shasum": "3823cc5301c73a3f9b8acc79e5f5ac894a676a06",
+    "integrity": "sha512-ZPnnX29BnibR/dFZAfg21mSkX7Kol+dtzljc6WLRR45BaAHdyfA30TXlUylJFOHvRY/k43oGY2CEtA549zFqhg=="
+   }
+  },
+  "6.14.4": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.14.4",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.14.4/appsflyer-unity-plugin-6.14.4.tgz",
+    "shasum": "b91d9d49a1ddfe1909afe9dfad38a95d45a01c64",
+    "integrity": "sha512-7kOcj8LtGC0ZywoALW5p0u9z+BO3tZ2VmSL2K08uKEZJI8O71sqqN0ybe0w2ZbOeYC2zvuQbDspSznF4FD52Dw=="
+   }
+  },
+  "6.14.3": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.14.3",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.14.3/appsflyer-unity-plugin-6.14.3.tgz",
+    "shasum": "c98dcc13122759e27f75c43100248813939473fc",
+    "integrity": "sha512-NXPOiO7AZaeKLAq0nrCbXQo7/IY8T7oHkFGLZOu8xr9pjhbgWdxI81kYsBA+jd85JO5GwGuR7cxlJUrQm7ng0w=="
+   }
+  },
+  "6.14.0": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.14.0",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.14.0/appsflyer-unity-plugin-6.14.0.tgz",
+    "shasum": "a930b7e470183e1d6ba77eef9dabacc326e1d7bd",
+    "integrity": "sha512-0bkFyPf4S01inCA0jRsrFgUwBrBLTyUG9yMsWoMGn/BB5M23JeaKnugUbafwcyHTZTxXe+tOUwuCTskyujg3vg=="
+   }
+  },
+  "6.13.10": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.13.10",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.13.10/appsflyer-unity-plugin-6.13.10.tgz",
+    "shasum": "dc1e5ee137ca6a058183a87403f8ce9cc0cc9e13",
+    "integrity": "sha512-CAow6iow+E90ltnhBg2yGv9a5qI6AaRzpzs3cZTzxkJoBbZlg0Hnf1OYn9fVr2lPdLgXLDYANMiXsFWolGxTeA=="
+   }
+  },
+  "6.13.0": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.13.0",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.13.0/appsflyer-unity-plugin-6.13.0.tgz",
+    "shasum": "cf37ac657049254913bf88461c9417cdbda6c07b",
+    "integrity": "sha512-eqfZnG0lwtrm1cURb/DdvCKyj5y0yx/mcfX0M0Puoaf/5Z5nTgcFat54J7j5TJHd4gEea4t3xacjJxP8m+tHxA=="
+   }
+  },
+  "6.12.22": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.12.22",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.12.22/appsflyer-unity-plugin-6.12.22.tgz",
+    "shasum": "5fd42c761d884b9440ef5640dc1e2ffbb17ac16a",
+    "integrity": "sha512-TRsGNA5KPkbI6rau/zpyzTYqcMEH1oj6FXCk6w0EN/X/GzqffV79EwYD3r3/6RWNkxzPgSagqgAe9U0NPv8wug=="
+   }
+  },
+  "6.12.21": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.12.21",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.12.21/appsflyer-unity-plugin-6.12.21.tgz",
+    "shasum": "275e2d3c80f505832379645da33e54a02f41b2fa",
+    "integrity": "sha512-sj3ldWaQbY5flzbSDKGsYmZcxHp0YFn4FBwhktHDN2v01kxAd3r/L4fbewQBUF8C876Z8w9AN8ReNvHjqwHSjA=="
+   }
+  },
+  "6.12.20": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.12.20",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.12.20/appsflyer-unity-plugin-6.12.20.tgz",
+    "shasum": "00982672b887ae45fa8f33f7cc549ffb82ae7648",
+    "integrity": "sha512-lyC5MK0iWHxmaxcNSpx4Tf+fCgbX5sSVFcQwYevGwo9VXMZXN9XYMhGC3dyPqFF6Q4ABZykbQUW6VKYKZRFMPA=="
+   }
+  },
+  "6.12.10": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.12.10",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dependencies": {
+    "com.google.external-dependency-manager": "1.2.144"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.12.10/appsflyer-unity-plugin-6.12.10.tgz",
+    "shasum": "10531c6a417beb35811b5a4c8be49ff6ec8772d4",
+    "integrity": "sha512-scAkgUxANk2D52zSV2K6slXviV9QcGny3TIkGHmCynJ2aG0dPQrzw378eyND6S4tiRTkGN/WMHYUrT21N7e3XQ=="
+   }
+  },
+  "6.10.30": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.10.30",
+   "unity": "2020.3",
+   "license": "MIT",
+   "dependencies": {
+    "com.google.external-dependency-manager": "1.2.144"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.10.30/appsflyer-unity-plugin-6.10.30.tgz",
+    "shasum": "9485ce8b991e03feb86c1b5becdc8190f66e6bc2",
+    "integrity": "sha512-AmC95MDXKVT8GMdeLcetpNHMfbtbjgKLXztyOshOii9/Ht19vZT6PuXyQup1MFX6l1vaQN4l7W0Vw7SQcyP7kA=="
+   }
+  },
+  "6.10.10": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.10.10",
+   "unity": "2020.3",
+   "license": "MIT",
+   "dependencies": {
+    "com.google.external-dependency-manager": "1.2.144"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.10.10/appsflyer-unity-plugin-6.10.10.tgz",
+    "shasum": "463a0ac041fe761e947fb5e37fdf4762f396b7dd",
+    "integrity": "sha512-waI337VbMThjfb6RyI+3Df15Yq0FZv7FzmExTPewwTnQbnpRrhzs49lUpQago3sM0EU+lSc46ZFOC9stnVYOlQ=="
+   }
+  },
+  "6.9.4": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.9.4",
+   "unity": "2020.3",
+   "license": "MIT",
+   "dependencies": {
+    "com.google.external-dependency-manager": "1.2.144"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.9.4/appsflyer-unity-plugin-6.9.4.tgz",
+    "shasum": "1c515b96328ae822e59deb0887197a417e8c7d73",
+    "integrity": "sha512-i0WQJW7u3Z2dcv1bV9Wlf9GoXHRRqo8ud6/PodcM8/qlNBZUx2Z/zy6cUgc9FyJGCGf5oJ0ZZ3BE2tNsbIfHGg=="
+   }
+  },
+  "6.8.5": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.8.5",
+   "unity": "2020.3",
+   "license": "MIT",
+   "dependencies": {
+    "com.google.external-dependency-manager": "1.2.144"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.8.5/appsflyer-unity-plugin-6.8.5.tgz",
+    "shasum": "96508bce2caab6a38eb91f5048b480e626ab5696",
+    "integrity": "sha512-od5/tVdfEbYXIYb6/viq43ZJO+u2ZQ/GIboIRsZSC/Nkuq6mbID/5YF6GS3CuQvm+aIicA9br7qCXJzwWGSB2Q=="
+   }
+  },
+  "6.8.4": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.8.4",
+   "unity": "2020.3",
+   "license": "MIT",
+   "dependencies": {
+    "com.google.external-dependency-manager": "1.2.144"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.8.4/appsflyer-unity-plugin-6.8.4.tgz",
+    "shasum": "2b31b48aa3d3d22d034cad6ad10bdef098ed9a0a",
+    "integrity": "sha512-MgGvrM9ikKpUtXD19s4IiA9VfJDziZu+Ht+PCZfypHNSRjz1R5zJ8CWJvX4us/b0GjduzrRPiv/S7n4p9YffMA=="
+   }
+  },
+  "6.8.1": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.8.1",
+   "unity": "2020.3",
+   "license": "MIT",
+   "dependencies": {
+    "com.google.external-dependency-manager": "1.2.144"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.8.1/appsflyer-unity-plugin-6.8.1.tgz",
+    "shasum": "167b630868e528106ed771f03aa2106ae4bd6899",
+    "integrity": "sha512-1hxvgcxVrFmz3acJ2K4B1FSrgDC4byoHL4S7c4ZVe8G+IfPoJMiBT2YRequ2FNfPYuZ+avAVz3P1oPmbWz27xA=="
+   }
+  },
+  "6.6.1": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.6.1",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dependencies": {
+    "com.google.external-dependency-manager": "1.2.144"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.6.1/appsflyer-unity-plugin-6.6.1.tgz",
+    "shasum": "08937122dccc07e191edc53966d33ae810c034db",
+    "integrity": "sha512-o7O5HYp8yuEKmPFNIcBXDouzF8rUGSr0GsU8ZtZGg+12jTEqEdmoijYOTwUh+runCf/kstI8EX8xaiaNUy+5Bg=="
+   }
+  },
+  "6.6.0": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin strict mode",
+   "version": "6.6.0",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dependencies": {
+    "com.google.external-dependency-manager": "1.2.144"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.6.0/appsflyer-unity-plugin-6.6.0.tgz",
+    "shasum": "023733e356fc1ff49fadf4faa77f455d01a193dc",
+    "integrity": "sha512-6EXPx2NZV0lBQQBQM8Ny3UFkkoE43wkQSmFSJ4n9MWrGh6Dr1g5uwbpHhCgQ1LGwz04+23dm2GH0KLv/oc0zXQ=="
+   }
+  },
+  "6.5.4": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin mode",
+   "version": "6.5.4",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dependencies": {
+    "com.google.external-dependency-manager": "1.2.144"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.5.4/appsflyer-unity-plugin-6.5.4.tgz",
+    "shasum": "124cb5279f875b216aaa2c697830d0c94f2017bd",
+    "integrity": "sha512-U9ovjievIpsU5d25jqzpUzCDcGB1Lo7Uwpd57R+qwG0XYyvX9mD2Dw762XfN/1FAo4SJj4XaxjGYf4z3WNodfA=="
+   }
+  },
+  "6.5.3": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin mode",
+   "version": "6.5.3",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dependencies": {
+    "com.google.external-dependency-manager": "1.2.144"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.5.3/appsflyer-unity-plugin-6.5.3.tgz",
+    "shasum": "a8b0dedc059a5a1544a27d17f59b9af3a6e4cda5",
+    "integrity": "sha512-/k0LhI+f+duFNMUiwvzw0c1L4TTyeA/z8Cy0VY71bFVRR6+RgiiU4HEHPDiqM2LjcgqtYz9GH/6AKqbdCQVj/Q=="
+   }
+  },
+  "6.5.2": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.5.2",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dependencies": {
+    "com.google.external-dependency-manager": "1.2.144"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.5.2/appsflyer-unity-plugin-6.5.2.tgz",
+    "shasum": "aadfb96892958c8138e5a10f6049a3e10aaa81ee",
+    "integrity": "sha512-lq783QixSTPiLfm0kujyjQCz26/z3mhHnhOFzSpq996ueyxSr2O7pQK8e8ritZwcxKKESXazc9y4QxrICRMUeA=="
+   }
+  },
+  "6.4.41": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.4.41",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dependencies": {
+    "com.google.external-dependency-manager": "1.2.144"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.4.41/appsflyer-unity-plugin-6.4.41.tgz",
+    "shasum": "111b290b8f91ec1da03024bbcf2708a1813af8ed",
+    "integrity": "sha512-MkffOblX/TqkbcbGs2CdDbktEMfVXyEgo6xDHgJmwlxPOwU20TpoCKlzsXurn7MWFh5GRx7DVLHc3uFNYoUpcA=="
+   }
+  },
+  "6.4.1": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.4.1",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dependencies": {
+    "com.google.external-dependency-manager": "1.2.144"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.4.1/appsflyer-unity-plugin-6.4.1.tgz",
+    "shasum": "c776a2cb641132d1571eeef4c2054e54acb04b7f",
+    "integrity": "sha512-O7dWaEyPYPWNst9msCmNjxhFu6ydkBQj5PiQ8pzvkDNxTije9rOFDoDsiA4NrN2Mf1om5iLzZNAV1Ip2wAcUYQ=="
+   }
+  },
+  "6.4.0": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin mode",
+   "version": "6.4.0",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dependencies": {
+    "com.google.external-dependency-manager": "1.2.144"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.4.0/appsflyer-unity-plugin-6.4.0.tgz",
+    "shasum": "03bf1915ef908d3ba66280b6e665be33ad7cff52",
+    "integrity": "sha512-0XoPSAKAYmz88Pje3NoQw6WhBceSOWR37jysBQalnpsWDnTm3gX7vW5Le8TgY7+3c24TxmtDLIGu2glHJyMOLA=="
+   }
+  },
+  "6.3.5": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin mode",
+   "version": "6.3.5",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dependencies": {
+    "com.google.external-dependency-manager": "1.2.144"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.3.5/appsflyer-unity-plugin-6.3.5.tgz",
+    "shasum": "1a2f9687b5bb944d8cb3e2ea45b7888a3db9e3bc",
+    "integrity": "sha512-F+6o/Xvi+nIGPkrCOEZWzoCDzZdI+fqG8MXcM3O4aOkaCiN1GiEKXzccliNf3WokRQT5ev1F+JnfelPIv/nKOQ=="
+   }
+  },
+  "6.3.2": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin mode",
+   "version": "6.3.2",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dependencies": {
+    "com.google.external-dependency-manager": "1.2.144"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.3.2/appsflyer-unity-plugin-6.3.2.tgz",
+    "shasum": "c332bc4b759a0877a1b87c66dfb337106c11ce5c",
+    "integrity": "sha512-wvJLCPvoiKl4VDP3vDdqiUGkIAYpa6Xzyr1dSrh/6lrWCZ1+iTp8fLxfPiTLzSG/cxU9wAEvoUCe77OKZfRWCg=="
+   }
+  },
+  "6.3.1": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin mode",
+   "version": "6.3.1",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dependencies": {
+    "com.google.external-dependency-manager": "1.2.144"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.3.1/appsflyer-unity-plugin-6.3.1.tgz",
+    "shasum": "ccc7b1134440e8ef67e1dacfba403751b158207f",
+    "integrity": "sha512-vLavPhBQ8qnkOKBy2uJWdzPvzlpwYAXdHwfkvRozizwuzvsiLUOStrQpvCDKTpPeLWDA67JTQjD64kDq8xrL0g=="
+   }
+  },
+  "6.3.0": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin mode",
+   "version": "6.3.0",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dependencies": {
+    "com.google.external-dependency-manager": "1.2.144"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.3.0/appsflyer-unity-plugin-6.3.0.tgz",
+    "shasum": "05573fdf14261de12ea554ee19e57e7639ca756f",
+    "integrity": "sha512-K4ATAXuHdNor5awLyZD+BBx5zky0//07xiUeF1DgzS3urE/raVBFhWb+3Zo9u/TG2PnGle2itE5KFLmeafajcw=="
+   }
+  },
+  "6.2.63": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.2.63",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dependencies": {
+    "com.google.external-dependency-manager": "1.2.144"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.2.63/appsflyer-unity-plugin-6.2.63.tgz",
+    "shasum": "c1554c91ec35ba78246ba1fbdb060606f3b6cfb1",
+    "integrity": "sha512-W3Iv1Q0+5clMMpPYmGMWAJk6aisD86uGvsz0H75WNdf3S8TKPbAfta8JPSUBwDpEeBu22N41vIiigIZeamvP0g=="
+   }
+  },
+  "6.2.62": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin strict mode",
+   "version": "6.2.62",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dependencies": {
+    "com.google.external-dependency-manager": "1.2.144"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.2.62/appsflyer-unity-plugin-6.2.62.tgz",
+    "shasum": "13fd103fa145cdb8879544438be85077394ca501",
+    "integrity": "sha512-XPAfGQuz4bABNIIT5sTez4pVlJa05dQw6AnDLHCmMkSMRTvZd7vaiDnxvh1wPEMNFDpGGlPYlExLSqXlhAeJ4w=="
+   }
+  },
+  "6.2.61": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dependencies": {
+    "com.google.external-dependency-manager": "1.2.144"
+   },
+   "version": "6.2.61",
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.2.61/appsflyer-unity-plugin-6.2.61.tgz",
+    "shasum": "6e4ef6cc4ca736268ced46fb3e6d8e4b1e002ac4",
+    "integrity": "sha512-WzbfaO8+5g4yeH5eG5oLWoxnLxoLARykO7kra1DUd8FvsGQIVsQxJPQTRjAwCvU/1p1GeHpx/rKqT7mvffsvig=="
+   }
+  },
+  "6.2.6": {
+   "name": "appsflyer-unity-plugin",
+   "displayName": "AppsFlyer",
+   "description": "AppsFlyer Unity plugin",
+   "version": "6.2.6",
+   "unity": "2019.4",
+   "license": "MIT",
+   "dependencies": {
+    "com.google.external-dependency-manager": "1.2.144"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/AppsFlyerMirror/releases/download/6.2.6/appsflyer-unity-plugin-6.2.6.tgz",
+    "shasum": "e37c2f4c816c911516daf2973cd08a64961f8c21",
+    "integrity": "sha512-e2Y719rqbxxVsx0sFMf4cqYu/BFHCIVkZRVQlcvHjhsDrmErN1GN4B3yUY0umK+Gylv5gP6/10pcjEtgWD7ZoQ=="
+   }
   }
  },
  "time": {
   "7.0.41": "2026-11-10T10:27:49.000Z",
-  "modified": "2026-11-26T01:57:15.000Z",
+  "modified": "2026-11-27T13:48:48.000Z",
   "6.17.900": "2026-11-10T10:36:59.000Z",
   "7.0.2": "2026-11-10T10:37:02.000Z",
-  "7.0.42": "2026-11-26T01:57:15.000Z"
+  "7.0.42": "2026-11-26T01:57:15.000Z",
+  "6.18.3": "2026-11-27T13:48:35.000Z",
+  "6.18.1": "2026-11-27T13:48:35.000Z",
+  "6.18.0": "2026-11-27T13:48:35.000Z",
+  "6.17.91": "2026-11-27T13:48:35.000Z",
+  "6.17.90": "2026-11-27T13:48:36.000Z",
+  "6.17.81": "2026-11-27T13:48:36.000Z",
+  "6.17.80": "2026-11-27T13:48:36.000Z",
+  "6.17.72": "2026-11-27T13:48:37.000Z",
+  "6.17.71": "2026-11-27T13:48:37.000Z",
+  "6.17.7": "2026-11-27T13:48:37.000Z",
+  "6.17.5": "2026-11-27T13:48:37.000Z",
+  "6.16.2": "2026-11-27T13:48:38.000Z",
+  "6.15.3": "2026-11-27T13:48:38.000Z",
+  "6.15.2": "2026-11-27T13:48:38.000Z",
+  "6.15.1": "2026-11-27T13:48:39.000Z",
+  "6.14.5": "2026-11-27T13:48:39.000Z",
+  "6.14.4": "2026-11-27T13:48:39.000Z",
+  "6.14.3": "2026-11-27T13:48:40.000Z",
+  "6.14.0": "2026-11-27T13:48:40.000Z",
+  "6.13.10": "2026-11-27T13:48:40.000Z",
+  "6.13.0": "2026-11-27T13:48:41.000Z",
+  "6.12.22": "2026-11-27T13:48:41.000Z",
+  "6.12.21": "2026-11-27T13:48:41.000Z",
+  "6.12.20": "2026-11-27T13:48:41.000Z",
+  "6.12.10": "2026-11-27T13:48:42.000Z",
+  "6.10.30": "2026-11-27T13:48:42.000Z",
+  "6.10.10": "2026-11-27T13:48:42.000Z",
+  "6.9.4": "2026-11-27T13:48:43.000Z",
+  "6.8.5": "2026-11-27T13:48:43.000Z",
+  "6.8.4": "2026-11-27T13:48:43.000Z",
+  "6.8.1": "2026-11-27T13:48:43.000Z",
+  "6.6.1": "2026-11-27T13:48:44.000Z",
+  "6.6.0": "2026-11-27T13:48:44.000Z",
+  "6.5.4": "2026-11-27T13:48:44.000Z",
+  "6.5.3": "2026-11-27T13:48:45.000Z",
+  "6.5.2": "2026-11-27T13:48:45.000Z",
+  "6.4.41": "2026-11-27T13:48:45.000Z",
+  "6.4.1": "2026-11-27T13:48:45.000Z",
+  "6.4.0": "2026-11-27T13:48:46.000Z",
+  "6.3.5": "2026-11-27T13:48:46.000Z",
+  "6.3.2": "2026-11-27T13:48:46.000Z",
+  "6.3.1": "2026-11-27T13:48:46.000Z",
+  "6.3.0": "2026-11-27T13:48:47.000Z",
+  "6.2.63": "2026-11-27T13:48:47.000Z",
+  "6.2.62": "2026-11-27T13:48:47.000Z",
+  "6.2.61": "2026-11-27T13:48:48.000Z",
+  "6.2.6": "2026-11-27T13:48:48.000Z"
  },
  "dist-tags": {
   "latest": "7.0.42"

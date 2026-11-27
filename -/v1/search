@@ -123,48 +123,48 @@
   {
    "package": {
     "name": "com.riseon.ads",
-    "version": "3.0.0",
-    "date": "2026-11-26T17:14:53.000Z",
+    "version": "4.0.0",
+    "date": "2026-11-27T13:48:49.000Z",
     "description": "Ad manager for Unity: providers behind priority lists, started after the consent flow, full-screen chains under a native cover, collapsible chains"
    }
   },
   {
    "package": {
     "name": "com.riseon.ads.admob",
-    "version": "1.1.0",
-    "date": "2026-11-26T17:14:57.000Z",
+    "version": "1.2.0",
+    "date": "2026-11-27T13:48:50.000Z",
     "description": "Google AdMob provider for com.riseon.ads: banner, MRec, interstitial, rewarded, rewarded interstitial, app open and the native ad views of com.riseon.ads.admob.native"
    }
   },
   {
    "package": {
     "name": "com.riseon.ads.admob.native",
-    "version": "2.1.0",
-    "date": "2026-11-26T17:14:58.000Z",
+    "version": "3.0.0",
+    "date": "2026-11-27T13:48:50.000Z",
     "description": "AdMob native ads for Unity in full-screen, half-screen (collapsible) and in-feed layouts"
    }
   },
   {
    "package": {
     "name": "com.riseon.ads.levelplay",
-    "version": "1.1.0",
-    "date": "2026-11-26T17:14:55.000Z",
+    "version": "1.2.0",
+    "date": "2026-11-27T13:48:50.000Z",
     "description": "Unity LevelPlay provider for com.riseon.ads: banner, MRec, interstitial and rewarded"
    }
   },
   {
    "package": {
     "name": "com.riseon.ads.max",
-    "version": "1.1.0",
-    "date": "2026-11-26T17:14:54.000Z",
+    "version": "1.2.0",
+    "date": "2026-11-27T13:48:50.000Z",
     "description": "AppLovin MAX provider for com.riseon.ads: banner, MRec, interstitial, rewarded and app open"
    }
   },
   {
    "package": {
     "name": "com.riseon.analytics",
-    "version": "2.0.0",
-    "date": "2026-11-26T16:31:54.000Z",
+    "version": "2.0.1",
+    "date": "2026-11-27T13:48:51.000Z",
     "description": "One static API for the game's analytics: events, ad revenue, purchases and user properties go to every installed service, each starting on its own once what it needs is ready and taking only the events the project settings send it"
    }
   },
@@ -195,8 +195,8 @@
   {
    "package": {
     "name": "com.riseon.firebase",
-    "version": "1.0.3",
-    "date": "2026-11-26T16:32:01.000Z",
+    "version": "1.0.4",
+    "date": "2026-11-27T13:48:53.000Z",
     "description": "Starts Firebase on its own at launch: App Check and log level from the project settings, the Google Play services check, and any failure handed to one handler in the game"
    }
   },
@@ -259,8 +259,8 @@
   {
    "package": {
     "name": "com.riseon.utils",
-    "version": "2.0.0",
-    "date": "2026-11-26T16:32:11.000Z",
+    "version": "2.1.0",
+    "date": "2026-11-27T13:48:57.000Z",
     "description": "Extensions and utilities shared by RiseOn packages: Singleton, Bounds2D, DirectionExt, undo and math utils, EnumLabel, ForwardAttributesTo, AllowGenerics, editor tools and search windows"
    }
   },

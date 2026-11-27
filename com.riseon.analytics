@@ -84,16 +84,38 @@
     "shasum": "3026b6fa6ac16e5c7d23314aef62920b8a7fa5ad",
     "integrity": "sha512-dGxUvBEEhgywNEyIpCXQm2hnxoW/hFtcdGyQUKYhTMeKTRC74mTfhP4U/qG0GY85sqNdh8QzTVd88zXfE13WLA=="
    }
+  },
+  "2.0.1": {
+   "name": "com.riseon.analytics",
+   "version": "2.0.1",
+   "displayName": "RiseOn Analytics",
+   "description": "One static API for the game's analytics: events, ad revenue, purchases and user properties go to every installed service, each starting on its own once what it needs is ready and taking only the events the project settings send it",
+   "unity": "6000.3",
+   "documentationUrl": "https://github.com/riseongamestudio/Analytics/blob/com.riseon.analytics/2.0.0/Core/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.consent": "1.0.2",
+    "com.riseon.utils": "2.1.0",
+    "com.cysharp.unitask": "2.5.11"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/Analytics/releases/download/com.riseon.analytics/2.0.1/com.riseon.analytics-2.0.1.tgz",
+    "shasum": "88a354e0b3ce8b30fd4fa63a33587fba3617f059",
+    "integrity": "sha512-8vMsaAexZ6MJVa3qKwj/LQeWs3qGVVNVifA4y5F7eIG3LDEhWN743JNeFEVyIJheEE9Xl2lUaV5tghb9/VR+dQ=="
+   }
   }
  },
  "time": {
   "1.0.0": "2026-11-20T12:25:41.000Z",
-  "modified": "2026-11-26T16:31:54.000Z",
+  "modified": "2026-11-27T13:48:51.000Z",
   "1.0.1": "2026-11-20T13:00:30.000Z",
   "1.0.2": "2026-11-20T14:39:40.000Z",
-  "2.0.0": "2026-11-26T16:31:54.000Z"
+  "2.0.0": "2026-11-26T16:31:54.000Z",
+  "2.0.1": "2026-11-27T13:48:51.000Z"
  },
  "dist-tags": {
-  "latest": "2.0.0"
+  "latest": "2.0.1"
  }
 }
