@@ -5,7 +5,7 @@ Registry UPM tĩnh của RiseOn. Repo này chỉ dựng chỉ mục, không ch�
 | Nguồn | Gói | Release |
 |---|---|---|
 | Repo của từng pack RiseOn | `com.riseon.*` | Một Release cho mỗi tag, chứa `<tên gói>-<version>.tgz` |
-| [FirebaseMirror](https://github.com/riseongamestudio/FirebaseMirror) | 13 gói `com.google.firebase.*`, từ 13.17.0 | Một Release cho mỗi version Firebase |
+| [FirebaseMirror](https://github.com/riseongamestudio/FirebaseMirror) | 13 gói `com.google.firebase.*`, mọi version Google còn cho tải | Một Release cho mỗi version Firebase |
 | [AppsFlyerMirror](https://github.com/riseongamestudio/AppsFlyerMirror) | `appsflyer-unity-plugin` | Một Release cho mỗi version |
 
 Workflow `Index` chạy 5 phút một lần (GitHub có thể chạy trễ hoặc bỏ lượt). Nó đọc Release của các repo trong `SOURCES` ở `index.py`, thêm version mới vào packument ở nhánh `registry`, rồi deploy GitHub Pages. Muốn có ngay thì chạy tay bằng Actions > Index > Run workflow.
