@@ -18,7 +18,7 @@
     "com.unity.modules.androidjni": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.consent/com.riseon.consent-1.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Consent/releases/download/v1.0.0/com.riseon.consent-1.0.0.tgz",
     "shasum": "35c5b7c645f6f24b25f081bc7179deaf360b8ab6",
     "integrity": "sha512-0gqUKxNicmySWcwT2bw7otiERjV2loY0/LCs1FkTpGLDuGwtlj0wGkFM3859M/4Rrb31mqyJLnjIlr8wuG2lKg=="
    }
@@ -40,7 +40,7 @@
     "com.unity.modules.androidjni": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.consent/com.riseon.consent-1.0.1.tgz",
+    "tarball": "https://github.com/riseongamestudio/Consent/releases/download/v1.0.1/com.riseon.consent-1.0.1.tgz",
     "shasum": "ff7fcc3ad66d24a8859fe69c36ae9c420ccba369",
     "integrity": "sha512-pRpvtzg1+9v/uAJ48trZkepgNCh+LSI7FcgEYpMvhf0n5LGPZ+LiLz0SdBA/FujV1AheVuULD0Xxmig58pPGdg=="
    }
@@ -62,7 +62,7 @@
     "com.unity.modules.androidjni": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.consent/com.riseon.consent-1.0.2.tgz",
+    "tarball": "https://github.com/riseongamestudio/Consent/releases/download/v1.0.2/com.riseon.consent-1.0.2.tgz",
     "shasum": "4b65748540ddc4bb93702833b13afeb71b545042",
     "integrity": "sha512-WU9UTPaCYW/+/UMCEIoIi5c/rInbzU2nZZlGIcemqLY+KROkaVWhCnxwUg3+di940q/Fnyex5CRcTzbZDJACCg=="
    }
@@ -85,7 +85,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.consent/com.riseon.consent-2.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Consent/releases/download/v2.0.0/com.riseon.consent-2.0.0.tgz",
     "shasum": "126fad78997d5fd915cc72e9793294c7b82a7638",
     "integrity": "sha512-SX4jdN1mKdfry9ioPVBHPf2p14c1Ge8PoyTwLIarzjC3bMhu9Wio6YyH/66uUoJKxd2InE4dgByPi668sO8UKw=="
    }

@@ -17,7 +17,7 @@
     "com.unity.services.levelplay": "9.5.1"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.ads.levelplay/com.riseon.ads.levelplay-1.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Ads/releases/download/com.riseon.ads.levelplay/1.0.0/com.riseon.ads.levelplay-1.0.0.tgz",
     "shasum": "be7058fdb785f38cf674ab8f7a20372e42200026",
     "integrity": "sha512-Wcj/MOE70B/mZRmtDV5fdtRnjRfZqsRswkSWIyVxDtzVgr5RybD9XmTThuSkFNgtUvE6v2D1u4KPOxDdCXEJKA=="
    }
@@ -38,7 +38,7 @@
     "com.unity.services.levelplay": "9.5.1"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.ads.levelplay/com.riseon.ads.levelplay-1.0.1.tgz",
+    "tarball": "https://github.com/riseongamestudio/Ads/releases/download/com.riseon.ads.levelplay/1.0.1/com.riseon.ads.levelplay-1.0.1.tgz",
     "shasum": "f64f963a65d499c401185f251dfc7854eaeccf6c",
     "integrity": "sha512-krua1sTC//z1tyuKKd8pIagGU+s1QW03ThSJhfkNe6VGvUO0rf/kwTPRyXD8+w44ZmFCndjqzqSNeTwaWIzZVg=="
    }
@@ -59,7 +59,7 @@
     "com.unity.services.levelplay": "9.5.1"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.ads.levelplay/com.riseon.ads.levelplay-1.1.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Ads/releases/download/com.riseon.ads.levelplay/1.1.0/com.riseon.ads.levelplay-1.1.0.tgz",
     "shasum": "7072da07ac6c9e3d35561fada9f0f36e0543a252",
     "integrity": "sha512-7b4wZB/N1a3BUzSgebrJKpUHMTkJBKXgwJgwzufhQq1pdrQUxxGd6irjOiLUUmWI+IlYxY8F4AuYpM8tp8onPg=="
    }

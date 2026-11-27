@@ -17,7 +17,7 @@
     "com.cysharp.unitask": "2.5.11"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.analytics/com.riseon.analytics-1.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Analytics/releases/download/com.riseon.analytics/1.0.0/com.riseon.analytics-1.0.0.tgz",
     "shasum": "4f8c66ef00ebee54c9020021aba719fa91c209ae",
     "integrity": "sha512-LnYazrUs1znsegjiiz6VAVBtlT5Ta1GED186v1fV6ybbiVraIulmase6VMPbg7VlzVa5c8ofQnnsKdX0yVn/Rg=="
    }
@@ -38,7 +38,7 @@
     "com.cysharp.unitask": "2.5.11"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.analytics/com.riseon.analytics-1.0.1.tgz",
+    "tarball": "https://github.com/riseongamestudio/Analytics/releases/download/com.riseon.analytics/1.0.1/com.riseon.analytics-1.0.1.tgz",
     "shasum": "048faaed190564f7870a0e803dfba9b8680e357a",
     "integrity": "sha512-6zUqAjpRpJ0/omW07Lgz3U5SFZUR+YmMQB+P+N7OPKZAtjGXa3kyEi/k8JCEngm53APhlJ7eit2OrIXnBQuayg=="
    }
@@ -59,7 +59,7 @@
     "com.cysharp.unitask": "2.5.11"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.analytics/com.riseon.analytics-1.0.2.tgz",
+    "tarball": "https://github.com/riseongamestudio/Analytics/releases/download/com.riseon.analytics/1.0.2/com.riseon.analytics-1.0.2.tgz",
     "shasum": "aee6b428c4c25c8177cc09d1424ada984d6f950f",
     "integrity": "sha512-gcbR4lZ3bTqSqy4gtm/Pxmegdkc13BgunHkMtOg5kkraSsj7dM13duQiXzIezNQajGhBMH8honkHklNpFms9LQ=="
    }
@@ -80,7 +80,7 @@
     "com.cysharp.unitask": "2.5.11"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.analytics/com.riseon.analytics-2.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Analytics/releases/download/com.riseon.analytics/2.0.0/com.riseon.analytics-2.0.0.tgz",
     "shasum": "3026b6fa6ac16e5c7d23314aef62920b8a7fa5ad",
     "integrity": "sha512-dGxUvBEEhgywNEyIpCXQm2hnxoW/hFtcdGyQUKYhTMeKTRC74mTfhP4U/qG0GY85sqNdh8QzTVd88zXfE13WLA=="
    }

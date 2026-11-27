@@ -18,7 +18,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.outline2d/com.riseon.outline2d-2.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Outline2D/releases/download/v2.0.0/com.riseon.outline2d-2.0.0.tgz",
     "shasum": "0b9e05f76e24d6915203ad6d5cfad1b641334b4a",
     "integrity": "sha512-UwI/AolNOsMmW4XhAWo4hMAdwarYGQGxlUlV1en3sAcDUaTyBONz+GWMvJterqyaWHfH0RehHEDI6/RaFG1/Sw=="
    }
@@ -40,7 +40,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.outline2d/com.riseon.outline2d-1.2.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Outline2D/releases/download/v1.2.0/com.riseon.outline2d-1.2.0.tgz",
     "shasum": "dc947cc4d4ae44673294d7aabc04a49091b16f05",
     "integrity": "sha512-a00jkjicomx58Fy0w28dMV68n7HpzzdMTzOHzr7WTFjIl5cIaCjHPXmDzXe8lu/4E5ZI9kNSCM+zIHmYjPc2AA=="
    }
@@ -62,7 +62,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.outline2d/com.riseon.outline2d-1.1.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Outline2D/releases/download/v1.1.0/com.riseon.outline2d-1.1.0.tgz",
     "shasum": "a90906d3c0aef781dd2d80cb283f90958ac29bc8",
     "integrity": "sha512-vyWGp1YY2hFrIG+SMSZO4VwtwVcVceeoMuxox9Pax5H4PDj7PVXfRb/qivCWkouflvQlo5+nsM4B766GIEW9sg=="
    }
@@ -83,7 +83,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.outline2d/com.riseon.outline2d-1.0.5.tgz",
+    "tarball": "https://github.com/riseongamestudio/Outline2D/releases/download/v1.0.5/com.riseon.outline2d-1.0.5.tgz",
     "shasum": "31a29b6abd51bb4a95e5d443fc03e902de8e7b2e",
     "integrity": "sha512-wRpx8fgAsMo/qKJgSNcF/PkhqFL6i7++jZ2RX5r0sq/WALBCzQifFHmSIIL84aS+h1KuSxOwdflFCgtcjZTsFg=="
    }
@@ -104,7 +104,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.outline2d/com.riseon.outline2d-1.0.4.tgz",
+    "tarball": "https://github.com/riseongamestudio/Outline2D/releases/download/v1.0.4/com.riseon.outline2d-1.0.4.tgz",
     "shasum": "ecb45147df17909b6c92f2bb47949050e9dc2328",
     "integrity": "sha512-c4IwO3ECaozfNFZuvVqlE8eUfo9hLmN9AVDYGQXGRRSUi5lVVmxsgOtOfUJ8tYSsAvVIuzXMxIQJCWp+23YRqQ=="
    }
@@ -125,7 +125,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.outline2d/com.riseon.outline2d-1.0.3.tgz",
+    "tarball": "https://github.com/riseongamestudio/Outline2D/releases/download/v1.0.3/com.riseon.outline2d-1.0.3.tgz",
     "shasum": "f5494af4477666ce106e556b2c97b22026871a1d",
     "integrity": "sha512-05YdfpWsgIbYwDKbnJ5zc5oEwG9bj7KufC6thhycKFmV00tXt21ZHQAYmg3poTz4F6mm4a4YPbZSvEPSBgREZw=="
    }
@@ -146,7 +146,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.outline2d/com.riseon.outline2d-1.0.2.tgz",
+    "tarball": "https://github.com/riseongamestudio/Outline2D/releases/download/v1.0.2/com.riseon.outline2d-1.0.2.tgz",
     "shasum": "55b3bdabdb227bd1d9ab77bc336febd3945a524b",
     "integrity": "sha512-TZnP1xVTnAYbCLQeAWKnhLCC97cDt1qqi4g5Nv9u+xhgB9s+TnI2Akm808liFc51l7lvUruu5bowN3HLglWQDg=="
    }
@@ -167,7 +167,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.outline2d/com.riseon.outline2d-1.0.1.tgz",
+    "tarball": "https://github.com/riseongamestudio/Outline2D/releases/download/v1.0.1/com.riseon.outline2d-1.0.1.tgz",
     "shasum": "cadedfed6cb7363bd09f458101278f6193bba713",
     "integrity": "sha512-OX3HJHlj8sFowbvaJAzyWKzChDYCWqlaC+9Nl37+triaBQQdhrM2N7SUNV02h8CcJz65gOM7FC2iOAZduc4/sA=="
    }
@@ -188,7 +188,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.outline2d/com.riseon.outline2d-1.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Outline2D/releases/download/v1.0.0/com.riseon.outline2d-1.0.0.tgz",
     "shasum": "1e36239e187e5e7cec8bee65a401b60afd079b19",
     "integrity": "sha512-2Ysup6n/XtrHo1F/eGikpqBIeR8Nm33t3DzO6C3vKPrbT2wkUx9Nr4OmvjHMZAUsVb+esg9slxCSdtlddoRkmA=="
    }
@@ -210,7 +210,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.outline2d/com.riseon.outline2d-2.0.1.tgz",
+    "tarball": "https://github.com/riseongamestudio/Outline2D/releases/download/v2.0.1/com.riseon.outline2d-2.0.1.tgz",
     "shasum": "5c74c928994445a1ce6b28220840ac423adddeca",
     "integrity": "sha512-caVdAYgQVL+9fLgv4QSWD+Vs/mrsvsQfFYy5mlumPx2be+7bAkHggfmaspI0ltSp2Z+Pp4yNsYdQUsHRo+zLBw=="
    }
@@ -233,7 +233,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.outline2d/com.riseon.outline2d-2.0.2.tgz",
+    "tarball": "https://github.com/riseongamestudio/Outline2D/releases/download/v2.0.2/com.riseon.outline2d-2.0.2.tgz",
     "shasum": "e8978fd7e902b62a9a8dac2428d29468812bb702",
     "integrity": "sha512-xs007ibFlsHCFtOnLm3XEc1+sy0LPEghR+gdCvbWXRfrwBZ9+yWhfYju1mIRgXMq71opph6MP/BqgerBX2Fmlw=="
    }

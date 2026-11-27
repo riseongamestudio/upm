@@ -19,7 +19,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.transitions/com.riseon.transitions-0.1.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Transitions/releases/download/v0.1.0/com.riseon.transitions-0.1.0.tgz",
     "shasum": "bba340cca70ed7a1711e38a744600db7245e7a17",
     "integrity": "sha512-Z0jpe7ISeN+EhKY2FqGhpIu7GFlDUfrW7M5/qkJxzx0kPP6CcgPYKQvADqo+7BTS+h85zVawMLeW7Zc4QY0Eyw=="
    }
@@ -42,7 +42,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.transitions/com.riseon.transitions-0.2.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Transitions/releases/download/v0.2.0/com.riseon.transitions-0.2.0.tgz",
     "shasum": "3051d4aeaea167c28d72dbea6d5b852d1c29c0c8",
     "integrity": "sha512-3IaBTxwjiwI+ckXEre2srLxGupA1KvJyf83SDvvpxAhVFfjA0BDxKrj/hacJBAJhnn4cjxjFM6WWuTL3/QaasQ=="
    }
@@ -66,7 +66,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.transitions/com.riseon.transitions-0.2.1.tgz",
+    "tarball": "https://github.com/riseongamestudio/Transitions/releases/download/v0.2.1/com.riseon.transitions-0.2.1.tgz",
     "shasum": "32402abdfa584809d4857bdb74c4990bc30dc154",
     "integrity": "sha512-wWsL02+0Qgmv9Pws2stk56HtO/VqNW6mmh2IL1Nh0jFycojH+mnjUKih9KyQp7yjjJ9keq6/j+stRDduuo3RrA=="
    }

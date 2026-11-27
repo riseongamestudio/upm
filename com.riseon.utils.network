@@ -14,7 +14,7 @@
     "com.unity.modules.unitywebrequest": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils.network/com.riseon.utils.network-1.0.2.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils.network/1.0.2/com.riseon.utils.network-1.0.2.tgz",
     "shasum": "16bd45914fe25b4e2c2c549debcc7c7fc0dfe9aa",
     "integrity": "sha512-21lIP/XryLX1AuXzhW8fyM5i2BXyLdy5De4w7DM4zlCmm9huPIsjs960R3klejOZbCgfKw6Jh2op3kkVlqPk1Q=="
    }
@@ -32,7 +32,7 @@
     "com.unity.modules.unitywebrequest": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils.network/com.riseon.utils.network-1.0.1.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils.network/1.0.1/com.riseon.utils.network-1.0.1.tgz",
     "shasum": "facb0167bf75923bf7f0025ede3536e21c3b0d16",
     "integrity": "sha512-vlaFrHJ/zv/N+cuLL/3yaZhp7+RHHjfBJugNPX94qbchs10R2x2otDWHM7cr+0seTtU7dkAP4IS59b75PyikLQ=="
    }
@@ -47,7 +47,7 @@
     "name": "RiseOn"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils.network/com.riseon.utils.network-1.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils.network/1.0.0/com.riseon.utils.network-1.0.0.tgz",
     "shasum": "b23333c0a75d15d0301531853c76a59e5f55bb68",
     "integrity": "sha512-aqK0ZXgRJ+VPjIpcZvnqCS9g7TZd4ISFP3P8h1V66/DeQs5kwWDabR3+KoluXSSnGmnZrkwJM5MgAKffslPxPA=="
    }
@@ -65,7 +65,7 @@
     "com.unity.modules.unitywebrequest": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils.network/com.riseon.utils.network-2.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils.network/2.0.0/com.riseon.utils.network-2.0.0.tgz",
     "shasum": "a5b92cdbdf5143b886a09f0b7c232e8ecc4be3ce",
     "integrity": "sha512-5q8mymrCD2mnB0cAU0yW9TsjwmPjFbd+y7I+0jf4nIYpq1T/GTFBYYUBCB8zkFAzVoM6t0FL5JPHsF0sfOMl9g=="
    }
@@ -84,7 +84,7 @@
     "com.unity.modules.unitywebrequest": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils.network/com.riseon.utils.network-2.0.1.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils.network/2.0.1/com.riseon.utils.network-2.0.1.tgz",
     "shasum": "0c2be3cf1d9439b05e4015364366a11cc7a26bb4",
     "integrity": "sha512-aJdrzQ6k56oqb4di4xEEfiyW9ZeUItMT8b+LRkQwGJXR3sOkBnFZ8ZYvU7etYX7nay0G26aN+njaOsIL1SHZ+Q=="
    }

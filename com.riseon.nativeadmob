@@ -15,7 +15,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.nativeadmob/com.riseon.nativeadmob-1.0.3.tgz",
+    "tarball": "https://github.com/riseongamestudio/NativeAdMob/releases/download/v1.0.3/com.riseon.nativeadmob-1.0.3.tgz",
     "shasum": "7a29bd458e485668f8e9793fc0129908fd8e40db",
     "integrity": "sha512-MKanZl+Tj4DlWWqTbvGmd/XB9AVyjdFbY2EJfkuBKbQmNhE59oOsHrThZoW5tjgF5D9GDvVS0c7xtqrI9KrbuA=="
    }
@@ -34,7 +34,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.nativeadmob/com.riseon.nativeadmob-1.0.2.tgz",
+    "tarball": "https://github.com/riseongamestudio/NativeAdMob/releases/download/v1.0.2/com.riseon.nativeadmob-1.0.2.tgz",
     "shasum": "6af61879e858c48e9401878b600a3d276ae64a10",
     "integrity": "sha512-bWQtjtM5g3Vd3DgO9NYV2XGWWaXl/vAeugm9XH0/FFFN1UYjyk7RT7AHDmpTRUzVwB6DLA5RMfw8LuRIlICbSw=="
    }
@@ -52,7 +52,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.nativeadmob/com.riseon.nativeadmob-1.0.1.tgz",
+    "tarball": "https://github.com/riseongamestudio/NativeAdMob/releases/download/v1.0.1/com.riseon.nativeadmob-1.0.1.tgz",
     "shasum": "e9e428cbd26a2261283ebb5e05b85012f98a882e",
     "integrity": "sha512-BOUaLn2TkyJJrDgAKn6P/jDvYYM4ie0cm4dcnkZf2gNYHFQhSShmWEiQbKgBSNoFkQA/F2I8rQbhpRDToYGYrQ=="
    }
@@ -67,7 +67,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.nativeadmob/com.riseon.nativeadmob-1.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/NativeAdMob/releases/download/v1.0.0/com.riseon.nativeadmob-1.0.0.tgz",
     "shasum": "a54a517d81c1d66f5113a68509e19570003c89e8",
     "integrity": "sha512-Fncnml7HGzPO1OZi9nUXIzecBcJSzVh/9dvz9v0PERYBTfHBsnLmbibD3WXFfK9t6RSPi2/HGlJVaHodnEEdrQ=="
    }

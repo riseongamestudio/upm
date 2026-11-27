@@ -17,7 +17,7 @@
     "com.cysharp.unitask": "2.5.11"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.analytics.appsflyer/com.riseon.analytics.appsflyer-1.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Analytics/releases/download/com.riseon.analytics.appsflyer/1.0.0/com.riseon.analytics.appsflyer-1.0.0.tgz",
     "shasum": "a03e6f70915d021efee4bbfcc30855204db9ee50",
     "integrity": "sha512-wapeQXEnVbAThaqtsaPZxmcwNmyq4gkR1O0FMs7SicF4Dym77FL6mRTVKCDx6/g/fAuh+uOHKWMggDK+jWqhag=="
    }
@@ -38,7 +38,7 @@
     "com.cysharp.unitask": "2.5.11"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.analytics.appsflyer/com.riseon.analytics.appsflyer-1.0.1.tgz",
+    "tarball": "https://github.com/riseongamestudio/Analytics/releases/download/com.riseon.analytics.appsflyer/1.0.1/com.riseon.analytics.appsflyer-1.0.1.tgz",
     "shasum": "a5e525e95781377e8c69bc0c1881460ce782af6f",
     "integrity": "sha512-SXmDrx8tN8cwFz0W5QqzyR2lsKxbq4cB9stE9OHGwajKmXXwYpRHGcq2oWKJ3JGkmXQIItA5AaMsTKdottkC6g=="
    }
@@ -59,7 +59,7 @@
     "com.cysharp.unitask": "2.5.11"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.analytics.appsflyer/com.riseon.analytics.appsflyer-1.0.2.tgz",
+    "tarball": "https://github.com/riseongamestudio/Analytics/releases/download/com.riseon.analytics.appsflyer/1.0.2/com.riseon.analytics.appsflyer-1.0.2.tgz",
     "shasum": "32f53babac00f636901b7e1c54b9b03dd7aa25ec",
     "integrity": "sha512-ksOdD+jOCFhxb61Y8v9nT1A/q11tkyzNuDQLdxJkwQb1mLAMOR7/QWy5PIHgulL3rFNAnx7bmHrxNVRtHbJ7TQ=="
    }
@@ -80,7 +80,7 @@
     "com.cysharp.unitask": "2.5.11"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.analytics.appsflyer/com.riseon.analytics.appsflyer-1.0.3.tgz",
+    "tarball": "https://github.com/riseongamestudio/Analytics/releases/download/com.riseon.analytics.appsflyer/1.0.3/com.riseon.analytics.appsflyer-1.0.3.tgz",
     "shasum": "e55be425eab685f92a633c079faf15c82f12de89",
     "integrity": "sha512-7HyNMtTK3stafPGnntSctQeLpABMdU2+Fg1FIAQzzzXFjJn2octryM65qjxyahvSSp7NDSmXniW5e9nypWuI8Q=="
    }

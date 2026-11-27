@@ -15,7 +15,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.ads.admob.native/com.riseon.ads.admob.native-1.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Ads/releases/download/com.riseon.ads.admob.native/1.0.0/com.riseon.ads.admob.native-1.0.0.tgz",
     "shasum": "daea9f851850accc1636b927a3912ffa0ce7f4db",
     "integrity": "sha512-zVoKk22RkLlqhukRzbVRLVkiYorbL+XasBSElyiHBLfKEPDdDXiNwLANhAmRY8gtmsNfOtaf48Z4JmhxI6x5Ow=="
    }
@@ -34,7 +34,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.ads.admob.native/com.riseon.ads.admob.native-2.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Ads/releases/download/com.riseon.ads.admob.native/2.0.0/com.riseon.ads.admob.native-2.0.0.tgz",
     "shasum": "77f6f5b046aab9ddddb4f4d754bf42fcb3edcf0d",
     "integrity": "sha512-9dgIPphSuqU9CVVzQRRe+uC3DecNWcl52BQF3NIa5jAuhhxfuI2uaNrNzoaaCP38W96gREFXB5Pwnx5QxmvSLw=="
    }
@@ -54,7 +54,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.ads.admob.native/com.riseon.ads.admob.native-2.0.1.tgz",
+    "tarball": "https://github.com/riseongamestudio/Ads/releases/download/com.riseon.ads.admob.native/2.0.1/com.riseon.ads.admob.native-2.0.1.tgz",
     "shasum": "4e162779e5667b6534c2f9c2a997388390e13b47",
     "integrity": "sha512-LD1iSo5534SAR7hdc8qjVxq1mTVedmndYlNNOhhlo4qwNIHQ7ASZC2tqi9tXfLQzjLGsq6IiHHe6uKaEY9/ZMQ=="
    }
@@ -74,7 +74,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.ads.admob.native/com.riseon.ads.admob.native-2.1.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Ads/releases/download/com.riseon.ads.admob.native/2.1.0/com.riseon.ads.admob.native-2.1.0.tgz",
     "shasum": "5ba4dfc84ddfaaaeb0a5ff9788776cd7aad572d9",
     "integrity": "sha512-U1ieTe8COf9ZfCiAYZ+3QuqLk294+5JhxzG1X+pQe2U8lbTpr9rzxxpTzoQh/nlyA79ZN1uXhnrcQ9SdFreJgg=="
    }

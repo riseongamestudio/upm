@@ -15,7 +15,7 @@
     "com.annulusgames.lit-motion": "2.0.2"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils.litmotion/com.riseon.utils.litmotion-1.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils.litmotion/1.0.0/com.riseon.utils.litmotion-1.0.0.tgz",
     "shasum": "3c28080480e7e3836af13e9a97e00cc7e17f0d70",
     "integrity": "sha512-zEnkWELAL3ibvmjxv+wvfpe0sOEYcwchcheOaXnIdjo40c23phCuG7KTB01yDRSgVHB+fzrb8gWl08PAH85jAg=="
    }
@@ -35,7 +35,7 @@
     "com.annulusgames.lit-motion": "2.0.2"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils.litmotion/com.riseon.utils.litmotion-1.0.1.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils.litmotion/1.0.1/com.riseon.utils.litmotion-1.0.1.tgz",
     "shasum": "91e0182ec20e923c37482a05572b767042360193",
     "integrity": "sha512-4PaZM9Eho+C5+aTonNwU/hBwhgSDHH6dzhOjyE1zt/9I0jRhiw8tKPx/X8PkxcHIDDpjLOfmFOSchvFp5UFj+A=="
    }
@@ -55,7 +55,7 @@
     "com.annulusgames.lit-motion": "2.0.2"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils.litmotion/com.riseon.utils.litmotion-1.0.2.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils.litmotion/1.0.2/com.riseon.utils.litmotion-1.0.2.tgz",
     "shasum": "f0b4f10c1bb3a1dda141593082eb4536222262b1",
     "integrity": "sha512-W6q/rrv48Px6mxLUxxESeUT4QYdFNWK/8AwLsoKlF6fsfEXcP4D9j13jG2q6UlUBM6koKNx6gCfwpvtV4zH5Hw=="
    }

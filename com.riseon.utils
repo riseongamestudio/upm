@@ -14,7 +14,7 @@
     "com.unity.modules.uielements": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils/com.riseon.utils-1.0.13.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils/1.0.13/com.riseon.utils-1.0.13.tgz",
     "shasum": "d029742e7b53ea611b9ee6caa86b3337860b0c6b",
     "integrity": "sha512-abgHYdahOBvBLn9Zp1hpAI8/tUvyUm1KaiwIUZFSCS/HSVa+uJakrniKaMl2vjGtGabXGZXKvvS0AZqTaj7VHg=="
    }
@@ -32,7 +32,7 @@
     "com.unity.modules.uielements": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils/com.riseon.utils-1.0.12.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils/1.0.12/com.riseon.utils-1.0.12.tgz",
     "shasum": "18b2133763a636419e29aad3822427351e78411f",
     "integrity": "sha512-q4iWPjUx3WY9RiGIyxbr942YZx6cC30JwSbmiFVVaJ20/ejMHaHP485GSCLjtgtGmkBKAIanp1A9x7mJ5IwStg=="
    }
@@ -50,7 +50,7 @@
     "com.unity.modules.uielements": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils/com.riseon.utils-1.0.11.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils/1.0.11/com.riseon.utils-1.0.11.tgz",
     "shasum": "fcf3c4dc0f193ce6db8f5d500c2d5d486150d57f",
     "integrity": "sha512-OKlUSOuhE+VMSsKQPqeJyHTJblAfqGXyBzqLVkQ7QZ7gV0/ZyyKDKOhy4BqVn4BFyhaUFTvLm4Mhwyqiulic/g=="
    }
@@ -68,7 +68,7 @@
     "com.unity.modules.uielements": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils/com.riseon.utils-1.0.10.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils/1.0.10/com.riseon.utils-1.0.10.tgz",
     "shasum": "5ab0c94ba5cef1cea985cd4110c71ba83f68800e",
     "integrity": "sha512-PVZdx30Jcrlmj74hrRgT5iGfaZcGaAvle7QZNq0Z8sJWFqmeCOEO8fMq471BLEtR5jXcgLd4r6K9TgndPOJ2RA=="
    }
@@ -86,7 +86,7 @@
     "com.unity.modules.uielements": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils/com.riseon.utils-1.0.9.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils/1.0.9/com.riseon.utils-1.0.9.tgz",
     "shasum": "f7cdcd25b997142c19b2485dc59795f1327b296d",
     "integrity": "sha512-kyc2rdTR8Tj9LFPsB/TE241J45xXuCNnsh6CTmQOWEM4LkADi5D7DSRRzYSMKdwc+Ww+4kZJkcz3CWhHsXJ9ew=="
    }
@@ -104,7 +104,7 @@
     "com.unity.modules.uielements": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils/com.riseon.utils-1.0.8.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils/1.0.8/com.riseon.utils-1.0.8.tgz",
     "shasum": "a890382dc6dc4e890b70965cf0115efc988c5a10",
     "integrity": "sha512-E5d38G2aEP0pKdMvXfuwsT1d6jqaQCy/RLaXEQrXoFla6DcxSrB2DkkMMK3tdBywezshT2SvUFiFNzuM3G0QzA=="
    }
@@ -122,7 +122,7 @@
     "com.unity.modules.uielements": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils/com.riseon.utils-1.0.7.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils/1.0.7/com.riseon.utils-1.0.7.tgz",
     "shasum": "650ce13df9f077cfb39d0013d59cf8f8f4c44219",
     "integrity": "sha512-DaxWCyTDvrfUwoTei5l+E3XUoV7yOgj5+O9jYkF5/JcB1N0kDmzoU8EDYvqIMYagbzwoxmrsygNr9Xq3apmAkQ=="
    }
@@ -140,7 +140,7 @@
     "com.unity.modules.uielements": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils/com.riseon.utils-1.0.6.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils/1.0.6/com.riseon.utils-1.0.6.tgz",
     "shasum": "2b67adeb378ce96347329d3b09cee317be3b46b6",
     "integrity": "sha512-IG1zsrpph3FDjK+zR46/s5E6bD8GLM7JpPCP4lYVBgG2q12O7DJlw/91V42kssi08FwAAJep/Z/1efnZyLVoVA=="
    }
@@ -158,7 +158,7 @@
     "com.unity.modules.uielements": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils/com.riseon.utils-1.0.5.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils/1.0.5/com.riseon.utils-1.0.5.tgz",
     "shasum": "8849444e0c49b6c18a53f8130eb9c7619da88abf",
     "integrity": "sha512-tx6li7LaABBAGVJ+IFQ9Mc0UfKGCUUJZmXTjUjAOyYQCesKWekJoWURrwP1EwvbyIbyRbBHYsfDP9UePilY0jw=="
    }
@@ -176,7 +176,7 @@
     "com.unity.modules.uielements": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils/com.riseon.utils-1.0.4.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils/1.0.4/com.riseon.utils-1.0.4.tgz",
     "shasum": "6708ed1cc49c63d96dd3e71dc188709c82a4f322",
     "integrity": "sha512-SOyBgTjprATkUDkzMrHZxdlQkSn+X+pB8R54Em5CNbjUNQoRu/yLH6j1YIqjep2cOaaJGiZZ0FeveEdhVVVNJA=="
    }
@@ -194,7 +194,7 @@
     "com.unity.modules.uielements": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils/com.riseon.utils-1.0.3.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils/1.0.3/com.riseon.utils-1.0.3.tgz",
     "shasum": "257dca16570ec107eb23b61552abc13005325f03",
     "integrity": "sha512-GlPz4ZRTA7lsSkIy/F7zBDt9d5NzFlL4uclsm1Htp7vOwnr1oWhbGY8MLAyB/i9lT7rBv9z7iij0slIx12sp+g=="
    }
@@ -212,7 +212,7 @@
     "com.unity.modules.uielements": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils/com.riseon.utils-1.0.2.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils/1.0.2/com.riseon.utils-1.0.2.tgz",
     "shasum": "94b18ec0663a8cbca5034fdc5f2db38386973fd9",
     "integrity": "sha512-ueaYmavbSkH+g+NrWLOH6AYSs2VzouAaDTwzIxwqHlC32tmhqin1mOyULqNav26/RKwbIvoOAfUTuD9aEdbL5A=="
    }
@@ -230,7 +230,7 @@
     "com.unity.modules.uielements": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils/com.riseon.utils-1.0.1.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils/1.0.1/com.riseon.utils-1.0.1.tgz",
     "shasum": "04e8e7f5d9f40ec1a0f0cd5f818f09b6a983001e",
     "integrity": "sha512-O6yGGcsrnMWHqAtklclNnbHuCWZD+QeF9w9l0hX2j5uU+bJdWL8wXI4SSSy/mA1Q3iy4fKdO/yFULZGhQzeVWQ=="
    }
@@ -248,7 +248,7 @@
     "com.unity.modules.uielements": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils/com.riseon.utils-1.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils/1.0.0/com.riseon.utils-1.0.0.tgz",
     "shasum": "287ddb2219609ea96388de2828432701e15a23ff",
     "integrity": "sha512-xAO7Fd05vs4aum/40xF0jSp8cbxb42/Zsbbekg8A4Ld/WYShzwjzf7k90UPr06OEvKfoqPIs1Lp9ITNQ+lyniQ=="
    }
@@ -266,7 +266,7 @@
     "com.unity.modules.uielements": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils/com.riseon.utils-1.0.15.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils/1.0.15/com.riseon.utils-1.0.15.tgz",
     "shasum": "1d10eaa7129e8fbd6cd59d7e37abce329a1ef0d0",
     "integrity": "sha512-yywQP2wlKtaByQXRyFY2qvLDX8RP+91SweJpnxxPY7sJd/FpkAvRJE3mo8SPqk+RCmr/wJ6jRqnX//X3pQSKMQ=="
    }
@@ -284,7 +284,7 @@
     "com.unity.modules.uielements": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils/com.riseon.utils-1.0.16.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils/1.0.16/com.riseon.utils-1.0.16.tgz",
     "shasum": "966463d1dd035ff32b7216bf1b4d386b7e5b99fd",
     "integrity": "sha512-gP67Oity0S3Au6Qu7ZMTapkPZZojZHONzzMIoiDtlgb7al0Huy/psnIBbn/KBKPpuOfbmEqQq8EvhDuNzrX39w=="
    }
@@ -302,7 +302,7 @@
     "com.unity.modules.uielements": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils/com.riseon.utils-1.0.17.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils/1.0.17/com.riseon.utils-1.0.17.tgz",
     "shasum": "97a8fa6f8c5526f314f62c779f1506a97de044ea",
     "integrity": "sha512-s+w0CgAhbr4jAviFTOoODkHV4XViPVSZnzgGWJ8ScjxsOMKWrJFSf/VU0Bloe9+6QeUJqWSibkRUgi/pMW4t1A=="
    }
@@ -321,7 +321,7 @@
     "com.unity.modules.uielements": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils/com.riseon.utils-1.0.18.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils/1.0.18/com.riseon.utils-1.0.18.tgz",
     "shasum": "456daf7c9a080c0c4844c06b356f8ce62b4c789c",
     "integrity": "sha512-o2DVOyJX2xuzIkW3MqdyCoDTxFAoEJQyF1b06vUGp/bSkmFeNZpMz9eS40v2eHgOv0rtIiv0DT4TFQj6pI5ndQ=="
    }
@@ -340,7 +340,7 @@
     "com.unity.modules.uielements": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.utils/com.riseon.utils-2.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Utils/releases/download/com.riseon.utils/2.0.0/com.riseon.utils-2.0.0.tgz",
     "shasum": "53fde04b8ba3beea9e9cb08b1713323fc28cbc88",
     "integrity": "sha512-4CxlEDqiS9BQKqgniO1Gsznal5Irh9ly14nQec8svuSlr0DIIA92Jhi17iDz3vevsUSBouZdP2yQIRJoO4Acrw=="
    }

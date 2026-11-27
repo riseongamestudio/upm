@@ -19,7 +19,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.ads/com.riseon.ads-1.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Ads/releases/download/com.riseon.ads/1.0.0/com.riseon.ads-1.0.0.tgz",
     "shasum": "da01860ffdb37b72ebc4e9c13c9c3ab45a12be75",
     "integrity": "sha512-gnJPPlqWYXmvnOdGpX2Qx7pfod/vBDfAt8zxWFeR7kBfdE3stiazlMHkPT/a//cDScfYlsXH44GKmeMz+qtX6w=="
    }
@@ -42,7 +42,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.ads/com.riseon.ads-1.0.1.tgz",
+    "tarball": "https://github.com/riseongamestudio/Ads/releases/download/com.riseon.ads/1.0.1/com.riseon.ads-1.0.1.tgz",
     "shasum": "45a92641b8498d5923f293e4fb2afe3b9c6378e6",
     "integrity": "sha512-/e+Ynfdq+vMBlPSje+A1oN/Q6eQwfuofWwoun1AUo+77uPp8I8FC5fJefHeAV2xUqJYPMnwrf1sylhDFtcweTA=="
    }
@@ -65,7 +65,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.ads/com.riseon.ads-2.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Ads/releases/download/com.riseon.ads/2.0.0/com.riseon.ads-2.0.0.tgz",
     "shasum": "cfb4dd02de8e5b9e779bc3bb3c2fe2d6e2af473d",
     "integrity": "sha512-zjdn/9HvZrQQe2Q3n0npn6vm0L+9Fdgf+QtqoR7/XGTwpNZUc/5EPI0JYkt2F1FWikKKc4uZ5kof7pcBXkVerw=="
    }
@@ -88,7 +88,7 @@
     "com.unity.ugui": "2.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.ads/com.riseon.ads-3.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Ads/releases/download/com.riseon.ads/3.0.0/com.riseon.ads-3.0.0.tgz",
     "shasum": "14f96b78c6f273f2be1dc4eed472edb3d886dcbb",
     "integrity": "sha512-Wq/OLIZS+Q9V71PgJYWcl5Mb3q0AhCA5UuDT/mQYBuAQE51QlNaRGNsfbmz+/cIA0yZWQ8kWXH26BT0rh1RLHQ=="
    }

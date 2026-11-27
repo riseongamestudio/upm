@@ -11,7 +11,7 @@
     "name": "RiseOn"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.adimpression/com.riseon.adimpression-1.0.3.tgz",
+    "tarball": "https://github.com/riseongamestudio/AdImpression/releases/download/v1.0.3/com.riseon.adimpression-1.0.3.tgz",
     "shasum": "9ab2c3e17460ed5776062b8320029bf74846f40f",
     "integrity": "sha512-VMcosAU2noN1VdbGmobOm2a9B+2D4xdL9NQwIGzdylAbJvRNUkjlTXed+kwl1DeA3SKgN8h26/nBAr0Icgw2Jg=="
    }
@@ -26,7 +26,7 @@
     "name": "RiseOn"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.adimpression/com.riseon.adimpression-1.0.2.tgz",
+    "tarball": "https://github.com/riseongamestudio/AdImpression/releases/download/v1.0.2/com.riseon.adimpression-1.0.2.tgz",
     "shasum": "cb749436bdd5b95da16de7bbd53fcbbf2325054f",
     "integrity": "sha512-IATyaotkWQ9RusbJcJrUmMMP52uvcDgkpX8R1IaneDERVBUTeMX2m64Sr0mqvbuhBokzCllQ2MG0s/sojiV7XQ=="
    }
@@ -40,7 +40,7 @@
     "name": "RiseOn"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.adimpression/com.riseon.adimpression-1.0.1.tgz",
+    "tarball": "https://github.com/riseongamestudio/AdImpression/releases/download/v1.0.1/com.riseon.adimpression-1.0.1.tgz",
     "shasum": "8cfa6736c54491992b0f1cbdfd3ffc427123a78d",
     "integrity": "sha512-ob+ASrsmhi73gxffFl8mu9hSvzl0VQCLGsyBTDEo91lsPpyDUr+VORskLWAAM1qOP8HAyQb6Q1/e3JNqVD/j/A=="
    }
@@ -51,7 +51,7 @@
    "displayName": "AdImpression",
    "description": "Unified ad impression revenue data with adapters for AppLovin MAX, AdMob, NativeAdMob and AppsFlyer",
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.adimpression/com.riseon.adimpression-1.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/AdImpression/releases/download/v1.0.0/com.riseon.adimpression-1.0.0.tgz",
     "shasum": "dea2d853b5d448f29b1db30d83faea854e7d4cf8",
     "integrity": "sha512-pwt1aMic/uLjoRWsXXkKhS9JbsqtSj0j3jFzhGcTV/IM+RDvruoydT+3Kj2y4R2MUojhKbvrU73yR/mviUkDaQ=="
    }

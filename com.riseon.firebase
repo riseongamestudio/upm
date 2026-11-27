@@ -17,7 +17,7 @@
     "com.cysharp.unitask": "2.5.11"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.firebase/com.riseon.firebase-1.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Firebase/releases/download/com.riseon.firebase/1.0.0/com.riseon.firebase-1.0.0.tgz",
     "shasum": "099fc7f2229d89b27a73ab40a223ffd197a6d6b0",
     "integrity": "sha512-mjhKtTM/XVJCa24kYeOjCtCmn4rEz3LZATIchM8CtrS7Rv0z8SkdrWy+PTDrP+LNo2HM02Pj2cxAdUgPQwPmiw=="
    }
@@ -38,7 +38,7 @@
     "com.cysharp.unitask": "2.5.11"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.firebase/com.riseon.firebase-1.0.1.tgz",
+    "tarball": "https://github.com/riseongamestudio/Firebase/releases/download/com.riseon.firebase/1.0.1/com.riseon.firebase-1.0.1.tgz",
     "shasum": "fbe448f57695bd73d950a4acabca00f85002efe7",
     "integrity": "sha512-2KcssUkv/IUoN1z0PyShhiBJQURNYwRuQrvn/lwBxubvBFDzNY8nPu1re1i5s5D6SY859KWwiaV7TIQ6pxHP/Q=="
    }
@@ -59,7 +59,7 @@
     "com.cysharp.unitask": "2.5.11"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.firebase/com.riseon.firebase-1.0.2.tgz",
+    "tarball": "https://github.com/riseongamestudio/Firebase/releases/download/com.riseon.firebase/1.0.2/com.riseon.firebase-1.0.2.tgz",
     "shasum": "1b4c0e21946d43c15c2ea9f37140bec6a1c2be1a",
     "integrity": "sha512-gRb2C7PHi4wV6rrUQOSVumM5LEdgmo1Ebz74Xq/vbjlMAEiEPVBxub5O68Cgv2P9RMxqMu8EXmGUQmQKCkAP3Q=="
    }
@@ -80,7 +80,7 @@
     "com.cysharp.unitask": "2.5.11"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.firebase/com.riseon.firebase-1.0.3.tgz",
+    "tarball": "https://github.com/riseongamestudio/Firebase/releases/download/com.riseon.firebase/1.0.3/com.riseon.firebase-1.0.3.tgz",
     "shasum": "d79bf6f28e3f8498bff3053e9088f464941e6e88",
     "integrity": "sha512-zMOjvpdfFOBuk64FX52ghsvbTsjzOWyOdS/2TGV2biE/N9uJv/XTQtprgA8yh8XO/0GxJmP1F93Wx8sTJcSrmQ=="
    }

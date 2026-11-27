@@ -14,7 +14,7 @@
     "com.riseon.serializables": "1.0.1"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.propositions/com.riseon.propositions-1.0.3.tgz",
+    "tarball": "https://github.com/riseongamestudio/Propositions/releases/download/v1.0.3/com.riseon.propositions-1.0.3.tgz",
     "shasum": "407774761fd156f63858b77184a45d4e68ec1c88",
     "integrity": "sha512-X3xQqRR/Sp/oxZ8+0NV+7awNBZBV4ZEzE5nvU14+nrvCtx7PqxnyemPbC8TL/dyRQdOXbtQNHlRAPGy6nnqFAg=="
    }
@@ -32,7 +32,7 @@
     "com.riseon.serializables": "1.0.1"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.propositions/com.riseon.propositions-1.0.2.tgz",
+    "tarball": "https://github.com/riseongamestudio/Propositions/releases/download/v1.0.2/com.riseon.propositions-1.0.2.tgz",
     "shasum": "589e16125ca5d8b9e2933dd40ecb872b1e84d7e1",
     "integrity": "sha512-AjelUYX26UU8Aw871OPB0TRLE+KCV1+KiNppScNgPLJWBLc9KZM/iUoWFA4K7ewgJRim/wECK+wmXUOcdFJizg=="
    }
@@ -50,7 +50,7 @@
     "com.riseon.serializables": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.propositions/com.riseon.propositions-1.0.1.tgz",
+    "tarball": "https://github.com/riseongamestudio/Propositions/releases/download/v1.0.1/com.riseon.propositions-1.0.1.tgz",
     "shasum": "2e64fc4f981144094d9fb37b0aefe39345b30ba6",
     "integrity": "sha512-6kXtHv1QS+NRIhh/vmj58XwK4rEudAr+bsITbwOc1qslDD98B6CsQCktM8Quo8QxHtirgENhNUxRRDOyBnYh9w=="
    }
@@ -68,7 +68,7 @@
     "com.riseon.serializables": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.propositions/com.riseon.propositions-1.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Propositions/releases/download/v1.0.0/com.riseon.propositions-1.0.0.tgz",
     "shasum": "2fd68119423b99e0ead2eaaf4e2bef9ab394baff",
     "integrity": "sha512-2XjQLy28WnDzQ3T893t3pq5CdR3uIhYDkHUHoESl+h1ojGCZWQ8pnpBCausDYksMXI4AQPSNxN+/l6yRo3cj7g=="
    }
@@ -86,7 +86,7 @@
     "com.riseon.serializables": "1.0.1"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.propositions/com.riseon.propositions-2.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Propositions/releases/download/v2.0.0/com.riseon.propositions-2.0.0.tgz",
     "shasum": "a625d12079ffc5a103ffb19d3ca1ba6e6e04f519",
     "integrity": "sha512-myV9SuYTDsmLH4GpQ6LOgoLBD0JxePflMQVaEFqY5wIVjQlVBhDGGr6jhNkj+VpNPT63fx4TDug06LbyqYkQ4g=="
    }
@@ -105,7 +105,7 @@
     "com.riseon.serializables": "1.0.5"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.propositions/com.riseon.propositions-2.0.1.tgz",
+    "tarball": "https://github.com/riseongamestudio/Propositions/releases/download/v2.0.1/com.riseon.propositions-2.0.1.tgz",
     "shasum": "202c3a9527fe0972452ff592babf6c4bbdf8bce1",
     "integrity": "sha512-2oEZyJiP3Vcsm9II2uhp1XKHttvNEA/J76Po19LqsoHYUw6OYPwlJIPlS8Znx0hhZO3fdgcf/rg3LhSKFMDt+g=="
    }

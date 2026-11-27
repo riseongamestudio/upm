@@ -23,7 +23,7 @@
     "com.google.firebase.auth": "13.17.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-13.17.0/com.google.firebase.storage-13.17.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/FirebaseMirror/releases/download/13.17.0/com.google.firebase.storage-13.17.0.tgz",
     "shasum": "425a38bb5ee3bedd607143ece8cfc45a1e2105c1",
     "integrity": "sha512-LkMYkjm+eDWbTYylO8FcpN4poFK+NUMJjJT7GkmkWcRM69bOOobhHhVrqvubVisNilje2xA7/AOQ9d6FAx0iDA=="
    }
@@ -50,7 +50,7 @@
     "com.google.firebase.auth": "13.17.1"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-13.17.1/com.google.firebase.storage-13.17.1.tgz",
+    "tarball": "https://github.com/riseongamestudio/FirebaseMirror/releases/download/13.17.1/com.google.firebase.storage-13.17.1.tgz",
     "shasum": "65665d772b0bda7f87ea7f6ba12c2557b6b66d8c",
     "integrity": "sha512-2bkrxavKT1xX9DaOWFe8pAofO46xQFQS5kLLMzrAEAoxac6FKjTV3nFJoDYrjzcvHs+u9MTHlHkFBva5El1Gzw=="
    }
@@ -77,7 +77,7 @@
     "com.google.firebase.auth": "14.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.0.0/com.google.firebase.storage-14.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/FirebaseMirror/releases/download/14.0.0/com.google.firebase.storage-14.0.0.tgz",
     "shasum": "2cda02fa7d154fb9376c5e0ae364ef406ec01f35",
     "integrity": "sha512-Hg3feVTKMRxoozxrfMzlwuOkN/mrCO6ex1arjcCgCZwwOszQRLeIa1I3Oq0GMqpDmtF+JYsrgF9jLW5sGbPj+g=="
    }
@@ -104,7 +104,7 @@
     "com.google.firebase.auth": "14.1.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.1.0/com.google.firebase.storage-14.1.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/FirebaseMirror/releases/download/14.1.0/com.google.firebase.storage-14.1.0.tgz",
     "shasum": "c06e80b7fd2588299686c9ea22d752f8d02c1af0",
     "integrity": "sha512-Ho3cpTpWA1QtKRNFO42bAhIykgYVR+SZaC5lFIb1wYroJU50dA4KmtvuR4Snme0Bhyr1Osj7+V2zp7QlJQuo0g=="
    }
@@ -131,7 +131,7 @@
     "com.google.firebase.auth": "14.2.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.2.0/com.google.firebase.storage-14.2.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/FirebaseMirror/releases/download/14.2.0/com.google.firebase.storage-14.2.0.tgz",
     "shasum": "0d8a9206637f3e41b64af78644afb4581d3e94dd",
     "integrity": "sha512-evNioRlieqFJCOBjlfpSYmlYoq1DCuUttibI2VIM4q1/UqRAcvSe0nM1jjIq8+0dnDxGQxCFCi1RBtiidSaX2w=="
    }

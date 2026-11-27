@@ -14,7 +14,7 @@
     "com.unity.modules.androidjni": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.vibration/com.riseon.vibration-1.0.1.tgz",
+    "tarball": "https://github.com/riseongamestudio/Vibration/releases/download/v1.0.1/com.riseon.vibration-1.0.1.tgz",
     "shasum": "8ffadf1b457c45a26846763a742aaa22bc9a70d5",
     "integrity": "sha512-6vvs2mlPfopFa/sUOIE0/cb/mcm6ZRZDRWE2593qnMtVSQT5LxevNsyZnoM/vEkWoMxPKqSV5aT7W5kqTupRSw=="
    }
@@ -32,7 +32,7 @@
     "com.unity.modules.androidjni": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.vibration/com.riseon.vibration-1.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Vibration/releases/download/v1.0.0/com.riseon.vibration-1.0.0.tgz",
     "shasum": "8166bdc4f85316483e2789ff1f53b8f5a77037e7",
     "integrity": "sha512-7o1YP95/zHwnUxD3+KggMkEcHV/elhYbCgWr5/JOP/nJn9SkAbk0Vy3gYXDMZC5CDl1ugPx14uTahaxgQ4l7qg=="
    }
@@ -50,7 +50,7 @@
     "com.unity.modules.androidjni": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.vibration/com.riseon.vibration-2.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Vibration/releases/download/v2.0.0/com.riseon.vibration-2.0.0.tgz",
     "shasum": "7d46c227f65ec65ee1e452dad4ea9689d35c6ca8",
     "integrity": "sha512-UvgDQLWd8BBB8qcpwAUNL4wnRrfad2+vpoNktohA8ahsXhAjU94nlhCW9seOYVtmVf3sAcQBFSvRhtsGpLKQTw=="
    }
@@ -69,7 +69,7 @@
     "com.unity.modules.androidjni": "1.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.vibration/com.riseon.vibration-2.0.1.tgz",
+    "tarball": "https://github.com/riseongamestudio/Vibration/releases/download/v2.0.1/com.riseon.vibration-2.0.1.tgz",
     "shasum": "14c75ac419dedbf15b607a14cc86b0ab23d56d7e",
     "integrity": "sha512-RKBT7hp4Fl4Chs2YdI7yRQDrxZo/Wy9EmMbg295LKXzajVBh1nC//7XoNSkLA3HdBVSFbBj0h1x/3fAMIBL1xw=="
    }

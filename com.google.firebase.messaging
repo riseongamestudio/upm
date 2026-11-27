@@ -23,7 +23,7 @@
     "com.google.firebase.app": "13.17.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-13.17.0/com.google.firebase.messaging-13.17.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/FirebaseMirror/releases/download/13.17.0/com.google.firebase.messaging-13.17.0.tgz",
     "shasum": "8bdbee4789807cbdc4406d64a58a81b045cdd54c",
     "integrity": "sha512-2d5iS0QwgAOWFtGOUfFRqNxovLBLcLxuzifCbNax3CpdsVORX5EQ0eZR7Obfyi8G4rwi5s+98oPMNPbgkWWDzw=="
    }
@@ -50,7 +50,7 @@
     "com.google.firebase.app": "13.17.1"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-13.17.1/com.google.firebase.messaging-13.17.1.tgz",
+    "tarball": "https://github.com/riseongamestudio/FirebaseMirror/releases/download/13.17.1/com.google.firebase.messaging-13.17.1.tgz",
     "shasum": "7e0eba3ace9bdef4844960a2ce3c8f6fda0847a9",
     "integrity": "sha512-EsmkAj1wtfhZKC2KXsSiZm1czJ9fMeTZ+pqfddlRPlY4A96xjEBWrZpx/8mRheGF+OrqcrlT1JqWamhE7b/OuQ=="
    }
@@ -77,7 +77,7 @@
     "com.google.firebase.app": "14.0.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.0.0/com.google.firebase.messaging-14.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/FirebaseMirror/releases/download/14.0.0/com.google.firebase.messaging-14.0.0.tgz",
     "shasum": "5421aadb5e845ec2e2dbf91271b96535c3954d0f",
     "integrity": "sha512-nnsuj5Y2KNkemOavUnbVWlNP4k5NTGqzmDdzNwj/9y/ogzs5JNE8a9ex1zvN7ulAFpITrituNkUlhXga/3paTw=="
    }
@@ -104,7 +104,7 @@
     "com.google.firebase.app": "14.1.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.1.0/com.google.firebase.messaging-14.1.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/FirebaseMirror/releases/download/14.1.0/com.google.firebase.messaging-14.1.0.tgz",
     "shasum": "c61f61f68270fb428a552988c71451e1e6070c87",
     "integrity": "sha512-EySeruY0GItcD0aUGCZkHi/hpLMD0u+29WtWQXdZvAdP0jhln9Add4crVQScULXGRDtQk1H6zajcK+nM6o54ew=="
    }
@@ -131,7 +131,7 @@
     "com.google.firebase.app": "14.2.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/firebase-14.2.0/com.google.firebase.messaging-14.2.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/FirebaseMirror/releases/download/14.2.0/com.google.firebase.messaging-14.2.0.tgz",
     "shasum": "43ad99d56248f8bdad8d67305a7215feebf6fa0d",
     "integrity": "sha512-RUyn8PddOqmKnDJCkw2YYVzUV5TpdVyFbONynRfox7UEApYlAVZZUnyGnnAtlpuWZ3sOM+NVZNbgvCJZpMinVA=="
    }

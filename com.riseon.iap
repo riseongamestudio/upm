@@ -18,7 +18,7 @@
     "com.cysharp.unitask": "2.5.11"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.iap/com.riseon.iap-1.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/IAP/releases/download/v1.0.0/com.riseon.iap-1.0.0.tgz",
     "shasum": "627ab85a68a69d92facb1e08a5cb64817f0a6b24",
     "integrity": "sha512-4F2AWQHJLb12E2rhSdDt5fZRAtOuFxIBRzyIg+pIyRcZGfNJ/vbAsfDo0GR5XAHQoDfvl8ErJnX0Xa1R9CMboQ=="
    }
@@ -40,7 +40,7 @@
     "com.cysharp.unitask": "2.5.11"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.iap/com.riseon.iap-1.0.1.tgz",
+    "tarball": "https://github.com/riseongamestudio/IAP/releases/download/v1.0.1/com.riseon.iap-1.0.1.tgz",
     "shasum": "f7eb26bef84e857e3d2af4cc35d777b1a73e4047",
     "integrity": "sha512-Gz4gvFy3tAgBvmr4p22/mnPbq3lmbjgIGCdZNEKboFugr3vxL//tQe0zPl37Jsnhlq3QZZqyOHzHnndmw5W/tA=="
    }
@@ -62,7 +62,7 @@
     "com.cysharp.unitask": "2.5.11"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.iap/com.riseon.iap-2.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/IAP/releases/download/v2.0.0/com.riseon.iap-2.0.0.tgz",
     "shasum": "fe8a008ecd692b121247624f20ca069e38dfacb0",
     "integrity": "sha512-oo7bn9IxTH3JgEZa3IzD6eKfhgg8GShQXJ+45Yl9b/CzgifHFqHBxlsPfIfOnSOXSocDBR7c8mcBkH1Y2ac+tw=="
    }
@@ -84,7 +84,7 @@
     "com.cysharp.unitask": "2.5.11"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.iap/com.riseon.iap-3.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/IAP/releases/download/v3.0.0/com.riseon.iap-3.0.0.tgz",
     "shasum": "2022927f291039575731483b009606356941fc35",
     "integrity": "sha512-loDEj/ESZiHdPmUcjVo1F+11C/PtwdqeplVveR7Pq5NhwZrBa6tug+tfnZrB/nll2rxlN0wJpR6FNlDRbMYLig=="
    }

@@ -18,7 +18,7 @@
     "com.google.ads.mobile": "11.5.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.ads.admob/com.riseon.ads.admob-1.0.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Ads/releases/download/com.riseon.ads.admob/1.0.0/com.riseon.ads.admob-1.0.0.tgz",
     "shasum": "844f9b827060cdb5f5308cb83fae847780b825f4",
     "integrity": "sha512-2wg47Fs4Z3SsENUqjX/gSZgzOqLBpSBTosrHB+5z/cIpmt90dl3sRD8Q548+WxZmy2eqqzGKA7VF6iWGLSI4vw=="
    }
@@ -40,7 +40,7 @@
     "com.google.ads.mobile": "11.5.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.ads.admob/com.riseon.ads.admob-1.0.1.tgz",
+    "tarball": "https://github.com/riseongamestudio/Ads/releases/download/com.riseon.ads.admob/1.0.1/com.riseon.ads.admob-1.0.1.tgz",
     "shasum": "98acf490b4000737c62045fdce434430025d3448",
     "integrity": "sha512-K1wfXpmumB66gCd8u/G5dPjRpbmrZmdYs+EXAnJmzvzhLguLGOm2SVWlo84yKKTU6s+vWcZ+2TVa04v89OBEmw=="
    }
@@ -62,7 +62,7 @@
     "com.google.ads.mobile": "11.5.0"
    },
    "dist": {
-    "tarball": "https://github.com/riseongamestudio/upm/releases/download/com.riseon.ads.admob/com.riseon.ads.admob-1.1.0.tgz",
+    "tarball": "https://github.com/riseongamestudio/Ads/releases/download/com.riseon.ads.admob/1.1.0/com.riseon.ads.admob-1.1.0.tgz",
     "shasum": "7f72731794b73c2cbb862e81253190c452fede68",
     "integrity": "sha512-IhqCquBIp6US0a9hAORVJL0QQ43FHyaHAb+cUyfx48QDhM+cORAtwcuWqVVs37KoonQPlmE15QE8MFX9atfa9w=="
    }
