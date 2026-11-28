@@ -75,3 +75,21 @@ Mọi pack RiseOn đều cần Odin: mọi asmdef có `ODIN_INSPECTOR` trong `de
 3. Thêm `"com.riseon.<tên viết thường>": "file:D:/Unity/Projects/<tên repo>"` vào `Packages/manifest.json` của PackageSandbox rồi mở project đó: Unity sinh file `.meta` cho pack. Commit cả các file `.meta`. Template không chứa `.meta` để hai pack tạo từ nó không trùng GUID.
 4. Thêm repo vào `SOURCES` trong `index.py`, rồi push lên repo này. Repo không có trong `SOURCES` thì không bao giờ lên registry. Workflow `Release` có sẵn trong template.
 5. Phát hành như mục trên.
+
+### Repo nhiều pack
+
+Template tạo repo một pack ở gốc. Repo chứa nhiều pack (như Firebase, Analytics) thì làm thêm sau bước 2 (đổi tên):
+
+1. `git mv` `package.json`, `Runtime`, `Editor`, `README.md`, `CHANGELOG.md`, `LICENSE.md` vào một thư mục ngay dưới gốc, ví dụ `Core`. Thư mục sâu hơn một cấp thì workflow `Release` không tìm thấy pack.
+2. Mỗi pack sau của repo là một thư mục ngay dưới gốc như vậy: chép bộ file trên của template vào, rồi đổi tên như bước 2 theo tên pack đó.
+3. Ở gốc, viết `README.md` mới liệt kê các pack của repo và thêm `LICENSE.md`, như repo Firebase.
+4. Đường dẫn `file:` ở bước 3 (PackageSandbox) trỏ vào thư mục của từng pack: `file:D:/Unity/Projects/<tên repo>/Core`.
+5. Phát hành mỗi pack bằng tag `<tên gói>/<version>`.
+
+Cả repo chỉ có một `release.yml` (có sẵn từ template) và một dòng trong `SOURCES`; không thêm cho từng pack.
+
+## Thêm repo mirror mới
+
+Mirror là repo đưa gói của hãng khác lên registry này, như FirebaseMirror. Tạo repo từ template [`riseongamestudio/MirrorTemplate`](https://github.com/riseongamestudio/MirrorTemplate) rồi làm theo README của template: workflow, bước gọi `Index` và phần tạo Release có sẵn, chỉ còn viết phần lấy danh sách version của hãng, rồi thêm repo vào `SOURCES` trong `index.py`.
+
+Thêm repo vào bảng nguồn ở đầu README này. Gói của hãng mới có scope mới (như `appsflyer-unity-plugin`) thì thêm scope đó vào `scopes` của registry RiseOn ở mục [Dùng trong project](#dùng-trong-project), và vào `Packages/manifest.json` của mọi game dùng gói; thiếu scope thì Unity không tìm gói ở registry này.
