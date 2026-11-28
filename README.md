@@ -8,7 +8,7 @@ Registry UPM tĩnh của RiseOn. Repo này chỉ dựng chỉ mục, không ch�
 | [FirebaseMirror](https://github.com/riseongamestudio/FirebaseMirror) | 13 gói `com.google.firebase.*`, mọi version Google còn cho tải | Một Release cho mỗi version Firebase |
 | [AppsFlyerMirror](https://github.com/riseongamestudio/AppsFlyerMirror) | `appsflyer-unity-plugin` | Một Release cho mỗi version |
 
-Workflow `Index` chạy 5 phút một lần (GitHub có thể chạy trễ hoặc bỏ lượt). Nó đọc Release của các repo trong `SOURCES` ở `index.py`, thêm version mới vào packument ở nhánh `registry`, rồi deploy GitHub Pages. Muốn có ngay thì chạy tay bằng Actions > Index > Run workflow.
+Workflow `Index` chạy ngay khi một repo pack hay repo mirror tạo Release, và theo lịch 5 phút một lần để chạy bù (GitHub thường chỉ chạy lịch này vài giờ một lần). Nó đọc Release của các repo trong `SOURCES` ở `index.py`, thêm version mới vào packument ở nhánh `registry`, rồi deploy GitHub Pages. Muốn có ngay thì chạy tay bằng Actions > Index > Run workflow.
 
 ## Dùng trong project
 
@@ -44,7 +44,7 @@ Mục OpenUPM là cho các gói mà pack RiseOn và Firebase phụ thuộc: UniT
 | Một pack, ở gốc repo | `v<version>`, ví dụ `v1.0.2` |
 | Nhiều pack, mỗi pack một thư mục | `<tên gói>/<version>`, ví dụ `com.riseon.utils/1.0.13` |
 
-Phát hành một version: tăng `version` trong `package.json`, commit, push tag. Workflow `Release` của repo pack (file `.github/workflows/release.yml`, gọi `pack-release.yml` của repo này) đóng gói thư mục của pack tại tag đó thành Release của repo pack. Lượt chạy `Index` kế tiếp đưa nó lên registry.
+Phát hành một version: tăng `version` trong `package.json`, commit, push tag. Workflow `Release` của repo pack (file `.github/workflows/release.yml`, gọi `pack-release.yml` của repo này) đóng gói thư mục của pack tại tag đó thành Release của repo pack. Xong, workflow đó gọi `Index` để đưa version lên registry. Push mỗi tag một lệnh `git push origin <tag>`: GitHub không tạo sự kiện nào khi một lần push có quá ba tag, nên workflow không chạy. Hai việc cần secret `UPM_INDEX_TOKEN` của tổ chức (fine-grained token, quyền Actions ghi trên repo này) và `secrets: inherit` trong `release.yml` của repo pack.
 
 Mọi pack RiseOn đều cần Odin: mọi asmdef có `ODIN_INSPECTOR` trong `defineConstraints`, trừ assembly `*.Requirements` báo thiếu Odin. Trước khi push tag:
 
