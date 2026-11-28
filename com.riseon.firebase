@@ -105,17 +105,39 @@
     "shasum": "bd75c73369bfed53ada3b79eb94e6b5548839d5e",
     "integrity": "sha512-ZjCe8jxdLfKOACe7IsXRj6Tq16+jBNc6lFY1Zji/bpb6ahzDJO6ioucDoq6RJknHNCrvxR46UDen6L/OpRHaNw=="
    }
+  },
+  "2.0.0": {
+   "name": "com.riseon.firebase",
+   "version": "2.0.0",
+   "displayName": "RiseOn Firebase",
+   "description": "Starts Firebase on its own at launch: App Check and log level from the project settings, the Google Play services check, and any failure handed to one handler in the game",
+   "unity": "6000.3",
+   "documentationUrl": "https://github.com/riseongamestudio/Firebase/blob/com.riseon.firebase/1.0.3/Core/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.google.firebase.app": "13.17.0",
+    "com.riseon.utils": "2.1.0",
+    "com.cysharp.unitask": "2.5.11"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/Firebase/releases/download/com.riseon.firebase/2.0.0/com.riseon.firebase-2.0.0.tgz",
+    "shasum": "bd2661e609ba251d23805124f0ab1e6616271d55",
+    "integrity": "sha512-cF68RqgoDTUnYd1QCmlkO8MkMlRflbhV6SaTdd67p/kh56BdRRTEQelCFy/vkxyqcCH9zhLoU+7kWzy8xQArpQ=="
+   }
   }
  },
  "time": {
   "1.0.0": "2026-11-20T12:25:51.000Z",
-  "modified": "2026-11-27T13:48:53.000Z",
+  "modified": "2026-11-28T11:00:06.000Z",
   "1.0.1": "2026-11-20T13:00:36.000Z",
   "1.0.2": "2026-11-20T14:39:45.000Z",
   "1.0.3": "2026-11-26T16:32:01.000Z",
-  "1.0.4": "2026-11-27T13:48:53.000Z"
+  "1.0.4": "2026-11-27T13:48:53.000Z",
+  "2.0.0": "2026-11-28T11:00:06.000Z"
  },
  "dist-tags": {
-  "latest": "1.0.4"
+  "latest": "2.0.0"
  }
 }

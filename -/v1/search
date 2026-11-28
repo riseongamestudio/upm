@@ -195,8 +195,8 @@
   {
    "package": {
     "name": "com.riseon.firebase",
-    "version": "1.0.4",
-    "date": "2026-11-27T13:48:53.000Z",
+    "version": "2.0.0",
+    "date": "2026-11-28T11:00:06.000Z",
     "description": "Starts Firebase on its own at launch: App Check and log level from the project settings, the Google Play services check, and any failure handed to one handler in the game"
    }
   },
