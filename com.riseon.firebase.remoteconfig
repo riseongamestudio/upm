@@ -88,16 +88,39 @@
     "shasum": "268e24fb63d0758e48ac3ef549d50085c499eb00",
     "integrity": "sha512-yCOS6ueIA4PmqNVwUMBzUjGa6VMK6BQnHA3gYqsOb8DfEHzN3WUFVQb5ksA1gtOIhfceoZwRYmwQKfvJUY3tRA=="
    }
+  },
+  "3.0.0": {
+   "name": "com.riseon.firebase.remoteconfig",
+   "version": "3.0.0",
+   "displayName": "RiseOn Firebase Remote Config",
+   "description": "Remote Config declared in Project Settings: typed values with an enum per key, a launch fetch that hands any failure to one handler, live parameters, and pull and push with the Firebase console from the Editor",
+   "unity": "6000.3",
+   "documentationUrl": "https://github.com/riseongamestudio/Firebase/blob/com.riseon.firebase.remoteconfig/2.0.1/RemoteConfig/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.firebase": "2.0.0",
+    "com.riseon.utils": "2.0.0",
+    "com.google.firebase.remote-config": "13.17.0",
+    "com.cysharp.unitask": "2.5.11"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/Firebase/releases/download/com.riseon.firebase.remoteconfig/3.0.0/com.riseon.firebase.remoteconfig-3.0.0.tgz",
+    "shasum": "19406036b5babc847b7256f0ee339d690aac3854",
+    "integrity": "sha512-X5I2Xnm0fU2Ule+Y2+4bzewEZHA34vl835RXnHKFvAofV+PW6FC8+OBzcZRdY7C4klixUzij2mOfA3c0dT2V1w=="
+   }
   }
  },
  "time": {
   "1.0.0": "2026-11-20T12:25:54.000Z",
-  "modified": "2026-11-26T16:32:02.000Z",
+  "modified": "2026-11-28T11:00:32.000Z",
   "1.0.1": "2026-11-20T13:00:38.000Z",
   "2.0.0": "2026-11-20T14:39:46.000Z",
-  "2.0.1": "2026-11-26T16:32:02.000Z"
+  "2.0.1": "2026-11-26T16:32:02.000Z",
+  "3.0.0": "2026-11-28T11:00:32.000Z"
  },
  "dist-tags": {
-  "latest": "2.0.1"
+  "latest": "3.0.0"
  }
 }

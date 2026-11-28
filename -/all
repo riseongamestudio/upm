@@ -152,8 +152,8 @@
  },
  "com.riseon.firebase.remoteconfig": {
   "name": "com.riseon.firebase.remoteconfig",
-  "version": "2.0.1",
-  "date": "2026-11-26T16:32:02.000Z",
+  "version": "3.0.0",
+  "date": "2026-11-28T11:00:32.000Z",
   "description": "Remote Config declared in Project Settings: typed values with an enum per key, a launch fetch that hands any failure to one handler, live parameters, and pull and push with the Firebase console from the Editor"
  },
  "com.riseon.iap": {
