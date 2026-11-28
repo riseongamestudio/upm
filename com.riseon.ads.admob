@@ -88,16 +88,39 @@
     "shasum": "e7ae28eb12baaf7a2609a0cb3a0f700a4d31541c",
     "integrity": "sha512-A7stOOMkR8F8cmyju1Rkzil9QSnxjuii6J/451IGTltnz7nIFAyfokqgX02+/5HBITA4PwKHaBaNF/Iq4QkF7w=="
    }
+  },
+  "1.2.1": {
+   "name": "com.riseon.ads.admob",
+   "version": "1.2.1",
+   "displayName": "RiseOn Ads AdMob",
+   "description": "Google AdMob provider for com.riseon.ads: banner, MRec, interstitial, rewarded, rewarded interstitial, app open and the native ad views of com.riseon.ads.admob.native",
+   "unity": "6000.3",
+   "documentationUrl": "https://github.com/riseongamestudio/Ads/blob/com.riseon.ads.admob/1.2.1/AdMob/README.md",
+   "author": {
+    "name": "RiseOn"
+   },
+   "dependencies": {
+    "com.riseon.ads": "4.0.0",
+    "com.riseon.ads.admob.native": "3.1.0",
+    "com.riseon.utils": "2.0.0",
+    "com.google.ads.mobile": "11.5.0"
+   },
+   "dist": {
+    "tarball": "https://github.com/riseongamestudio/Ads/releases/download/com.riseon.ads.admob/1.2.1/com.riseon.ads.admob-1.2.1.tgz",
+    "shasum": "6c4c70fbeb298039855f7c05ec1f62abe423372c",
+    "integrity": "sha512-VFLaayglG98wBwPcFiM7c3S5Tw2fnzrJBRzHlP0OnpYU4uiZ40gpFANlxi2S5+USccOaTP3vE+CGgK6WUeefFg=="
+   }
   }
  },
  "time": {
   "1.0.0": "2026-11-20T12:25:35.000Z",
-  "modified": "2026-11-27T13:48:50.000Z",
+  "modified": "2026-11-28T18:28:08.000Z",
   "1.0.1": "2026-11-20T14:39:37.000Z",
   "1.1.0": "2026-11-26T17:14:57.000Z",
-  "1.2.0": "2026-11-27T13:48:50.000Z"
+  "1.2.0": "2026-11-27T13:48:50.000Z",
+  "1.2.1": "2026-11-28T18:28:08.000Z"
  },
  "dist-tags": {
-  "latest": "1.2.0"
+  "latest": "1.2.1"
  }
 }
