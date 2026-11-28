@@ -134,8 +134,8 @@
  },
  "com.riseon.analytics.firebase": {
   "name": "com.riseon.analytics.firebase",
-  "version": "2.0.0",
-  "date": "2026-11-26T16:31:56.000Z",
+  "version": "2.1.0",
+  "date": "2026-11-28T11:01:23.000Z",
   "description": "Firebase Analytics, which Google calls Google Analytics, as a com.riseon.analytics service: events checked against Firebase's rules in the Editor, ad revenue as ad_impression, App Store purchases logged the way StoreKit 2 needs"
  },
  "com.riseon.consent": {
