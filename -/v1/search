@@ -163,8 +163,8 @@
   {
    "package": {
     "name": "com.riseon.analytics",
-    "version": "2.0.1",
-    "date": "2026-11-27T13:48:51.000Z",
+    "version": "2.1.0",
+    "date": "2026-11-28T11:00:54.000Z",
     "description": "One static API for the game's analytics: events, ad revenue, purchases and user properties go to every installed service, each starting on its own once what it needs is ready and taking only the events the project settings send it"
    }
   },
