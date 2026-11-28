@@ -140,8 +140,8 @@
  },
  "com.riseon.consent": {
   "name": "com.riseon.consent",
-  "version": "2.0.0",
-  "date": "2026-11-26T16:31:59.000Z",
+  "version": "2.1.0",
+  "date": "2026-11-28T10:57:26.000Z",
   "description": "The consent flow every SDK waits for: Google's UMP for GDPR and US-state forms, then App Tracking Transparency on iOS, run on its own at launch"
  },
  "com.riseon.firebase": {
